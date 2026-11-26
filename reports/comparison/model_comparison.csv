@@ -1,0 +1,3 @@
+Model,Multiclass Accuracy,Macro Precision,Macro Recall,Macro F1,Binary Accuracy,Fraud Precision,Fraud Recall,Fraud F1,Digital Arrest Recall,False Positive Rate,False Positives,False Negatives,True Positives,True Negatives
+Model V1,68.0,69.33766233766234,68.0,67.54621848739497,84.0,90.0,90.0,90.0,60.0,40.0,4,4,36,6
+Model V2,80.0,82.34126984126983,80.0,79.79328892641587,90.0,92.6829268292683,95.0,93.82716049382715,90.0,30.0,3,2,38,7

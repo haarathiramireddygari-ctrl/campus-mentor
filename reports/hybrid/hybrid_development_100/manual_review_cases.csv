@@ -1,0 +1,53 @@
+message,source,actual_category,predicted_category,ml_category,actual_fraud,fraud_alert,manual_review,triage_flag,ml_fraud_score,rule_score,hybrid_risk_score,risk_level,decision,uncertain,indicator_count
+I called the hospital myself and the receptionist told me which counter handles billing.,Call,Legitimate,Unknown,Legitimate,0,0,1,1,68.51,0,68.51,High,Manual Verification Required,True,0
+The payment receipt is now visible in the official store app.,SMS,Legitimate,Unknown,Legitimate,0,0,1,1,52.27,0,52.27,Medium,Manual Verification Required,True,0
+The group lunch cost me 480 rupees. We can settle our shares whenever we meet.,WhatsApp,Legitimate,Legitimate,Legitimate,0,0,1,1,48.05,0,48.05,Medium,Manual Verification Required,False,0
+The caller said a customer profile check required my internet banking password.,Call,KYC Fraud,Unknown,KYC Fraud,1,0,1,1,82.93,0,82.93,Critical,Manual Verification Required,True,0
+Please bring a printed copy of the assignment to the lab.,WhatsApp,Legitimate,Legitimate,Legitimate,0,0,1,1,32.66,0,32.66,Medium,Manual Verification Required,False,0
+The repair shop gave me a written estimate and said I can decide after inspecting it.,Call,Legitimate,Unknown,Legitimate,0,0,1,1,63.28,0,63.28,High,Manual Verification Required,True,0
+Your annual subscription has ended. You may renew through your account settings if you wish.,SMS,Legitimate,Unknown,KYC Fraud,0,0,1,1,68.14,0,68.14,High,Manual Verification Required,True,0
+"If a transaction is unfamiliar, contact your bank using the number printed on your card.",SMS,Legitimate,Unknown,Legitimate,0,0,1,1,60.8,0,60.8,High,Manual Verification Required,True,0
+A security reminder: keep your one-time codes private even when someone claims to work for support.,SMS,Legitimate,Unknown,Legitimate,0,0,1,1,77.34,0,77.34,High,Manual Verification Required,True,0
+Your card replacement is ready for collection at the branch you selected.,SMS,Legitimate,Legitimate,Legitimate,0,0,1,1,39.04,0,39.04,Medium,Manual Verification Required,False,0
+A sender claimed a delivery had been held and instructed me to pay through an unverified page at https://parcel.invalid.,SMS,Courier Fraud,Unknown,Courier Fraud,1,0,1,1,71.66,5,73.08,High,Manual Verification Required,True,1
+The student club is sharing tips on how to recognize deceptive refund offers.,WhatsApp,Legitimate,Unknown,Legitimate,0,0,1,1,66.62,0,66.62,High,Manual Verification Required,True,0
+The customer service representative confirmed my order number and asked whether the package had arrived.,Call,Legitimate,Unknown,KYC Fraud,0,0,1,1,78.66,0,78.66,High,Manual Verification Required,True,0
+The mechanic says the replacement part will arrive next week. No deposit is necessary.,Call,Legitimate,Unknown,Legitimate,0,0,1,1,54.86,0,54.86,Medium,Manual Verification Required,True,0
+The carrier has rescheduled your delivery to Saturday. No additional charges apply.,SMS,Legitimate,Unknown,Courier Fraud,0,0,1,1,60.57,0,60.57,High,Manual Verification Required,True,0
+An unknown person requests a debit authorization and claims it is only a balance check.,UPI,UPI Fraud,Unknown,Legitimate,1,0,1,1,75.39,0,75.39,High,Manual Verification Required,True,0
+The caller insisted that I stay on camera and threatened my family if I contacted anyone about the payment.,Call,Digital Arrest,Unknown,Legitimate,1,0,1,1,69.42,0,69.42,High,Manual Verification Required,True,0
+I found your umbrella in the classroom. Collect it tomorrow.,WhatsApp,Legitimate,Legitimate,Legitimate,0,0,1,1,30.06,0,30.06,Medium,Manual Verification Required,False,0
+We will not ask customers to reveal their banking password over a phone call.,SMS,Legitimate,Unknown,KYC Fraud,0,0,1,1,77.64,0,77.64,High,Manual Verification Required,True,0
+Rent contribution for November as agreed in our lease.,UPI,Legitimate,Unknown,Legitimate,0,0,1,1,66.64,0,66.64,High,Manual Verification Required,True,0
+The teacher has uploaded the lecture notes to the course portal.,WhatsApp,Legitimate,Legitimate,Legitimate,0,0,1,1,45.8,0,45.8,Medium,Manual Verification Required,False,0
+The official app will be unavailable during scheduled maintenance overnight.,SMS,Legitimate,Legitimate,Legitimate,0,0,1,1,34.25,0,34.25,Medium,Manual Verification Required,False,0
+Someone claimed I was under virtual custody and said I could only disconnect after paying him.,Call,Digital Arrest,Unknown,Courier Fraud,1,0,1,1,77.81,20,82.25,Critical,Manual Verification Required,True,1
+Your mobile plan renews next month. Check your subscription settings for details.,SMS,Legitimate,Unknown,Legitimate,0,0,1,1,54.54,0,54.54,Medium,Manual Verification Required,True,0
+Reimbursement for the team stationery purchase.,UPI,Legitimate,Legitimate,Legitimate,0,0,1,1,49.45,0,49.45,Medium,Manual Verification Required,False,0
+The library has extended your book loan until next Tuesday.,SMS,Legitimate,Unknown,Legitimate,0,0,1,1,55.53,0,55.53,Medium,Manual Verification Required,True,0
+Monthly contribution to the shared internet bill.,UPI,Legitimate,Legitimate,Legitimate,0,0,1,1,40.25,0,40.25,Medium,Manual Verification Required,False,0
+The insurance office confirmed that I can submit the documents at its reception.,Call,Legitimate,Legitimate,Legitimate,0,0,1,1,31.21,0,31.21,Medium,Manual Verification Required,False,0
+"If an unknown person threatens you on the phone, disconnect and seek independent help.",WhatsApp,Legitimate,Unknown,Digital Arrest,0,0,1,1,72.13,0,72.13,High,Manual Verification Required,True,0
+The caller said the alleged case would disappear if I paid his intermediary.,Call,Digital Arrest,Unknown,Digital Arrest,1,0,1,1,69.99,0,69.99,High,Manual Verification Required,True,0
+Our bank representative explained that account updates can be completed in person at the branch.,Call,Legitimate,Unknown,Legitimate,0,0,1,1,53.34,0,53.34,Medium,Manual Verification Required,True,0
+My share of the taxi fare was 180 rupees. I have already paid it.,UPI,Legitimate,Legitimate,Legitimate,0,0,1,1,47.58,0,47.58,Medium,Manual Verification Required,False,0
+The meeting room has changed to the second floor.,WhatsApp,Legitimate,Legitimate,Legitimate,0,0,1,1,37.15,0,37.15,Medium,Manual Verification Required,False,0
+The delivery driver asked which entrance to use at the office building.,Call,Legitimate,Legitimate,Legitimate,0,0,1,1,42.46,0,42.46,Medium,Manual Verification Required,False,0
+The police station announced a road safety event at the community hall.,WhatsApp,Legitimate,Legitimate,Legitimate,0,0,1,1,47.18,10,52.46,Medium,Manual Verification Required,False,1
+The residents association is holding a workshop about online safety on Sunday.,WhatsApp,Legitimate,Unknown,Legitimate,0,0,1,1,55.53,0,55.53,Medium,Manual Verification Required,True,0
+Your electricity bill is ready in the app you normally use. No action is required today.,SMS,Legitimate,Legitimate,Legitimate,0,0,1,1,40.96,0,40.96,Medium,Manual Verification Required,False,0
+A stranger sent an alleged court notice and requested payment to cancel the proceedings.,SMS,Digital Arrest,Unknown,UPI Fraud,1,0,1,1,84.63,25,88.47,Critical,Manual Verification Required,True,1
+A message claimed a warrant had been issued and demanded a settlement through a personal payment address.,SMS,Digital Arrest,Unknown,Courier Fraud,1,0,1,1,75.79,0,75.79,High,Manual Verification Required,True,0
+Protect your card information and use the official banking app to check any unexpected activity.,SMS,Legitimate,Unknown,KYC Fraud,0,0,1,1,70.96,0,70.96,High,Manual Verification Required,True,0
+A person claimed my parcel had been intercepted at the border and demanded payment outside the official carrier system.,Call,Courier Fraud,Unknown,Courier Fraud,1,0,1,1,72.43,25,79.32,High,Manual Verification Required,True,1
+Someone claiming to be from bank support wanted the secret number on the back of my card.,Call,KYC Fraud,Unknown,KYC Fraud,1,0,1,1,80.3,0,80.3,Critical,Manual Verification Required,True,0
+Do not click unfamiliar links even if they appear to be from someone you know.,WhatsApp,Legitimate,Unknown,Legitimate,0,0,1,1,60.65,0,60.65,High,Manual Verification Required,True,0
+"When receiving a transfer, check the balance in your own app rather than trusting screenshots.",SMS,Legitimate,Unknown,Legitimate,0,0,1,1,68.69,0,68.69,High,Manual Verification Required,True,0
+An alleged bank agent said I needed to install a remote access app so he could update my customer profile.,WhatsApp,KYC Fraud,Unknown,KYC Fraud,1,0,1,1,78.81,0,78.81,High,Manual Verification Required,True,0
+Vegetables and groceries for the apartment.,UPI,Legitimate,Unknown,Legitimate,0,0,1,1,54.88,0,54.88,Medium,Manual Verification Required,True,0
+A supposed logistics worker demanded an unofficial fine before releasing my order.,Call,Courier Fraud,Unknown,Courier Fraud,1,0,1,1,83.17,0,83.17,Critical,Manual Verification Required,True,0
+The sports club registration desk is open until six.,WhatsApp,Legitimate,Unknown,Digital Arrest,0,0,1,1,73.27,0,73.27,High,Manual Verification Required,True,0
+The instructor explained why a request for remote access can be dangerous.,Call,Legitimate,Unknown,Legitimate,0,0,1,1,59.27,0,59.27,Medium,Manual Verification Required,True,0
+Our workplace safety session covers impersonation and online payment scams.,WhatsApp,Legitimate,Unknown,Legitimate,0,0,1,1,69.29,0,69.29,High,Manual Verification Required,True,0
+The exam centre address is printed on your admission ticket.,SMS,Legitimate,Unknown,Legitimate,0,0,1,1,52.66,0,52.66,Medium,Manual Verification Required,True,0
+I am calling to confirm your dental appointment for Friday. You can reschedule at the clinic reception.,Call,Legitimate,Legitimate,Legitimate,0,0,1,1,32.39,0,32.39,Medium,Manual Verification Required,False,0

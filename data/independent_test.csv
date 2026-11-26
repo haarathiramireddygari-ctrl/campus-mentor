@@ -1,0 +1,42 @@
+
+message,source,category,label,origin
+"A person claiming to be an investigator demanded money to close an alleged case.",Call,Digital Arrest,1,synthetic_test
+"The caller threatened imprisonment unless I paid a settlement.",Call,Digital Arrest,1,synthetic_test
+"A fake government official demanded a video call and financial deposit.",WhatsApp,Digital Arrest,1,synthetic_test
+"Someone claiming to represent the police demanded access to my savings.",Call,Digital Arrest,1,synthetic_test
+"The caller instructed me not to contact my family during an alleged investigation.",Call,Digital Arrest,1,synthetic_test
+"A supposed officer requested money to clear false criminal allegations.",WhatsApp,Digital Arrest,1,synthetic_test
+"My supposed bail requires an immediate online payment to the caller.",Call,Digital Arrest,1,synthetic_test
+"A stranger threatened detention unless I transferred my savings.",WhatsApp,Digital Arrest,1,synthetic_test
+"A fake banking representative requested my password to restore access.",Call,KYC Fraud,1,synthetic_test
+"The sender demanded confidential card information for identity renewal.",SMS,KYC Fraud,1,synthetic_test
+"A suspicious website requested my banking credentials for verification.",WhatsApp,KYC Fraud,1,synthetic_test
+"The message threatened to freeze my savings unless I disclosed a security code.",SMS,KYC Fraud,1,synthetic_test
+"A caller asked for my private banking code to validate my identity.",Call,KYC Fraud,1,synthetic_test
+"Someone posing as bank staff requested sensitive documents through an unofficial link.",WhatsApp,KYC Fraud,1,synthetic_test
+"A fake verification page demanded my account password.",SMS,KYC Fraud,1,synthetic_test
+"The sender requested my confidential card details to renew banking access.",SMS,KYC Fraud,1,synthetic_test
+"A supposed delivery agent demanded money over an alleged suspicious package.",Call,Courier Fraud,1,synthetic_test
+"The caller claimed a shipment in my name contained unlawful goods and requested money.",Call,Courier Fraud,1,synthetic_test
+"A fake customs representative requested a personal payment to clear a shipment.",WhatsApp,Courier Fraud,1,synthetic_test
+"Someone demanded a settlement for a package I never ordered.",Call,Courier Fraud,1,synthetic_test
+"An unknown sender requested money to prevent prosecution over a delivery.",SMS,Courier Fraud,1,synthetic_test
+"A caller claimed my package was evidence in a crime and demanded a deposit.",Call,Courier Fraud,1,synthetic_test
+"A fake shipping representative demanded confidential banking information.",WhatsApp,Courier Fraud,1,synthetic_test
+"The delivery message demanded an unofficial payment to settle an alleged offence.",SMS,Courier Fraud,1,synthetic_test
+"A stranger requested my payment PIN to credit a reward.",UPI,UPI Fraud,1,synthetic_test
+"A buyer sent a debit request claiming it would deposit money into my account.",UPI,UPI Fraud,1,synthetic_test
+"The caller asked me to authorise a transaction to collect compensation.",Call,UPI Fraud,1,synthetic_test
+"A fake merchant requested an advance transfer before issuing a refund.",UPI,UPI Fraud,1,synthetic_test
+"Someone claimed I won a reward and demanded my confidential payment code.",WhatsApp,UPI Fraud,1,synthetic_test
+"A stranger asked me to authorise a debit to receive money.",UPI,UPI Fraud,1,synthetic_test
+"A fake customer support agent demanded my payment credentials.",Call,UPI Fraud,1,synthetic_test
+"The sender requested a payment to unlock a promised cash reward.",SMS,UPI Fraud,1,synthetic_test
+"The university library will remain closed on Sunday.",SMS,Legitimate,0,synthetic_test
+"Please visit the official bank branch for KYC assistance.",SMS,Legitimate,0,synthetic_test
+"Do not disclose your payment PIN to unknown callers.",WhatsApp,Legitimate,0,synthetic_test
+"The courier tracking information is available in your official shopping application.",SMS,Legitimate,0,synthetic_test
+"Police have issued a public awareness notice about digital arrest scams.",WhatsApp,Legitimate,0,synthetic_test
+"Your scheduled medical appointment is confirmed for Friday.",SMS,Legitimate,0,synthetic_test
+"Check your official banking application for transaction history.",SMS,Legitimate,0,synthetic_test
+"The college seminar will cover online fraud and cybersecurity awareness.",WhatsApp,Legitimate,0,synthetic_test

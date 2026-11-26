@@ -1,0 +1,18 @@
+message,source,category,label,origin,predicted_category,correct_prediction,fraud_score
+The caller threatened imprisonment unless I paid a settlement.,Call,Digital Arrest,1,synthetic_test,Legitimate,False,53.79
+A fake government official demanded a video call and financial deposit.,WhatsApp,Digital Arrest,1,synthetic_test,Legitimate,False,56.94
+The caller instructed me not to contact my family during an alleged investigation.,Call,Digital Arrest,1,synthetic_test,Courier Fraud,False,78.61
+My supposed bail requires an immediate online payment to the caller.,Call,Digital Arrest,1,synthetic_test,Courier Fraud,False,82.33
+A stranger threatened detention unless I transferred my savings.,WhatsApp,Digital Arrest,1,synthetic_test,Legitimate,False,63.43
+The message threatened to freeze my savings unless I disclosed a security code.,SMS,KYC Fraud,1,synthetic_test,UPI Fraud,False,80.35
+Someone posing as bank staff requested sensitive documents through an unofficial link.,WhatsApp,KYC Fraud,1,synthetic_test,Legitimate,False,65.12
+A supposed delivery agent demanded money over an alleged suspicious package.,Call,Courier Fraud,1,synthetic_test,Legitimate,False,66.1
+Someone demanded a settlement for a package I never ordered.,Call,Courier Fraud,1,synthetic_test,Legitimate,False,56.4
+An unknown sender requested money to prevent prosecution over a delivery.,SMS,Courier Fraud,1,synthetic_test,UPI Fraud,False,83.38
+A fake shipping representative demanded confidential banking information.,WhatsApp,Courier Fraud,1,synthetic_test,KYC Fraud,False,79.86
+A buyer sent a debit request claiming it would deposit money into my account.,UPI,UPI Fraud,1,synthetic_test,KYC Fraud,False,89.93
+A fake merchant requested an advance transfer before issuing a refund.,UPI,UPI Fraud,1,synthetic_test,Legitimate,False,71.35
+The university library will remain closed on Sunday.,SMS,Legitimate,0,synthetic_test,Digital Arrest,False,77.56
+Do not disclose your payment PIN to unknown callers.,WhatsApp,Legitimate,0,synthetic_test,UPI Fraud,False,85.08
+Police have issued a public awareness notice about digital arrest scams.,WhatsApp,Legitimate,0,synthetic_test,Digital Arrest,False,87.22
+The college seminar will cover online fraud and cybersecurity awareness.,WhatsApp,Legitimate,0,synthetic_test,KYC Fraud,False,67.41

@@ -1,0 +1,101 @@
+message,category,binary_label,v1_fraud_score,v2_fraud_score
+I called the hospital myself and the receptionist told me which counter handles billing.,Legitimate,0,65.74,31.57
+The payment receipt is now visible in the official store app.,Legitimate,0,42.72,17.88
+Someone sent a collect request and told me that approving it would increase my balance.,UPI Fraud,1,86.81,69.46
+Your scholarship application has been received. Its status is available on the university website.,Legitimate,0,6.83,3.39
+A stranger posing as a banking employee requested my login password to renew account access.,KYC Fraud,1,85.45,75.0
+A stranger claiming to be an officer told me to move my savings to an account he controls while he checks my identity.,Digital Arrest,1,92.55,87.02
+The group lunch cost me 480 rupees. We can settle our shares whenever we meet.,Legitimate,0,38.83,17.06
+The caller said a customer profile check required my internet banking password.,KYC Fraud,1,76.73,59.47
+Your train booking has been confirmed. Keep your ticket available for inspection.,Legitimate,0,8.79,5.13
+A supposed shipping employee asked me for money to keep an allegedly prohibited item from being reported.,Courier Fraud,1,86.36,71.39
+A person claiming to work for a card company wanted my security code to prevent account closure.,KYC Fraud,1,93.47,87.72
+Please bring a printed copy of the assignment to the lab.,Legitimate,0,25.7,8.92
+The sender claimed to be from a government agency and demanded money to close a criminal investigation.,Digital Arrest,1,94.19,92.88
+A person using a fake uniform ordered me not to speak to my family until I paid him.,Digital Arrest,1,84.84,67.69
+A message claimed my identity documents were expired and wanted my OTP to update them.,KYC Fraud,1,87.45,81.97
+A friend returned the money I lent last week.,Legitimate,0,75.67,31.77
+The repair shop gave me a written estimate and said I can decide after inspecting it.,Legitimate,0,58.97,24.92
+A prize message requires an initial fee to an unknown payment address before the winnings are released.,UPI Fraud,1,85.95,75.66
+Someone posing as a delivery agent demanded a personal payment because my shipment allegedly broke import rules.,Courier Fraud,1,81.44,73.95
+Your annual subscription has ended. You may renew through your account settings if you wish.,Legitimate,0,64.36,35.24
+"If a transaction is unfamiliar, contact your bank using the number printed on your card.",Legitimate,0,56.65,33.57
+A security reminder: keep your one-time codes private even when someone claims to work for support.,Legitimate,0,75.04,61.23
+Your card replacement is ready for collection at the branch you selected.,Legitimate,0,33.65,10.06
+A message says a reward is waiting but requires a processing charge paid to a personal account first.,UPI Fraud,1,87.16,70.9
+A sender claimed a delivery had been held and instructed me to pay through an unverified page at https://parcel.invalid.,Courier Fraud,1,63.48,57.76
+Payment reference for the agreed music class fee.,Legitimate,0,60.3,23.97
+A fake delivery notice asks for my banking password to arrange a second delivery attempt.,Courier Fraud,1,53.09,46.94
+The student club is sharing tips on how to recognize deceptive refund offers.,Legitimate,0,63.64,29.21
+A suspicious shipment notification asks me to send a payment to an unknown individual to avoid seizure.,Courier Fraud,1,87.03,90.33
+The customer service representative confirmed my order number and asked whether the package had arrived.,Legitimate,0,73.92,46.92
+The mechanic says the replacement part will arrive next week. No deposit is necessary.,Legitimate,0,50.94,19.31
+The carrier has rescheduled your delivery to Saturday. No additional charges apply.,Legitimate,0,40.94,22.51
+An alleged investigator told me to make a private transfer to prove I had no connection to a crime.,Digital Arrest,1,91.5,85.79
+A text claims my account verification is overdue and asks for the one-time code from my phone.,KYC Fraud,1,90.07,77.54
+The sender asked for my banking password under the pretext of a mandatory profile update.,KYC Fraud,1,82.48,64.48
+Your account statement is available. Open the banking app yourself if you wish to view it.,Legitimate,0,14.61,8.23
+An unknown person requests a debit authorization and claims it is only a balance check.,UPI Fraud,1,69.99,65.03
+The caller insisted that I stay on camera and threatened my family if I contacted anyone about the payment.,Digital Arrest,1,58.26,45.11
+The sender said he could remove a prohibited-item allegation from my shipment if I paid him privately.,Courier Fraud,1,89.69,67.97
+Your refund has been credited. Check your original payment method for confirmation.,Legitimate,0,11.43,11.32
+I found your umbrella in the classroom. Collect it tomorrow.,Legitimate,0,22.84,9.72
+We will not ask customers to reveal their banking password over a phone call.,Legitimate,0,72.85,55.76
+Rent contribution for November as agreed in our lease.,Legitimate,0,64.7,24.93
+The teacher has uploaded the lecture notes to the course portal.,Legitimate,0,43.71,10.26
+The official app will be unavailable during scheduled maintenance overnight.,Legitimate,0,24.92,10.78
+The sender threatened to disable banking access unless I supplied my personal verification code on a page they sent.,KYC Fraud,1,90.88,87.77
+A supposed official demanded an immediate personal payment to remove my name from a criminal complaint.,Digital Arrest,1,91.49,87.6
+Someone claimed I was under virtual custody and said I could only disconnect after paying him.,Digital Arrest,1,72.25,51.95
+Your mobile plan renews next month. Check your subscription settings for details.,Legitimate,0,55.87,34.5
+Reimbursement for the team stationery purchase.,Legitimate,0,41.42,14.16
+A supposed support agent asked for my secret payment PIN to reverse an alleged mistaken transfer.,UPI Fraud,1,79.47,74.35
+Please confirm whether you can attend the project meeting tomorrow morning.,Legitimate,0,10.12,6.01
+The library has extended your book loan until next Tuesday.,Legitimate,0,52.31,21.05
+Someone pretending to represent a court said I could avoid being taken away by making a private deposit.,Digital Arrest,1,88.98,67.36
+Monthly contribution to the shared internet bill.,Legitimate,0,33.8,16.21
+The insurance office confirmed that I can submit the documents at its reception.,Legitimate,0,22.5,11.16
+The speaker threatened to send officers to my house unless I handed over my funds.,Digital Arrest,1,85.74,74.42
+The message asked me to send a picture of my card including the confidential number for a verification update.,KYC Fraud,1,91.48,81.71
+"If an unknown person threatens you on the phone, disconnect and seek independent help.",Legitimate,0,61.08,43.51
+The caller said the alleged case would disappear if I paid his intermediary.,Digital Arrest,1,62.69,36.18
+Our bank representative explained that account updates can be completed in person at the branch.,Legitimate,0,43.36,23.82
+My share of the taxi fare was 180 rupees. I have already paid it.,Legitimate,0,37.67,15.26
+The meeting room has changed to the second floor.,Legitimate,0,31.33,12.49
+A supposed account officer asked me to read out the code that had just arrived on my phone.,KYC Fraud,1,84.69,74.16
+An alleged courier agent threatened legal trouble unless I sent a deposit to his personal account.,Courier Fraud,1,91.28,87.73
+The delivery driver asked which entrance to use at the office building.,Legitimate,0,32.2,11.14
+The caller said a parcel in my name contained illegal materials and wanted a private settlement.,Courier Fraud,1,87.81,77.13
+The police station announced a road safety event at the community hall.,Legitimate,0,37.61,14.91
+The caller offered a rebate and demanded my payment authentication code before releasing it.,UPI Fraud,1,86.94,80.72
+The residents association is holding a workshop about online safety on Sunday.,Legitimate,0,47.61,20.9
+Your electricity bill is ready in the app you normally use. No action is required today.,Legitimate,0,37.2,12.44
+A stranger claiming to be payment support wants me to reveal the passcode for my UPI account.,UPI Fraud,1,87.76,79.97
+A stranger sent an alleged court notice and requested payment to cancel the proceedings.,Digital Arrest,1,81.67,61.51
+An unknown seller wants me to pay a refundable booking charge before I can receive a refund.,UPI Fraud,1,80.81,64.57
+A message claimed a warrant had been issued and demanded a settlement through a personal payment address.,Digital Arrest,1,69.27,60.55
+A supposed buyer says I must scan his payment code and enter my secret PIN to get paid.,UPI Fraud,1,87.02,81.05
+Protect your card information and use the official banking app to check any unexpected activity.,Legitimate,0,66.08,38.23
+A fake support representative asked me to disclose my authentication code to reactivate my account.,KYC Fraud,1,91.15,92.29
+A person claimed my parcel had been intercepted at the border and demanded payment outside the official carrier system.,Courier Fraud,1,61.0,45.26
+A message claimed my package would be destroyed unless I paid an unexpected charge to an unknown recipient.,Courier Fraud,1,88.55,75.91
+Someone claiming to be from bank support wanted the secret number on the back of my card.,KYC Fraud,1,75.64,52.43
+Do not click unfamiliar links even if they appear to be from someone you know.,Legitimate,0,48.62,36.58
+"When receiving a transfer, check the balance in your own app rather than trusting screenshots.",Legitimate,0,68.52,25.3
+A stranger promised to return my money if I authorized an outgoing payment first.,UPI Fraud,1,81.84,71.68
+Someone asked me to send money to verify my payment account before receiving the promised reimbursement.,UPI Fraud,1,94.4,90.77
+Your scheduled recurring deposit was processed successfully. View the statement in your banking app.,Legitimate,0,7.36,3.16
+A supposed detective said my identity was linked to a crime and wanted custody of my savings for an audit.,Digital Arrest,1,86.66,77.37
+An alleged bank agent said I needed to install a remote access app so he could update my customer profile.,KYC Fraud,1,76.31,61.67
+Vegetables and groceries for the apartment.,Legitimate,0,50.01,18.63
+A notice threatened to restrict services unless I entered my banking credentials at https://verification.invalid.,KYC Fraud,1,94.65,90.59
+A supposed logistics worker demanded an unofficial fine before releasing my order.,Courier Fraud,1,76.24,67.09
+This is a reminder of your existing appointment at the bank branch. You may contact the branch directly.,Legitimate,0,7.9,3.56
+The sports club registration desk is open until six.,Legitimate,0,72.92,35.36
+The instructor explained why a request for remote access can be dangerous.,Legitimate,0,57.13,24.56
+Our workplace safety session covers impersonation and online payment scams.,Legitimate,0,66.07,37.73
+The exam centre address is printed on your admission ticket.,Legitimate,0,49.1,17.2
+The sender says to approve an unexpected debit to unlock a cashback credit.,UPI Fraud,1,93.34,79.48
+I am calling to confirm your dental appointment for Friday. You can reschedule at the clinic reception.,Legitimate,0,25.02,11.98
+The courier tracking shows that the shipment is delayed due to rain.,Legitimate,0,81.53,45.28
+A stranger said my shipping label was linked to a criminal case and asked for money to resolve it.,Courier Fraud,1,94.75,90.8

@@ -1,0 +1,61 @@
+
+.stApp {
+    background-color: #080F1E;
+}
+
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    max-width: 1200px;
+}
+
+.main-title {
+    font-size: 42px;
+    font-weight: 800;
+    color: #38BDF8;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    color: #94A3B8;
+    font-size: 17px;
+    margin-bottom: 25px;
+}
+
+.feature-card {
+    background: #111C30;
+    border: 1px solid #26374E;
+    border-radius: 14px;
+    padding: 22px;
+    min-height: 150px;
+    margin-bottom: 15px;
+}
+
+.feature-card h3 {
+    color: #F1F5F9;
+    margin-bottom: 8px;
+}
+
+.feature-card p {
+    color: #94A3B8;
+    font-size: 14px;
+}
+
+[data-testid="stMetric"] {
+    background-color: #111C30;
+    border: 1px solid #26374E;
+    border-radius: 12px;
+    padding: 18px;
+}
+
+.stButton > button {
+    border-radius: 8px;
+    font-weight: 600;
+}
+
+.footer {
+    text-align: center;
+    color: #94A3B8;
+    font-size: 12px;
+    padding: 20px;
+}

@@ -1,0 +1,2 @@
+Total Records,Binary Accuracy,Fraud Precision,Fraud Recall,Fraud F1,Multiclass Accuracy,Digital Arrest Alert Recall,Digital Arrest Category Recall,False Positive Rate,Triage Fraud Recall,Manual Review Rate,Legitimate Triage Rate,True Positives,True Negatives,False Positives,Fraud Without Explicit Alert,Fraud Without Alert or Review,Manual Review Cases
+100,85.0,92.68,76.0,83.52,41.0,61.54,15.38,6.0,100.0,52.0,86.0,38,47,3,12,0,52

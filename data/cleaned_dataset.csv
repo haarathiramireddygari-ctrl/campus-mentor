@@ -1,0 +1,1454 @@
+message,source,category,label,origin
+"hello, you must remain on this call until verification. please review this message.",SMS,Digital Arrest,1,synthetic
+attention: please attend the scheduled team meeting. please review this message.,UPI,Legitimate,0,synthetic
+"hello, your order has been delivered successfully. this is a notification.",Call,Legitimate,0,synthetic
+notification: your appointment has been confirmed. for your information.,WhatsApp,Legitimate,0,synthetic
+"dear customer, you are under digital arrest. please check the details.",SMS,Digital Arrest,1,synthetic
+important message: transfer money to resolve your legal case. for your information.,WhatsApp,Digital Arrest,1,synthetic
+notification: your payment was completed successfully. please read carefully.,WhatsApp,Legitimate,0,synthetic
+please note: submit your otp to complete account verification.,Call,KYC Fraud,1,synthetic
+attention: transfer money to resolve your legal case. please read carefully.,UPI,Digital Arrest,1,synthetic
+"hello, transfer money to resolve your legal case.",WhatsApp,Digital Arrest,1,synthetic
+notification: report suspicious calls to the authorities. please review this message.,UPI,Legitimate,0,synthetic
+attention: your account requires urgent identity verification. please read carefully.,Call,KYC Fraud,1,synthetic
+your refund has been processed. this is a notification.,UPI,Legitimate,0,synthetic
+your electricity bill is available. please check the details.,SMS,Legitimate,0,synthetic
+notification: update your kyc immediately using the provided link.,WhatsApp,KYC Fraud,1,synthetic
+"dear customer, complete online verification to prevent account closure. please check the details.",Call,KYC Fraud,1,synthetic
+"dear customer, your courier is linked to an illegal shipment. for your information.",SMS,Courier Fraud,1,synthetic
+"hello, scan the qr code to receive your prize money. please read carefully.",UPI,UPI Fraud,1,synthetic
+your payment was completed successfully. this is a notification.,UPI,Legitimate,0,synthetic
+report suspicious calls to the authorities.,WhatsApp,Legitimate,0,synthetic
+attention: you must remain on this call until verification. please review this message.,WhatsApp,Digital Arrest,1,synthetic
+important message: your monthly salary has been credited.,WhatsApp,Legitimate,0,synthetic
+attention: never share your upi pin with anyone. please read carefully.,Call,Legitimate,0,synthetic
+"dear customer, your shipment requires an urgent security clearance payment. kindly take note.",WhatsApp,Courier Fraud,1,synthetic
+your parcel is out for delivery. please check the details.,UPI,Legitimate,0,synthetic
+"dear customer, your courier is linked to an illegal shipment. this message concerns your request.",SMS,Courier Fraud,1,synthetic
+your monthly salary has been credited. please read carefully.,Call,Legitimate,0,synthetic
+update: your bank account will be blocked due to incomplete kyc. kindly take note.,SMS,KYC Fraud,1,synthetic
+update your kyc immediately using the provided link. for your information.,WhatsApp,KYC Fraud,1,synthetic
+"hello, a police officer is investigating your bank account. this message concerns your request.",Call,Digital Arrest,1,synthetic
+important message: share your upi pin for payment verification. please review this message.,UPI,UPI Fraud,1,synthetic
+important message: a criminal case has been registered against you. please review this message.,Call,Digital Arrest,1,synthetic
+notification: report suspicious calls to the authorities. this is a notification.,UPI,Legitimate,0,synthetic
+your account requires urgent identity verification. please review this message.,Call,KYC Fraud,1,synthetic
+attention: your kyc status can be checked at your bank branch. this message concerns your request.,UPI,Legitimate,0,synthetic
+important message: you must remain on this call until verification. for your information.,SMS,Digital Arrest,1,synthetic
+please note: your examination results have been published.,WhatsApp,Legitimate,0,synthetic
+important message: never share your upi pin with anyone. this message concerns your request.,UPI,Legitimate,0,synthetic
+notification: never share your upi pin with anyone. this message concerns your request.,SMS,Legitimate,0,synthetic
+please note: pay a registration fee to claim your reward. please read carefully.,UPI,UPI Fraud,1,synthetic
+update: your package has been seized by authorities. please read carefully.,SMS,Courier Fraud,1,synthetic
+notification: approve the payment request to unlock your account. this message concerns your request.,Call,UPI Fraud,1,synthetic
+update: your shipment requires an urgent security clearance payment.,UPI,Courier Fraud,1,synthetic
+update: complete online verification to prevent account closure.,SMS,KYC Fraud,1,synthetic
+share your upi pin for payment verification. please read carefully.,WhatsApp,UPI Fraud,1,synthetic
+approve this collect request to receive your refund. this is a notification.,Call,UPI Fraud,1,synthetic
+attention: scan the qr code to receive your prize money. this message concerns your request.,WhatsApp,UPI Fraud,1,synthetic
+notification: provide your banking details to reactivate your account. please review this message.,SMS,KYC Fraud,1,synthetic
+please note: never share your upi pin with anyone.,SMS,Legitimate,0,synthetic
+enter your upi pin to receive cashback. this is a notification.,Call,UPI Fraud,1,synthetic
+update: pay additional charges to avoid legal action. this is a notification.,Call,Courier Fraud,1,synthetic
+"dear customer, you are under digital arrest. this message concerns your request.",SMS,Digital Arrest,1,synthetic
+important message: enter your upi pin to receive cashback. kindly take note.,SMS,UPI Fraud,1,synthetic
+"dear customer, your shipment has been detained by customs. this is a notification.",SMS,Courier Fraud,1,synthetic
+your kyc status can be checked at your bank branch. please review this message.,WhatsApp,Legitimate,0,synthetic
+important message: your class starts at 9 am tomorrow. this is a notification.,SMS,Legitimate,0,synthetic
+update: your kyc status can be checked at your bank branch. please read carefully.,UPI,Legitimate,0,synthetic
+attention: your debit card has expired. verify your details. for your information.,SMS,KYC Fraud,1,synthetic
+"hello, pay a penalty to release your parcel.",UPI,Courier Fraud,1,synthetic
+"hello, approve this collect request to receive your refund.",UPI,UPI Fraud,1,synthetic
+"hello, report suspicious calls to the authorities. please read carefully.",Call,Legitimate,0,synthetic
+important message: your monthly salary has been credited. this message concerns your request.,WhatsApp,Legitimate,0,synthetic
+notification: a police officer is investigating your bank account. for your information.,SMS,Digital Arrest,1,synthetic
+attention: share your upi pin for payment verification.,SMS,UPI Fraud,1,synthetic
+update: scan the qr code to receive your prize money. this is a notification.,UPI,UPI Fraud,1,synthetic
+notification: contact your bank through its official application. kindly take note.,Call,Legitimate,0,synthetic
+update: please submit your college assignment tomorrow. please review this message.,UPI,Legitimate,0,synthetic
+update: never share your upi pin with anyone. this is a notification.,WhatsApp,Legitimate,0,synthetic
+attention: a parcel registered in your name is under investigation.,WhatsApp,Courier Fraud,1,synthetic
+please note: pay a registration fee to claim your reward. please check the details.,WhatsApp,UPI Fraud,1,synthetic
+important message: your shipment requires an urgent security clearance payment. this message concerns your request.,UPI,Courier Fraud,1,synthetic
+important message: your appointment has been confirmed. please check the details.,SMS,Legitimate,0,synthetic
+attention: your parcel is out for delivery. for your information.,UPI,Legitimate,0,synthetic
+attention: share your upi pin for payment verification. this is a notification.,UPI,UPI Fraud,1,synthetic
+"dear customer, submit your otp to complete account verification. please check the details.",SMS,KYC Fraud,1,synthetic
+update: share your upi pin for payment verification. kindly take note.,Call,UPI Fraud,1,synthetic
+pay additional charges to avoid legal action. this message concerns your request.,SMS,Courier Fraud,1,synthetic
+notification: your order has been delivered successfully. this message concerns your request.,Call,Legitimate,0,synthetic
+"dear customer, approve the payment request to unlock your account. this message concerns your request.",Call,UPI Fraud,1,synthetic
+"hello, complete online verification to prevent account closure. please check the details.",UPI,KYC Fraud,1,synthetic
+your debit card has expired. verify your details. this message concerns your request.,WhatsApp,KYC Fraud,1,synthetic
+"dear customer, report suspicious calls to the authorities. please read carefully.",Call,Legitimate,0,synthetic
+"hello, approve the payment request to unlock your account. please review this message.",Call,UPI Fraud,1,synthetic
+your appointment has been confirmed. please read carefully.,UPI,Legitimate,0,synthetic
+"hello, pay a registration fee to claim your reward. this message concerns your request.",Call,UPI Fraud,1,synthetic
+attention: your kyc status can be checked at your bank branch. kindly take note.,UPI,Legitimate,0,synthetic
+"hello, send money to verify your upi account. this is a notification.",WhatsApp,UPI Fraud,1,synthetic
+please note: your shipment has been detained by customs. please review this message.,UPI,Courier Fraud,1,synthetic
+notification: your kyc status can be checked at your bank branch. this is a notification.,SMS,Legitimate,0,synthetic
+update: your account statement is available. please check the details.,WhatsApp,Legitimate,0,synthetic
+notification: your order has been delivered successfully. please review this message.,UPI,Legitimate,0,synthetic
+"dear customer, you are under digital arrest. this is a notification.",SMS,Digital Arrest,1,synthetic
+attention: approve the payment request to unlock your account. for your information.,UPI,UPI Fraud,1,synthetic
+update: your order has been delivered successfully.,Call,Legitimate,0,synthetic
+notification: report suspicious calls to the authorities. please read carefully.,SMS,Legitimate,0,synthetic
+update: pay a registration fee to claim your reward. please review this message.,SMS,UPI Fraud,1,synthetic
+important message: your order has been delivered successfully. this message concerns your request.,UPI,Legitimate,0,synthetic
+your shipment has been detained by customs. please read carefully.,UPI,Courier Fraud,1,synthetic
+attention: scan the qr code to receive your prize money.,Call,UPI Fraud,1,synthetic
+update: contact your bank through its official application. kindly take note.,WhatsApp,Legitimate,0,synthetic
+notification: your examination results have been published.,UPI,Legitimate,0,synthetic
+update: approve this collect request to receive your refund. this is a notification.,UPI,UPI Fraud,1,synthetic
+important message: transfer money to resolve your legal case. please check the details.,SMS,Digital Arrest,1,synthetic
+attention: your electricity bill is available. for your information.,UPI,Legitimate,0,synthetic
+"dear customer, contact your bank through its official application. this is a notification.",UPI,Legitimate,0,synthetic
+attention: your account statement is available. kindly take note.,WhatsApp,Legitimate,0,synthetic
+attention: scan the qr code to receive your prize money. please review this message.,UPI,UPI Fraud,1,synthetic
+important message: contact your bank through its official application. this is a notification.,UPI,Legitimate,0,synthetic
+attention: transfer money to resolve your legal case. this message concerns your request.,WhatsApp,Digital Arrest,1,synthetic
+your shipment has been detained by customs. please review this message.,SMS,Courier Fraud,1,synthetic
+notification: your payment was completed successfully. for your information.,SMS,Legitimate,0,synthetic
+notification: scan the qr code to receive your prize money. please read carefully.,SMS,UPI Fraud,1,synthetic
+attention: a police officer is investigating your bank account. this message concerns your request.,SMS,Digital Arrest,1,synthetic
+"dear customer, your order has been delivered successfully. please read carefully.",Call,Legitimate,0,synthetic
+update: your account requires urgent identity verification. this is a notification.,SMS,KYC Fraud,1,synthetic
+update: your electricity bill is available. this message concerns your request.,UPI,Legitimate,0,synthetic
+please note: share your upi pin for payment verification. this message concerns your request.,Call,UPI Fraud,1,synthetic
+"dear customer, a criminal case has been registered against you.",WhatsApp,Digital Arrest,1,synthetic
+attention: your appointment has been confirmed. for your information.,UPI,Legitimate,0,synthetic
+please note: your account requires urgent identity verification. kindly take note.,WhatsApp,KYC Fraud,1,synthetic
+your package has been seized by authorities.,WhatsApp,Courier Fraud,1,synthetic
+please note: your examination results have been published. this message concerns your request.,UPI,Legitimate,0,synthetic
+please note: provide your banking details to reactivate your account. for your information.,UPI,KYC Fraud,1,synthetic
+please note: your shipment has been detained by customs. please read carefully.,UPI,Courier Fraud,1,synthetic
+attention: your appointment has been confirmed. this message concerns your request.,SMS,Legitimate,0,synthetic
+notification: you must remain on this call until verification. for your information.,UPI,Digital Arrest,1,synthetic
+"dear customer, your electricity bill is available. please read carefully.",Call,Legitimate,0,synthetic
+notification: you are under digital arrest.,WhatsApp,Digital Arrest,1,synthetic
+update: please submit your college assignment tomorrow. this message concerns your request.,WhatsApp,Legitimate,0,synthetic
+notification: your banking services will be suspended. please check the details.,UPI,KYC Fraud,1,synthetic
+complete online verification to prevent account closure. please review this message.,SMS,KYC Fraud,1,synthetic
+"hello, complete online verification to prevent account closure. this is a notification.",Call,KYC Fraud,1,synthetic
+important message: your electricity bill is available. for your information.,WhatsApp,Legitimate,0,synthetic
+"hello, transfer money to resolve your legal case. kindly take note.",Call,Digital Arrest,1,synthetic
+please note: pay additional charges to avoid legal action. for your information.,UPI,Courier Fraud,1,synthetic
+"hello, please attend the scheduled team meeting. for your information.",WhatsApp,Legitimate,0,synthetic
+"dear customer, your appointment has been confirmed. please read carefully.",UPI,Legitimate,0,synthetic
+"dear customer, pay additional charges to avoid legal action. please check the details.",SMS,Courier Fraud,1,synthetic
+update: update your kyc immediately using the provided link. kindly take note.,Call,KYC Fraud,1,synthetic
+notification: please attend the scheduled team meeting. please review this message.,SMS,Legitimate,0,synthetic
+notification: your debit card has expired. verify your details. please check the details.,SMS,KYC Fraud,1,synthetic
+update: contact your bank through its official application. this is a notification.,WhatsApp,Legitimate,0,synthetic
+"hello, your banking services will be suspended. kindly take note.",UPI,KYC Fraud,1,synthetic
+please note: your account requires urgent identity verification. please review this message.,SMS,KYC Fraud,1,synthetic
+notification: your refund has been processed. for your information.,WhatsApp,Legitimate,0,synthetic
+your parcel is out for delivery. for your information.,Call,Legitimate,0,synthetic
+"hello, your refund has been processed. kindly take note.",WhatsApp,Legitimate,0,synthetic
+update: your shipment has been detained by customs. this is a notification.,UPI,Courier Fraud,1,synthetic
+please note: update your kyc immediately using the provided link. kindly take note.,UPI,KYC Fraud,1,synthetic
+"dear customer, enter your upi pin to receive cashback.",Call,UPI Fraud,1,synthetic
+important message: please submit your college assignment tomorrow. this message concerns your request.,Call,Legitimate,0,synthetic
+your payment was completed successfully. this message concerns your request.,UPI,Legitimate,0,synthetic
+your account statement is available. please check the details.,Call,Legitimate,0,synthetic
+your examination results have been published. please read carefully.,Call,Legitimate,0,synthetic
+notification: your monthly salary has been credited. this is a notification.,SMS,Legitimate,0,synthetic
+important message: your order has been delivered successfully.,SMS,Legitimate,0,synthetic
+your order has been delivered successfully. kindly take note.,WhatsApp,Legitimate,0,synthetic
+"dear customer, report suspicious calls to the authorities. please review this message.",Call,Legitimate,0,synthetic
+notification: please submit your college assignment tomorrow. please check the details.,SMS,Legitimate,0,synthetic
+update: pay a penalty to release your parcel. for your information.,WhatsApp,Courier Fraud,1,synthetic
+update: send money to verify your upi account. please read carefully.,UPI,UPI Fraud,1,synthetic
+important message: your electricity bill is available. please read carefully.,UPI,Legitimate,0,synthetic
+important message: your refund has been processed. please read carefully.,WhatsApp,Legitimate,0,synthetic
+please attend the scheduled team meeting. this message concerns your request.,WhatsApp,Legitimate,0,synthetic
+never share your upi pin with anyone. for your information.,WhatsApp,Legitimate,0,synthetic
+important message: send money to verify your upi account. please read carefully.,SMS,UPI Fraud,1,synthetic
+"hello, your parcel contains prohibited items. please read carefully.",UPI,Courier Fraud,1,synthetic
+"hello, approve the payment request to unlock your account. please read carefully.",SMS,UPI Fraud,1,synthetic
+update: please attend the scheduled team meeting. please read carefully.,Call,Legitimate,0,synthetic
+update: you are under digital arrest. please check the details.,SMS,Digital Arrest,1,synthetic
+please note: enter your payment credentials to receive money. please read carefully.,WhatsApp,UPI Fraud,1,synthetic
+important message: your account requires urgent identity verification. please read carefully.,UPI,KYC Fraud,1,synthetic
+please note: your bank account will be blocked due to incomplete kyc. please review this message.,UPI,KYC Fraud,1,synthetic
+your account statement is available. please review this message.,SMS,Legitimate,0,synthetic
+notification: your banking services will be suspended. this message concerns your request.,SMS,KYC Fraud,1,synthetic
+"dear customer, never share your upi pin with anyone. kindly take note.",WhatsApp,Legitimate,0,synthetic
+update: your package has been seized by authorities. please check the details.,Call,Courier Fraud,1,synthetic
+attention: pay additional charges to avoid legal action. this message concerns your request.,Call,Courier Fraud,1,synthetic
+transfer money to resolve your legal case. please check the details.,Call,Digital Arrest,1,synthetic
+notification: your parcel is out for delivery. this is a notification.,SMS,Legitimate,0,synthetic
+notification: never share your upi pin with anyone. this is a notification.,WhatsApp,Legitimate,0,synthetic
+please note: your kyc status can be checked at your bank branch. please check the details.,WhatsApp,Legitimate,0,synthetic
+a police officer is investigating your bank account. kindly take note.,Call,Digital Arrest,1,synthetic
+update your kyc immediately using the provided link. please read carefully.,WhatsApp,KYC Fraud,1,synthetic
+important message: enter your payment credentials to receive money. for your information.,WhatsApp,UPI Fraud,1,synthetic
+notification: your monthly salary has been credited.,SMS,Legitimate,0,synthetic
+attention: please submit your college assignment tomorrow.,SMS,Legitimate,0,synthetic
+notification: your aadhaar is linked to a criminal investigation. this is a notification.,SMS,Digital Arrest,1,synthetic
+attention: please submit your college assignment tomorrow. for your information.,WhatsApp,Legitimate,0,synthetic
+attention: your refund has been processed. for your information.,WhatsApp,Legitimate,0,synthetic
+attention: approve the payment request to unlock your account. this is a notification.,WhatsApp,UPI Fraud,1,synthetic
+"dear customer, your banking services will be suspended. this is a notification.",UPI,KYC Fraud,1,synthetic
+update: pay a penalty to release your parcel. please review this message.,UPI,Courier Fraud,1,synthetic
+please note: enter your payment credentials to receive money. this message concerns your request.,WhatsApp,UPI Fraud,1,synthetic
+please note: your account statement is available. please check the details.,WhatsApp,Legitimate,0,synthetic
+update: your kyc status can be checked at your bank branch. please check the details.,UPI,Legitimate,0,synthetic
+"hello, your payment was completed successfully. please read carefully.",UPI,Legitimate,0,synthetic
+"hello, report suspicious calls to the authorities. kindly take note.",UPI,Legitimate,0,synthetic
+update: never share your upi pin with anyone.,WhatsApp,Legitimate,0,synthetic
+"dear customer, your courier is linked to an illegal shipment. this is a notification.",UPI,Courier Fraud,1,synthetic
+attention: submit your otp to complete account verification. please read carefully.,WhatsApp,KYC Fraud,1,synthetic
+important message: you must pay a penalty to avoid arrest.,WhatsApp,Digital Arrest,1,synthetic
+"hello, your refund has been processed. for your information.",SMS,Legitimate,0,synthetic
+important message: provide your banking details to reactivate your account.,WhatsApp,KYC Fraud,1,synthetic
+please note: your kyc status can be checked at your bank branch. please review this message.,WhatsApp,Legitimate,0,synthetic
+important message: a parcel registered in your name is under investigation. kindly take note.,SMS,Courier Fraud,1,synthetic
+notification: pay a registration fee to claim your reward. this message concerns your request.,WhatsApp,UPI Fraud,1,synthetic
+important message: your monthly salary has been credited. for your information.,UPI,Legitimate,0,synthetic
+"dear customer, your account requires urgent identity verification. kindly take note.",UPI,KYC Fraud,1,synthetic
+"hello, your shipment requires an urgent security clearance payment. this message concerns your request.",SMS,Courier Fraud,1,synthetic
+important message: submit your otp to complete account verification. please read carefully.,UPI,KYC Fraud,1,synthetic
+"dear customer, provide your banking details to reactivate your account. this is a notification.",WhatsApp,KYC Fraud,1,synthetic
+important message: update your kyc immediately using the provided link. for your information.,UPI,KYC Fraud,1,synthetic
+"dear customer, your identity is linked to illegal activities. please review this message.",Call,Digital Arrest,1,synthetic
+"hello, your kyc status can be checked at your bank branch. please read carefully.",Call,Legitimate,0,synthetic
+notification: a parcel registered in your name is under investigation. please check the details.,SMS,Courier Fraud,1,synthetic
+update: your aadhaar is linked to a criminal investigation. kindly take note.,SMS,Digital Arrest,1,synthetic
+transfer money to resolve your legal case. this message concerns your request.,Call,Digital Arrest,1,synthetic
+update: report suspicious calls to the authorities. please check the details.,WhatsApp,Legitimate,0,synthetic
+"dear customer, your parcel is out for delivery. please review this message.",UPI,Legitimate,0,synthetic
+attention: a criminal case has been registered against you. this is a notification.,WhatsApp,Digital Arrest,1,synthetic
+important message: your account requires urgent identity verification. this message concerns your request.,UPI,KYC Fraud,1,synthetic
+"hello, your appointment has been confirmed. please read carefully.",Call,Legitimate,0,synthetic
+your monthly salary has been credited.,WhatsApp,Legitimate,0,synthetic
+update: send money to verify your upi account. please check the details.,Call,UPI Fraud,1,synthetic
+important message: your appointment has been confirmed. for your information.,WhatsApp,Legitimate,0,synthetic
+notification: please submit your college assignment tomorrow. please review this message.,Call,Legitimate,0,synthetic
+attention: your package has been seized by authorities. this is a notification.,UPI,Courier Fraud,1,synthetic
+"hello, your examination results have been published.",WhatsApp,Legitimate,0,synthetic
+"hello, a criminal case has been registered against you.",WhatsApp,Digital Arrest,1,synthetic
+please note: your order has been delivered successfully. please review this message.,WhatsApp,Legitimate,0,synthetic
+"hello, your shipment has been detained by customs.",UPI,Courier Fraud,1,synthetic
+"dear customer, your debit card has expired. verify your details. kindly take note.",WhatsApp,KYC Fraud,1,synthetic
+your parcel contains prohibited items. this is a notification.,Call,Courier Fraud,1,synthetic
+notification: your bank account will be blocked due to incomplete kyc. kindly take note.,WhatsApp,KYC Fraud,1,synthetic
+important message: your payment was completed successfully. for your information.,Call,Legitimate,0,synthetic
+update: your kyc status can be checked at your bank branch.,Call,Legitimate,0,synthetic
+notification: approve the payment request to unlock your account. please read carefully.,UPI,UPI Fraud,1,synthetic
+attention: your kyc status can be checked at your bank branch. for your information.,WhatsApp,Legitimate,0,synthetic
+"hello, provide your banking details to reactivate your account. please read carefully.",SMS,KYC Fraud,1,synthetic
+attention: please submit your college assignment tomorrow. please read carefully.,Call,Legitimate,0,synthetic
+please note: your appointment has been confirmed. kindly take note.,Call,Legitimate,0,synthetic
+please note: please attend the scheduled team meeting. this is a notification.,WhatsApp,Legitimate,0,synthetic
+"hello, enter your upi pin to receive cashback. please review this message.",SMS,UPI Fraud,1,synthetic
+please note: approve the payment request to unlock your account. please review this message.,SMS,UPI Fraud,1,synthetic
+please note: your order has been delivered successfully. this message concerns your request.,WhatsApp,Legitimate,0,synthetic
+"dear customer, provide your banking details to reactivate your account.",UPI,KYC Fraud,1,synthetic
+important message: a parcel registered in your name is under investigation.,WhatsApp,Courier Fraud,1,synthetic
+"hello, your kyc status can be checked at your bank branch. kindly take note.",WhatsApp,Legitimate,0,synthetic
+"hello, submit your otp to complete account verification. please read carefully.",Call,KYC Fraud,1,synthetic
+"dear customer, your shipment requires an urgent security clearance payment. please read carefully.",WhatsApp,Courier Fraud,1,synthetic
+important message: pay additional charges to avoid legal action. kindly take note.,UPI,Courier Fraud,1,synthetic
+approve this collect request to receive your refund. for your information.,UPI,UPI Fraud,1,synthetic
+"hello, your banking services will be suspended. this is a notification.",UPI,KYC Fraud,1,synthetic
+important message: never share your upi pin with anyone. please read carefully.,WhatsApp,Legitimate,0,synthetic
+pay additional charges to avoid legal action.,WhatsApp,Courier Fraud,1,synthetic
+important message: a parcel registered in your name is under investigation. please check the details.,UPI,Courier Fraud,1,synthetic
+update: your kyc status can be checked at your bank branch. please review this message.,Call,Legitimate,0,synthetic
+"dear customer, your account statement is available. this message concerns your request.",UPI,Legitimate,0,synthetic
+"hello, pay a penalty to release your parcel. for your information.",Call,Courier Fraud,1,synthetic
+update: approve the payment request to unlock your account. please review this message.,UPI,UPI Fraud,1,synthetic
+important message: your bank account will be blocked due to incomplete kyc. for your information.,SMS,KYC Fraud,1,synthetic
+please note: complete online verification to prevent account closure.,WhatsApp,KYC Fraud,1,synthetic
+"hello, a parcel registered in your name is under investigation. this message concerns your request.",UPI,Courier Fraud,1,synthetic
+notification: your examination results have been published. please review this message.,WhatsApp,Legitimate,0,synthetic
+please note: your debit card has expired. verify your details. for your information.,Call,KYC Fraud,1,synthetic
+your class starts at 9 am tomorrow. please check the details.,SMS,Legitimate,0,synthetic
+"hello, your aadhaar is linked to a criminal investigation.",UPI,Digital Arrest,1,synthetic
+update: please submit your college assignment tomorrow. please check the details.,WhatsApp,Legitimate,0,synthetic
+please note: a police officer is investigating your bank account. this is a notification.,UPI,Digital Arrest,1,synthetic
+notification: submit your otp to complete account verification. please read carefully.,Call,KYC Fraud,1,synthetic
+please note: your kyc status can be checked at your bank branch. kindly take note.,WhatsApp,Legitimate,0,synthetic
+notification: pay additional charges to avoid legal action. for your information.,Call,Courier Fraud,1,synthetic
+please note: pay a penalty to release your parcel. kindly take note.,Call,Courier Fraud,1,synthetic
+update: your parcel is out for delivery. this is a notification.,Call,Legitimate,0,synthetic
+"dear customer, scan the qr code to receive your prize money. this message concerns your request.",UPI,UPI Fraud,1,synthetic
+notification: your package has been seized by authorities. please read carefully.,SMS,Courier Fraud,1,synthetic
+attention: your shipment requires an urgent security clearance payment. for your information.,Call,Courier Fraud,1,synthetic
+notification: approve this collect request to receive your refund. please check the details.,SMS,UPI Fraud,1,synthetic
+update: share your upi pin for payment verification. for your information.,UPI,UPI Fraud,1,synthetic
+"dear customer, approve the payment request to unlock your account. please review this message.",SMS,UPI Fraud,1,synthetic
+your account statement is available. this message concerns your request.,UPI,Legitimate,0,synthetic
+"hello, your identity is linked to illegal activities.",Call,Digital Arrest,1,synthetic
+attention: approve the payment request to unlock your account. this message concerns your request.,Call,UPI Fraud,1,synthetic
+update: your payment was completed successfully. please read carefully.,UPI,Legitimate,0,synthetic
+you are under digital arrest. please check the details.,UPI,Digital Arrest,1,synthetic
+"hello, you must pay a penalty to avoid arrest. for your information.",UPI,Digital Arrest,1,synthetic
+attention: your monthly salary has been credited. kindly take note.,UPI,Legitimate,0,synthetic
+your class starts at 9 am tomorrow. for your information.,UPI,Legitimate,0,synthetic
+"dear customer, never share your upi pin with anyone. this message concerns your request.",Call,Legitimate,0,synthetic
+important message: your debit card has expired. verify your details. please check the details.,SMS,KYC Fraud,1,synthetic
+update: your parcel is out for delivery. please check the details.,WhatsApp,Legitimate,0,synthetic
+"dear customer, never share your upi pin with anyone.",SMS,Legitimate,0,synthetic
+notification: enter your payment credentials to receive money. this is a notification.,SMS,UPI Fraud,1,synthetic
+attention: a criminal case has been registered against you.,Call,Digital Arrest,1,synthetic
+"dear customer, your banking services will be suspended. kindly take note.",UPI,KYC Fraud,1,synthetic
+update: your electricity bill is available.,Call,Legitimate,0,synthetic
+important message: your identity is linked to illegal activities. this message concerns your request.,UPI,Digital Arrest,1,synthetic
+attention: enter your upi pin to receive cashback. kindly take note.,UPI,UPI Fraud,1,synthetic
+"hello, report suspicious calls to the authorities.",UPI,Legitimate,0,synthetic
+"hello, complete online verification to prevent account closure.",Call,KYC Fraud,1,synthetic
+your package has been seized by authorities. please review this message.,UPI,Courier Fraud,1,synthetic
+notification: your shipment requires an urgent security clearance payment.,Call,Courier Fraud,1,synthetic
+important message: your shipment requires an urgent security clearance payment. please review this message.,SMS,Courier Fraud,1,synthetic
+"hello, you are under digital arrest. this is a notification.",Call,Digital Arrest,1,synthetic
+"hello, your parcel contains prohibited items. please review this message.",SMS,Courier Fraud,1,synthetic
+attention: please submit your college assignment tomorrow. kindly take note.,SMS,Legitimate,0,synthetic
+"hello, approve the payment request to unlock your account. for your information.",Call,UPI Fraud,1,synthetic
+important message: a criminal case has been registered against you. for your information.,UPI,Digital Arrest,1,synthetic
+important message: a police officer is investigating your bank account. this is a notification.,Call,Digital Arrest,1,synthetic
+please note: enter your upi pin to receive cashback. for your information.,UPI,UPI Fraud,1,synthetic
+important message: update your kyc immediately using the provided link. this is a notification.,SMS,KYC Fraud,1,synthetic
+attention: your refund has been processed. please review this message.,UPI,Legitimate,0,synthetic
+please note: share your upi pin for payment verification. kindly take note.,Call,UPI Fraud,1,synthetic
+update: your shipment has been detained by customs. this message concerns your request.,Call,Courier Fraud,1,synthetic
+"dear customer, your monthly salary has been credited. please read carefully.",Call,Legitimate,0,synthetic
+"hello, scan the qr code to receive your prize money. please check the details.",Call,UPI Fraud,1,synthetic
+your debit card has expired. verify your details. kindly take note.,WhatsApp,KYC Fraud,1,synthetic
+please note: a police officer is investigating your bank account. this message concerns your request.,SMS,Digital Arrest,1,synthetic
+important message: submit your otp to complete account verification. this is a notification.,WhatsApp,KYC Fraud,1,synthetic
+attention: your refund has been processed. please read carefully.,UPI,Legitimate,0,synthetic
+update: provide your banking details to reactivate your account. please read carefully.,SMS,KYC Fraud,1,synthetic
+"dear customer, you must remain on this call until verification. please check the details.",WhatsApp,Digital Arrest,1,synthetic
+your banking services will be suspended. this message concerns your request.,WhatsApp,KYC Fraud,1,synthetic
+attention: send money to verify your upi account. please check the details.,Call,UPI Fraud,1,synthetic
+important message: please attend the scheduled team meeting. this message concerns your request.,WhatsApp,Legitimate,0,synthetic
+your bank account will be blocked due to incomplete kyc. for your information.,WhatsApp,KYC Fraud,1,synthetic
+important message: your identity is linked to illegal activities. kindly take note.,UPI,Digital Arrest,1,synthetic
+important message: your class starts at 9 am tomorrow. please read carefully.,WhatsApp,Legitimate,0,synthetic
+attention: your shipment has been detained by customs. kindly take note.,WhatsApp,Courier Fraud,1,synthetic
+important message: your aadhaar is linked to a criminal investigation. this is a notification.,SMS,Digital Arrest,1,synthetic
+update: please attend the scheduled team meeting. kindly take note.,WhatsApp,Legitimate,0,synthetic
+update: your package has been seized by authorities. this is a notification.,SMS,Courier Fraud,1,synthetic
+notification: your aadhaar is linked to a criminal investigation. please read carefully.,Call,Digital Arrest,1,synthetic
+your courier is linked to an illegal shipment. please review this message.,Call,Courier Fraud,1,synthetic
+"dear customer, never share your upi pin with anyone. please review this message.",SMS,Legitimate,0,synthetic
+pay a penalty to release your parcel. this message concerns your request.,UPI,Courier Fraud,1,synthetic
+update: your parcel contains prohibited items.,WhatsApp,Courier Fraud,1,synthetic
+important message: your aadhaar is linked to a criminal investigation. for your information.,SMS,Digital Arrest,1,synthetic
+update: your banking services will be suspended. this is a notification.,WhatsApp,KYC Fraud,1,synthetic
+important message: contact your bank through its official application. please read carefully.,SMS,Legitimate,0,synthetic
+notification: you must pay a penalty to avoid arrest. this is a notification.,SMS,Digital Arrest,1,synthetic
+"hello, approve this collect request to receive your refund. kindly take note.",UPI,UPI Fraud,1,synthetic
+attention: pay a registration fee to claim your reward. this message concerns your request.,UPI,UPI Fraud,1,synthetic
+notification: your courier is linked to an illegal shipment. please check the details.,WhatsApp,Courier Fraud,1,synthetic
+please note: please attend the scheduled team meeting. please review this message.,SMS,Legitimate,0,synthetic
+update: your courier is linked to an illegal shipment. for your information.,SMS,Courier Fraud,1,synthetic
+update: approve the payment request to unlock your account.,UPI,UPI Fraud,1,synthetic
+important message: your courier is linked to an illegal shipment. please read carefully.,WhatsApp,Courier Fraud,1,synthetic
+your account requires urgent identity verification. kindly take note.,SMS,KYC Fraud,1,synthetic
+notification: your courier is linked to an illegal shipment. please read carefully.,SMS,Courier Fraud,1,synthetic
+important message: your account statement is available. for your information.,WhatsApp,Legitimate,0,synthetic
+attention: your monthly salary has been credited. please check the details.,SMS,Legitimate,0,synthetic
+"hello, your shipment requires an urgent security clearance payment. for your information.",Call,Courier Fraud,1,synthetic
+"dear customer, your kyc status can be checked at your bank branch.",WhatsApp,Legitimate,0,synthetic
+update: please submit your college assignment tomorrow.,SMS,Legitimate,0,synthetic
+please note: never share your upi pin with anyone. this message concerns your request.,SMS,Legitimate,0,synthetic
+notification: scan the qr code to receive your prize money. please check the details.,WhatsApp,UPI Fraud,1,synthetic
+"dear customer, a police officer is investigating your bank account. for your information.",SMS,Digital Arrest,1,synthetic
+attention: your payment was completed successfully. please review this message.,Call,Legitimate,0,synthetic
+update: your appointment has been confirmed. kindly take note.,SMS,Legitimate,0,synthetic
+notification: pay a penalty to release your parcel. this is a notification.,SMS,Courier Fraud,1,synthetic
+attention: please attend the scheduled team meeting. please read carefully.,SMS,Legitimate,0,synthetic
+your examination results have been published. for your information.,SMS,Legitimate,0,synthetic
+important message: contact your bank through its official application. please check the details.,WhatsApp,Legitimate,0,synthetic
+scan the qr code to receive your prize money. for your information.,UPI,UPI Fraud,1,synthetic
+update: your electricity bill is available. please review this message.,UPI,Legitimate,0,synthetic
+notification: transfer money to resolve your legal case. this is a notification.,Call,Digital Arrest,1,synthetic
+update: your order has been delivered successfully. kindly take note.,WhatsApp,Legitimate,0,synthetic
+"dear customer, your package has been seized by authorities. this message concerns your request.",SMS,Courier Fraud,1,synthetic
+please note: your debit card has expired. verify your details. this message concerns your request.,WhatsApp,KYC Fraud,1,synthetic
+notification: please submit your college assignment tomorrow. this message concerns your request.,Call,Legitimate,0,synthetic
+"dear customer, provide your banking details to reactivate your account. for your information.",Call,KYC Fraud,1,synthetic
+please note: contact your bank through its official application. please review this message.,SMS,Legitimate,0,synthetic
+please attend the scheduled team meeting. kindly take note.,Call,Legitimate,0,synthetic
+update: your debit card has expired. verify your details. for your information.,Call,KYC Fraud,1,synthetic
+update: your refund has been processed. kindly take note.,Call,Legitimate,0,synthetic
+approve this collect request to receive your refund. please check the details.,Call,UPI Fraud,1,synthetic
+"dear customer, send money to verify your upi account. for your information.",Call,UPI Fraud,1,synthetic
+update: please attend the scheduled team meeting. please check the details.,UPI,Legitimate,0,synthetic
+attention: your identity is linked to illegal activities. this message concerns your request.,WhatsApp,Digital Arrest,1,synthetic
+"dear customer, complete online verification to prevent account closure. for your information.",UPI,KYC Fraud,1,synthetic
+update: your account statement is available.,WhatsApp,Legitimate,0,synthetic
+your shipment has been detained by customs. please check the details.,SMS,Courier Fraud,1,synthetic
+please note: approve this collect request to receive your refund. please review this message.,UPI,UPI Fraud,1,synthetic
+"hello, your shipment has been detained by customs. kindly take note.",Call,Courier Fraud,1,synthetic
+update: your bank account will be blocked due to incomplete kyc. this message concerns your request.,WhatsApp,KYC Fraud,1,synthetic
+"hello, scan the qr code to receive your prize money. please review this message.",SMS,UPI Fraud,1,synthetic
+"dear customer, a police officer is investigating your bank account.",WhatsApp,Digital Arrest,1,synthetic
+attention: your aadhaar is linked to a criminal investigation. please check the details.,UPI,Digital Arrest,1,synthetic
+please note: enter your upi pin to receive cashback. this message concerns your request.,Call,UPI Fraud,1,synthetic
+please note: please submit your college assignment tomorrow. please check the details.,UPI,Legitimate,0,synthetic
+important message: your courier is linked to an illegal shipment. please check the details.,Call,Courier Fraud,1,synthetic
+please note: enter your payment credentials to receive money.,Call,UPI Fraud,1,synthetic
+please note: report suspicious calls to the authorities. kindly take note.,WhatsApp,Legitimate,0,synthetic
+update: your kyc status can be checked at your bank branch. for your information.,WhatsApp,Legitimate,0,synthetic
+please note: your electricity bill is available. for your information.,SMS,Legitimate,0,synthetic
+important message: your courier is linked to an illegal shipment. this message concerns your request.,UPI,Courier Fraud,1,synthetic
+"dear customer, scan the qr code to receive your prize money. please review this message.",SMS,UPI Fraud,1,synthetic
+important message: a parcel registered in your name is under investigation. this message concerns your request.,Call,Courier Fraud,1,synthetic
+important message: you must remain on this call until verification. kindly take note.,WhatsApp,Digital Arrest,1,synthetic
+notification: your appointment has been confirmed. please check the details.,UPI,Legitimate,0,synthetic
+"hello, your bank account will be blocked due to incomplete kyc. please review this message.",Call,KYC Fraud,1,synthetic
+update: your shipment has been detained by customs. please review this message.,Call,Courier Fraud,1,synthetic
+notification: complete online verification to prevent account closure. this message concerns your request.,SMS,KYC Fraud,1,synthetic
+please note: your bank account will be blocked due to incomplete kyc. please read carefully.,Call,KYC Fraud,1,synthetic
+important message: complete online verification to prevent account closure.,WhatsApp,KYC Fraud,1,synthetic
+important message: your debit card has expired. verify your details. please read carefully.,UPI,KYC Fraud,1,synthetic
+please note: you must remain on this call until verification. please check the details.,Call,Digital Arrest,1,synthetic
+update: enter your upi pin to receive cashback. this is a notification.,SMS,UPI Fraud,1,synthetic
+update: your banking services will be suspended. this message concerns your request.,SMS,KYC Fraud,1,synthetic
+transfer money to resolve your legal case. please review this message.,UPI,Digital Arrest,1,synthetic
+scan the qr code to receive your prize money. please check the details.,Call,UPI Fraud,1,synthetic
+update: your class starts at 9 am tomorrow. kindly take note.,SMS,Legitimate,0,synthetic
+important message: your package has been seized by authorities. please read carefully.,SMS,Courier Fraud,1,synthetic
+notification: complete online verification to prevent account closure. please check the details.,WhatsApp,KYC Fraud,1,synthetic
+attention: pay additional charges to avoid legal action.,SMS,Courier Fraud,1,synthetic
+your courier is linked to an illegal shipment.,SMS,Courier Fraud,1,synthetic
+important message: approve this collect request to receive your refund. for your information.,WhatsApp,UPI Fraud,1,synthetic
+please note: contact your bank through its official application.,SMS,Legitimate,0,synthetic
+important message: your bank account will be blocked due to incomplete kyc.,Call,KYC Fraud,1,synthetic
+"dear customer, contact your bank through its official application. please read carefully.",SMS,Legitimate,0,synthetic
+"hello, contact your bank through its official application. please review this message.",WhatsApp,Legitimate,0,synthetic
+please note: your order has been delivered successfully. please read carefully.,UPI,Legitimate,0,synthetic
+please note: your account statement is available.,Call,Legitimate,0,synthetic
+notification: your order has been delivered successfully. this is a notification.,Call,Legitimate,0,synthetic
+important message: your account statement is available. please review this message.,Call,Legitimate,0,synthetic
+"dear customer, update your kyc immediately using the provided link. please read carefully.",WhatsApp,KYC Fraud,1,synthetic
+important message: enter your upi pin to receive cashback. this message concerns your request.,SMS,UPI Fraud,1,synthetic
+"hello, share your upi pin for payment verification. please read carefully.",Call,UPI Fraud,1,synthetic
+"hello, your identity is linked to illegal activities. this is a notification.",WhatsApp,Digital Arrest,1,synthetic
+please note: send money to verify your upi account.,WhatsApp,UPI Fraud,1,synthetic
+update: your account statement is available. for your information.,SMS,Legitimate,0,synthetic
+important message: your kyc status can be checked at your bank branch. please check the details.,UPI,Legitimate,0,synthetic
+"dear customer, submit your otp to complete account verification. please read carefully.",Call,KYC Fraud,1,synthetic
+important message: transfer money to resolve your legal case. this message concerns your request.,Call,Digital Arrest,1,synthetic
+notification: your payment was completed successfully. this is a notification.,Call,Legitimate,0,synthetic
+"dear customer, report suspicious calls to the authorities. this is a notification.",SMS,Legitimate,0,synthetic
+your bank account will be blocked due to incomplete kyc. this message concerns your request.,Call,KYC Fraud,1,synthetic
+attention: your banking services will be suspended.,SMS,KYC Fraud,1,synthetic
+update: enter your payment credentials to receive money. please read carefully.,SMS,UPI Fraud,1,synthetic
+important message: please submit your college assignment tomorrow. please check the details.,SMS,Legitimate,0,synthetic
+"dear customer, report suspicious calls to the authorities. kindly take note.",Call,Legitimate,0,synthetic
+your examination results have been published. this is a notification.,WhatsApp,Legitimate,0,synthetic
+update: your examination results have been published. please check the details.,UPI,Legitimate,0,synthetic
+update your kyc immediately using the provided link. please check the details.,Call,KYC Fraud,1,synthetic
+"hello, approve the payment request to unlock your account.",SMS,UPI Fraud,1,synthetic
+"dear customer, please submit your college assignment tomorrow. please review this message.",UPI,Legitimate,0,synthetic
+"dear customer, your shipment has been detained by customs. kindly take note.",SMS,Courier Fraud,1,synthetic
+important message: your identity is linked to illegal activities. please check the details.,WhatsApp,Digital Arrest,1,synthetic
+"dear customer, pay a registration fee to claim your reward. please review this message.",SMS,UPI Fraud,1,synthetic
+"dear customer, your class starts at 9 am tomorrow. this message concerns your request.",SMS,Legitimate,0,synthetic
+your refund has been processed. please check the details.,Call,Legitimate,0,synthetic
+update: your account statement is available. this message concerns your request.,UPI,Legitimate,0,synthetic
+important message: your account requires urgent identity verification. please review this message.,Call,KYC Fraud,1,synthetic
+important message: you must remain on this call until verification. please check the details.,UPI,Digital Arrest,1,synthetic
+update: enter your payment credentials to receive money. please check the details.,WhatsApp,UPI Fraud,1,synthetic
+"hello, please submit your college assignment tomorrow. for your information.",Call,Legitimate,0,synthetic
+important message: share your upi pin for payment verification. please read carefully.,UPI,UPI Fraud,1,synthetic
+attention: pay a penalty to release your parcel. please read carefully.,SMS,Courier Fraud,1,synthetic
+please note: never share your upi pin with anyone. for your information.,SMS,Legitimate,0,synthetic
+please note: your account statement is available. kindly take note.,Call,Legitimate,0,synthetic
+important message: pay a penalty to release your parcel.,WhatsApp,Courier Fraud,1,synthetic
+please note: transfer money to resolve your legal case. for your information.,Call,Digital Arrest,1,synthetic
+notification: a criminal case has been registered against you. please check the details.,UPI,Digital Arrest,1,synthetic
+"dear customer, your identity is linked to illegal activities. this is a notification.",WhatsApp,Digital Arrest,1,synthetic
+update: your identity is linked to illegal activities. kindly take note.,UPI,Digital Arrest,1,synthetic
+"hello, you must pay a penalty to avoid arrest. this message concerns your request.",UPI,Digital Arrest,1,synthetic
+"dear customer, your bank account will be blocked due to incomplete kyc. kindly take note.",UPI,KYC Fraud,1,synthetic
+important message: you are under digital arrest. please review this message.,UPI,Digital Arrest,1,synthetic
+"dear customer, pay additional charges to avoid legal action. kindly take note.",UPI,Courier Fraud,1,synthetic
+your shipment has been detained by customs. for your information.,UPI,Courier Fraud,1,synthetic
+update: scan the qr code to receive your prize money. please review this message.,SMS,UPI Fraud,1,synthetic
+update: pay a registration fee to claim your reward. this is a notification.,SMS,UPI Fraud,1,synthetic
+important message: your shipment requires an urgent security clearance payment. this is a notification.,UPI,Courier Fraud,1,synthetic
+please note: a parcel registered in your name is under investigation. this message concerns your request.,UPI,Courier Fraud,1,synthetic
+"dear customer, your parcel is out for delivery. please check the details.",SMS,Legitimate,0,synthetic
+attention: your appointment has been confirmed. please check the details.,WhatsApp,Legitimate,0,synthetic
+"hello, pay a penalty to release your parcel. please review this message.",WhatsApp,Courier Fraud,1,synthetic
+important message: your electricity bill is available. please review this message.,UPI,Legitimate,0,synthetic
+"hello, contact your bank through its official application. for your information.",WhatsApp,Legitimate,0,synthetic
+please note: your parcel is out for delivery. this is a notification.,WhatsApp,Legitimate,0,synthetic
+notification: your shipment requires an urgent security clearance payment. kindly take note.,WhatsApp,Courier Fraud,1,synthetic
+please note: contact your bank through its official application. please check the details.,Call,Legitimate,0,synthetic
+update: never share your upi pin with anyone. for your information.,WhatsApp,Legitimate,0,synthetic
+"dear customer, your account statement is available. this is a notification.",WhatsApp,Legitimate,0,synthetic
+attention: please attend the scheduled team meeting. please check the details.,UPI,Legitimate,0,synthetic
+important message: your account statement is available. this is a notification.,UPI,Legitimate,0,synthetic
+please note: your examination results have been published. for your information.,WhatsApp,Legitimate,0,synthetic
+important message: send money to verify your upi account. this message concerns your request.,Call,UPI Fraud,1,synthetic
+"dear customer, send money to verify your upi account. please review this message.",SMS,UPI Fraud,1,synthetic
+"hello, your courier is linked to an illegal shipment. for your information.",SMS,Courier Fraud,1,synthetic
+"dear customer, your account statement is available. please check the details.",Call,Legitimate,0,synthetic
+notification: please attend the scheduled team meeting.,Call,Legitimate,0,synthetic
+please note: your debit card has expired. verify your details.,SMS,KYC Fraud,1,synthetic
+"hello, your order has been delivered successfully. please review this message.",SMS,Legitimate,0,synthetic
+"dear customer, contact your bank through its official application. please review this message.",Call,Legitimate,0,synthetic
+you must pay a penalty to avoid arrest. for your information.,SMS,Digital Arrest,1,synthetic
+your debit card has expired. verify your details. this is a notification.,WhatsApp,KYC Fraud,1,synthetic
+update: your debit card has expired. verify your details. this is a notification.,SMS,KYC Fraud,1,synthetic
+notification: a criminal case has been registered against you. please review this message.,UPI,Digital Arrest,1,synthetic
+send money to verify your upi account. kindly take note.,WhatsApp,UPI Fraud,1,synthetic
+"dear customer, your parcel is out for delivery. this message concerns your request.",WhatsApp,Legitimate,0,synthetic
+"hello, your appointment has been confirmed. please review this message.",SMS,Legitimate,0,synthetic
+"dear customer, your kyc status can be checked at your bank branch. please check the details.",SMS,Legitimate,0,synthetic
+attention: report suspicious calls to the authorities. please read carefully.,Call,Legitimate,0,synthetic
+important message: your class starts at 9 am tomorrow. please review this message.,SMS,Legitimate,0,synthetic
+"hello, send money to verify your upi account. please check the details.",Call,UPI Fraud,1,synthetic
+notification: your identity is linked to illegal activities. please read carefully.,UPI,Digital Arrest,1,synthetic
+please note: pay a penalty to release your parcel. for your information.,UPI,Courier Fraud,1,synthetic
+important message: your account statement is available.,SMS,Legitimate,0,synthetic
+update: your monthly salary has been credited. this message concerns your request.,UPI,Legitimate,0,synthetic
+your order has been delivered successfully. please read carefully.,Call,Legitimate,0,synthetic
+notification: your shipment requires an urgent security clearance payment. this is a notification.,SMS,Courier Fraud,1,synthetic
+attention: a criminal case has been registered against you. please check the details.,WhatsApp,Digital Arrest,1,synthetic
+update: your payment was completed successfully. this message concerns your request.,SMS,Legitimate,0,synthetic
+please note: approve the payment request to unlock your account. please check the details.,WhatsApp,UPI Fraud,1,synthetic
+you must pay a penalty to avoid arrest. please read carefully.,SMS,Digital Arrest,1,synthetic
+update: your shipment has been detained by customs. kindly take note.,WhatsApp,Courier Fraud,1,synthetic
+"hello, your debit card has expired. verify your details. please read carefully.",SMS,KYC Fraud,1,synthetic
+approve the payment request to unlock your account.,SMS,UPI Fraud,1,synthetic
+notification: please submit your college assignment tomorrow. for your information.,WhatsApp,Legitimate,0,synthetic
+"dear customer, your identity is linked to illegal activities. for your information.",WhatsApp,Digital Arrest,1,synthetic
+important message: your examination results have been published. for your information.,WhatsApp,Legitimate,0,synthetic
+notification: your electricity bill is available. this is a notification.,Call,Legitimate,0,synthetic
+please note: your identity is linked to illegal activities. please read carefully.,Call,Digital Arrest,1,synthetic
+important message: your kyc status can be checked at your bank branch. please read carefully.,SMS,Legitimate,0,synthetic
+please note: your monthly salary has been credited. this message concerns your request.,WhatsApp,Legitimate,0,synthetic
+attention: your parcel is out for delivery. please check the details.,SMS,Legitimate,0,synthetic
+please note: your kyc status can be checked at your bank branch. this is a notification.,SMS,Legitimate,0,synthetic
+please note: pay a penalty to release your parcel. please review this message.,SMS,Courier Fraud,1,synthetic
+"hello, your identity is linked to illegal activities. this message concerns your request.",WhatsApp,Digital Arrest,1,synthetic
+your parcel contains prohibited items. please read carefully.,WhatsApp,Courier Fraud,1,synthetic
+update: your aadhaar is linked to a criminal investigation.,WhatsApp,Digital Arrest,1,synthetic
+send money to verify your upi account.,SMS,UPI Fraud,1,synthetic
+notification: your identity is linked to illegal activities. please review this message.,Call,Digital Arrest,1,synthetic
+important message: transfer money to resolve your legal case.,Call,Digital Arrest,1,synthetic
+"hello, please submit your college assignment tomorrow. please check the details.",SMS,Legitimate,0,synthetic
+update: your bank account will be blocked due to incomplete kyc. please read carefully.,SMS,KYC Fraud,1,synthetic
+please note: your refund has been processed. this is a notification.,WhatsApp,Legitimate,0,synthetic
+"hello, a police officer is investigating your bank account. for your information.",SMS,Digital Arrest,1,synthetic
+"dear customer, your order has been delivered successfully. please review this message.",UPI,Legitimate,0,synthetic
+approve the payment request to unlock your account. please read carefully.,SMS,UPI Fraud,1,synthetic
+"dear customer, contact your bank through its official application. this message concerns your request.",WhatsApp,Legitimate,0,synthetic
+attention: your refund has been processed. this is a notification.,UPI,Legitimate,0,synthetic
+attention: your class starts at 9 am tomorrow. for your information.,UPI,Legitimate,0,synthetic
+you must remain on this call until verification. please review this message.,Call,Digital Arrest,1,synthetic
+"hello, a criminal case has been registered against you. this is a notification.",Call,Digital Arrest,1,synthetic
+attention: your courier is linked to an illegal shipment. this is a notification.,WhatsApp,Courier Fraud,1,synthetic
+your banking services will be suspended. for your information.,WhatsApp,KYC Fraud,1,synthetic
+important message: please attend the scheduled team meeting. kindly take note.,SMS,Legitimate,0,synthetic
+"dear customer, please submit your college assignment tomorrow. kindly take note.",WhatsApp,Legitimate,0,synthetic
+please note: you are under digital arrest. kindly take note.,Call,Digital Arrest,1,synthetic
+update: contact your bank through its official application. for your information.,UPI,Legitimate,0,synthetic
+update: contact your bank through its official application. please check the details.,Call,Legitimate,0,synthetic
+important message: your shipment requires an urgent security clearance payment. please read carefully.,WhatsApp,Courier Fraud,1,synthetic
+notification: send money to verify your upi account. please review this message.,Call,UPI Fraud,1,synthetic
+important message: your package has been seized by authorities. this is a notification.,Call,Courier Fraud,1,synthetic
+"hello, your electricity bill is available. please check the details.",SMS,Legitimate,0,synthetic
+notification: your order has been delivered successfully. please check the details.,SMS,Legitimate,0,synthetic
+please note: your aadhaar is linked to a criminal investigation. kindly take note.,Call,Digital Arrest,1,synthetic
+"hello, report suspicious calls to the authorities. this message concerns your request.",SMS,Legitimate,0,synthetic
+"hello, report suspicious calls to the authorities. for your information.",Call,Legitimate,0,synthetic
+please note: your monthly salary has been credited.,UPI,Legitimate,0,synthetic
+attention: your electricity bill is available. please review this message.,SMS,Legitimate,0,synthetic
+notification: a police officer is investigating your bank account. please check the details.,UPI,Digital Arrest,1,synthetic
+enter your upi pin to receive cashback. please read carefully.,SMS,UPI Fraud,1,synthetic
+notification: your parcel is out for delivery. please check the details.,UPI,Legitimate,0,synthetic
+attention: your class starts at 9 am tomorrow. this message concerns your request.,Call,Legitimate,0,synthetic
+"hello, transfer money to resolve your legal case. this message concerns your request.",Call,Digital Arrest,1,synthetic
+important message: never share your upi pin with anyone. please check the details.,Call,Legitimate,0,synthetic
+your kyc status can be checked at your bank branch. please read carefully.,UPI,Legitimate,0,synthetic
+"hello, please submit your college assignment tomorrow.",WhatsApp,Legitimate,0,synthetic
+"hello, your appointment has been confirmed. for your information.",WhatsApp,Legitimate,0,synthetic
+"hello, please submit your college assignment tomorrow. please read carefully.",Call,Legitimate,0,synthetic
+update: enter your payment credentials to receive money. kindly take note.,WhatsApp,UPI Fraud,1,synthetic
+update: send money to verify your upi account. this message concerns your request.,UPI,UPI Fraud,1,synthetic
+"dear customer, please submit your college assignment tomorrow. please check the details.",WhatsApp,Legitimate,0,synthetic
+"hello, your class starts at 9 am tomorrow. kindly take note.",Call,Legitimate,0,synthetic
+please note: update your kyc immediately using the provided link. please check the details.,WhatsApp,KYC Fraud,1,synthetic
+update: your order has been delivered successfully. this message concerns your request.,SMS,Legitimate,0,synthetic
+update: your parcel is out for delivery. please review this message.,Call,Legitimate,0,synthetic
+notification: complete online verification to prevent account closure. please review this message.,UPI,KYC Fraud,1,synthetic
+please note: your parcel is out for delivery. please read carefully.,Call,Legitimate,0,synthetic
+"dear customer, your bank account will be blocked due to incomplete kyc. please check the details.",WhatsApp,KYC Fraud,1,synthetic
+notification: scan the qr code to receive your prize money. please review this message.,Call,UPI Fraud,1,synthetic
+update: your payment was completed successfully. kindly take note.,SMS,Legitimate,0,synthetic
+please note: your bank account will be blocked due to incomplete kyc. this is a notification.,SMS,KYC Fraud,1,synthetic
+update: your monthly salary has been credited.,SMS,Legitimate,0,synthetic
+"dear customer, your class starts at 9 am tomorrow. for your information.",UPI,Legitimate,0,synthetic
+notification: your refund has been processed. please check the details.,UPI,Legitimate,0,synthetic
+update your kyc immediately using the provided link. this is a notification.,SMS,KYC Fraud,1,synthetic
+"dear customer, complete online verification to prevent account closure. this message concerns your request.",SMS,KYC Fraud,1,synthetic
+"hello, a police officer is investigating your bank account. please check the details.",SMS,Digital Arrest,1,synthetic
+important message: your parcel is out for delivery. please check the details.,SMS,Legitimate,0,synthetic
+"dear customer, your payment was completed successfully. please review this message.",WhatsApp,Legitimate,0,synthetic
+important message: a criminal case has been registered against you. this message concerns your request.,WhatsApp,Digital Arrest,1,synthetic
+update: your shipment requires an urgent security clearance payment. this is a notification.,WhatsApp,Courier Fraud,1,synthetic
+please note: your shipment has been detained by customs. for your information.,UPI,Courier Fraud,1,synthetic
+notification: pay a registration fee to claim your reward. please check the details.,SMS,UPI Fraud,1,synthetic
+update: never share your upi pin with anyone. please check the details.,SMS,Legitimate,0,synthetic
+update: your parcel contains prohibited items. please read carefully.,UPI,Courier Fraud,1,synthetic
+"dear customer, your monthly salary has been credited. this is a notification.",UPI,Legitimate,0,synthetic
+attention: your parcel is out for delivery. please read carefully.,SMS,Legitimate,0,synthetic
+notification: your refund has been processed. please review this message.,UPI,Legitimate,0,synthetic
+update: your order has been delivered successfully. for your information.,UPI,Legitimate,0,synthetic
+update: please attend the scheduled team meeting. for your information.,UPI,Legitimate,0,synthetic
+"dear customer, your parcel is out for delivery. kindly take note.",SMS,Legitimate,0,synthetic
+important message: your kyc status can be checked at your bank branch. kindly take note.,UPI,Legitimate,0,synthetic
+"hello, update your kyc immediately using the provided link. this message concerns your request.",Call,KYC Fraud,1,synthetic
+a criminal case has been registered against you. this message concerns your request.,UPI,Digital Arrest,1,synthetic
+"hello, your payment was completed successfully.",WhatsApp,Legitimate,0,synthetic
+update: your account requires urgent identity verification. this message concerns your request.,SMS,KYC Fraud,1,synthetic
+notification: your parcel contains prohibited items. this is a notification.,Call,Courier Fraud,1,synthetic
+"dear customer, your account requires urgent identity verification. please read carefully.",WhatsApp,KYC Fraud,1,synthetic
+"dear customer, your class starts at 9 am tomorrow. kindly take note.",UPI,Legitimate,0,synthetic
+notification: contact your bank through its official application. for your information.,SMS,Legitimate,0,synthetic
+update: your examination results have been published. this is a notification.,Call,Legitimate,0,synthetic
+notification: your shipment requires an urgent security clearance payment. please check the details.,Call,Courier Fraud,1,synthetic
+update: transfer money to resolve your legal case. kindly take note.,Call,Digital Arrest,1,synthetic
+attention: your shipment requires an urgent security clearance payment. this message concerns your request.,WhatsApp,Courier Fraud,1,synthetic
+important message: pay a penalty to release your parcel. please review this message.,WhatsApp,Courier Fraud,1,synthetic
+"dear customer, your payment was completed successfully. for your information.",SMS,Legitimate,0,synthetic
+"hello, your class starts at 9 am tomorrow. this is a notification.",UPI,Legitimate,0,synthetic
+please note: please attend the scheduled team meeting.,UPI,Legitimate,0,synthetic
+"hello, never share your upi pin with anyone. kindly take note.",WhatsApp,Legitimate,0,synthetic
+important message: a parcel registered in your name is under investigation. for your information.,Call,Courier Fraud,1,synthetic
+pay additional charges to avoid legal action. for your information.,Call,Courier Fraud,1,synthetic
+"dear customer, approve the payment request to unlock your account. kindly take note.",SMS,UPI Fraud,1,synthetic
+"hello, a criminal case has been registered against you. please check the details.",Call,Digital Arrest,1,synthetic
+attention: pay a registration fee to claim your reward.,SMS,UPI Fraud,1,synthetic
+attention: your bank account will be blocked due to incomplete kyc. please read carefully.,WhatsApp,KYC Fraud,1,synthetic
+important message: your examination results have been published.,UPI,Legitimate,0,synthetic
+"dear customer, please attend the scheduled team meeting. kindly take note.",WhatsApp,Legitimate,0,synthetic
+please note: your identity is linked to illegal activities. this is a notification.,UPI,Digital Arrest,1,synthetic
+"dear customer, your parcel contains prohibited items. please review this message.",WhatsApp,Courier Fraud,1,synthetic
+attention: please submit your college assignment tomorrow. please review this message.,SMS,Legitimate,0,synthetic
+"dear customer, you must remain on this call until verification. kindly take note.",WhatsApp,Digital Arrest,1,synthetic
+"dear customer, your debit card has expired. verify your details. this is a notification.",SMS,KYC Fraud,1,synthetic
+important message: your electricity bill is available.,Call,Legitimate,0,synthetic
+notification: your payment was completed successfully. kindly take note.,SMS,Legitimate,0,synthetic
+important message: a police officer is investigating your bank account. for your information.,UPI,Digital Arrest,1,synthetic
+attention: a police officer is investigating your bank account. for your information.,UPI,Digital Arrest,1,synthetic
+attention: pay a penalty to release your parcel. this message concerns your request.,SMS,Courier Fraud,1,synthetic
+update: your electricity bill is available. for your information.,SMS,Legitimate,0,synthetic
+submit your otp to complete account verification. please review this message.,Call,KYC Fraud,1,synthetic
+contact your bank through its official application.,Call,Legitimate,0,synthetic
+update: a criminal case has been registered against you. this is a notification.,WhatsApp,Digital Arrest,1,synthetic
+update: you must remain on this call until verification. for your information.,Call,Digital Arrest,1,synthetic
+your parcel is out for delivery. please review this message.,WhatsApp,Legitimate,0,synthetic
+attention: you must remain on this call until verification. this is a notification.,WhatsApp,Digital Arrest,1,synthetic
+you are under digital arrest. this is a notification.,UPI,Digital Arrest,1,synthetic
+please note: send money to verify your upi account. please check the details.,SMS,UPI Fraud,1,synthetic
+a police officer is investigating your bank account. please review this message.,WhatsApp,Digital Arrest,1,synthetic
+notification: approve the payment request to unlock your account. kindly take note.,WhatsApp,UPI Fraud,1,synthetic
+attention: submit your otp to complete account verification. please review this message.,SMS,KYC Fraud,1,synthetic
+"dear customer, complete online verification to prevent account closure. please read carefully.",WhatsApp,KYC Fraud,1,synthetic
+please note: your account requires urgent identity verification. this message concerns your request.,Call,KYC Fraud,1,synthetic
+notification: your bank account will be blocked due to incomplete kyc. please review this message.,WhatsApp,KYC Fraud,1,synthetic
+attention: transfer money to resolve your legal case.,Call,Digital Arrest,1,synthetic
+attention: your account statement is available. this is a notification.,UPI,Legitimate,0,synthetic
+"hello, your kyc status can be checked at your bank branch. please review this message.",WhatsApp,Legitimate,0,synthetic
+"dear customer, provide your banking details to reactivate your account. kindly take note.",SMS,KYC Fraud,1,synthetic
+important message: scan the qr code to receive your prize money. this message concerns your request.,WhatsApp,UPI Fraud,1,synthetic
+your debit card has expired. verify your details.,UPI,KYC Fraud,1,synthetic
+notification: please submit your college assignment tomorrow.,Call,Legitimate,0,synthetic
+you must remain on this call until verification. for your information.,SMS,Digital Arrest,1,synthetic
+"hello, provide your banking details to reactivate your account. please review this message.",UPI,KYC Fraud,1,synthetic
+"hello, your bank account will be blocked due to incomplete kyc.",SMS,KYC Fraud,1,synthetic
+"dear customer, you must remain on this call until verification. this message concerns your request.",SMS,Digital Arrest,1,synthetic
+update: your class starts at 9 am tomorrow. please read carefully.,UPI,Legitimate,0,synthetic
+important message: update your kyc immediately using the provided link. please check the details.,WhatsApp,KYC Fraud,1,synthetic
+"dear customer, your bank account will be blocked due to incomplete kyc. please read carefully.",WhatsApp,KYC Fraud,1,synthetic
+attention: your package has been seized by authorities. please check the details.,Call,Courier Fraud,1,synthetic
+attention: you are under digital arrest.,SMS,Digital Arrest,1,synthetic
+"hello, your shipment requires an urgent security clearance payment. please read carefully.",SMS,Courier Fraud,1,synthetic
+your banking services will be suspended.,Call,KYC Fraud,1,synthetic
+attention: your shipment requires an urgent security clearance payment. please check the details.,UPI,Courier Fraud,1,synthetic
+important message: your shipment requires an urgent security clearance payment. please check the details.,UPI,Courier Fraud,1,synthetic
+please note: your examination results have been published. please read carefully.,WhatsApp,Legitimate,0,synthetic
+please note: your account statement is available. this message concerns your request.,SMS,Legitimate,0,synthetic
+"dear customer, your appointment has been confirmed.",WhatsApp,Legitimate,0,synthetic
+important message: your bank account will be blocked due to incomplete kyc. please check the details.,Call,KYC Fraud,1,synthetic
+attention: your class starts at 9 am tomorrow. please review this message.,SMS,Legitimate,0,synthetic
+you must remain on this call until verification. please check the details.,SMS,Digital Arrest,1,synthetic
+"hello, your electricity bill is available. for your information.",WhatsApp,Legitimate,0,synthetic
+attention: a criminal case has been registered against you. for your information.,SMS,Digital Arrest,1,synthetic
+please note: update your kyc immediately using the provided link. this message concerns your request.,SMS,KYC Fraud,1,synthetic
+important message: you are under digital arrest. kindly take note.,SMS,Digital Arrest,1,synthetic
+attention: a police officer is investigating your bank account. please read carefully.,WhatsApp,Digital Arrest,1,synthetic
+"hello, pay additional charges to avoid legal action. please review this message.",UPI,Courier Fraud,1,synthetic
+attention: your order has been delivered successfully.,WhatsApp,Legitimate,0,synthetic
+your parcel contains prohibited items. please review this message.,WhatsApp,Courier Fraud,1,synthetic
+"dear customer, your banking services will be suspended. please review this message.",SMS,KYC Fraud,1,synthetic
+"hello, your monthly salary has been credited. please check the details.",UPI,Legitimate,0,synthetic
+important message: you must pay a penalty to avoid arrest. please read carefully.,SMS,Digital Arrest,1,synthetic
+"dear customer, contact your bank through its official application.",UPI,Legitimate,0,synthetic
+notification: your courier is linked to an illegal shipment. this message concerns your request.,Call,Courier Fraud,1,synthetic
+important message: please attend the scheduled team meeting. for your information.,SMS,Legitimate,0,synthetic
+"hello, your examination results have been published. please review this message.",WhatsApp,Legitimate,0,synthetic
+"dear customer, your refund has been processed. please check the details.",UPI,Legitimate,0,synthetic
+"hello, pay a registration fee to claim your reward. kindly take note.",WhatsApp,UPI Fraud,1,synthetic
+please note: your shipment requires an urgent security clearance payment. this message concerns your request.,Call,Courier Fraud,1,synthetic
+"dear customer, your banking services will be suspended. for your information.",Call,KYC Fraud,1,synthetic
+notification: pay a registration fee to claim your reward. please review this message.,SMS,UPI Fraud,1,synthetic
+important message: enter your upi pin to receive cashback. please check the details.,SMS,UPI Fraud,1,synthetic
+attention: your parcel is out for delivery.,Call,Legitimate,0,synthetic
+notification: provide your banking details to reactivate your account. please check the details.,UPI,KYC Fraud,1,synthetic
+"hello, a police officer is investigating your bank account. please review this message.",SMS,Digital Arrest,1,synthetic
+notification: submit your otp to complete account verification. this is a notification.,WhatsApp,KYC Fraud,1,synthetic
+important message: please attend the scheduled team meeting. please check the details.,Call,Legitimate,0,synthetic
+attention: approve the payment request to unlock your account.,UPI,UPI Fraud,1,synthetic
+"hello, your appointment has been confirmed. this message concerns your request.",UPI,Legitimate,0,synthetic
+"dear customer, complete online verification to prevent account closure. please review this message.",UPI,KYC Fraud,1,synthetic
+attention: report suspicious calls to the authorities. this message concerns your request.,UPI,Legitimate,0,synthetic
+update: transfer money to resolve your legal case.,Call,Digital Arrest,1,synthetic
+"hello, submit your otp to complete account verification.",UPI,KYC Fraud,1,synthetic
+provide your banking details to reactivate your account. please check the details.,WhatsApp,KYC Fraud,1,synthetic
+please note: you are under digital arrest. please review this message.,Call,Digital Arrest,1,synthetic
+attention: your debit card has expired. verify your details. please read carefully.,SMS,KYC Fraud,1,synthetic
+please note: never share your upi pin with anyone. please review this message.,Call,Legitimate,0,synthetic
+important message: report suspicious calls to the authorities. please check the details.,Call,Legitimate,0,synthetic
+important message: you must pay a penalty to avoid arrest. this is a notification.,WhatsApp,Digital Arrest,1,synthetic
+attention: your aadhaar is linked to a criminal investigation. for your information.,UPI,Digital Arrest,1,synthetic
+attention: your debit card has expired. verify your details. this is a notification.,Call,KYC Fraud,1,synthetic
+attention: update your kyc immediately using the provided link. please check the details.,UPI,KYC Fraud,1,synthetic
+"dear customer, your courier is linked to an illegal shipment. please check the details.",WhatsApp,Courier Fraud,1,synthetic
+"hello, contact your bank through its official application.",WhatsApp,Legitimate,0,synthetic
+please note: your order has been delivered successfully. kindly take note.,Call,Legitimate,0,synthetic
+important message: pay additional charges to avoid legal action. this message concerns your request.,WhatsApp,Courier Fraud,1,synthetic
+important message: your appointment has been confirmed. this message concerns your request.,Call,Legitimate,0,synthetic
+please note: your electricity bill is available. kindly take note.,Call,Legitimate,0,synthetic
+"hello, your order has been delivered successfully. for your information.",UPI,Legitimate,0,synthetic
+"hello, a police officer is investigating your bank account. please read carefully.",Call,Digital Arrest,1,synthetic
+"dear customer, your class starts at 9 am tomorrow. please review this message.",UPI,Legitimate,0,synthetic
+update: your identity is linked to illegal activities. please review this message.,WhatsApp,Digital Arrest,1,synthetic
+please note: submit your otp to complete account verification. please read carefully.,Call,KYC Fraud,1,synthetic
+update: your order has been delivered successfully. please check the details.,WhatsApp,Legitimate,0,synthetic
+attention: approve this collect request to receive your refund. kindly take note.,SMS,UPI Fraud,1,synthetic
+please note: your aadhaar is linked to a criminal investigation. please check the details.,UPI,Digital Arrest,1,synthetic
+attention: your account requires urgent identity verification. for your information.,Call,KYC Fraud,1,synthetic
+"hello, your debit card has expired. verify your details. kindly take note.",SMS,KYC Fraud,1,synthetic
+important message: please attend the scheduled team meeting.,UPI,Legitimate,0,synthetic
+important message: send money to verify your upi account. this is a notification.,UPI,UPI Fraud,1,synthetic
+please submit your college assignment tomorrow. this is a notification.,WhatsApp,Legitimate,0,synthetic
+please note: your shipment has been detained by customs. please check the details.,Call,Courier Fraud,1,synthetic
+please note: your package has been seized by authorities. please read carefully.,Call,Courier Fraud,1,synthetic
+"hello, send money to verify your upi account. please read carefully.",SMS,UPI Fraud,1,synthetic
+attention: your monthly salary has been credited. please review this message.,UPI,Legitimate,0,synthetic
+update: your refund has been processed. for your information.,UPI,Legitimate,0,synthetic
+important message: you are under digital arrest. please read carefully.,WhatsApp,Digital Arrest,1,synthetic
+notification: your account requires urgent identity verification. please review this message.,SMS,KYC Fraud,1,synthetic
+report suspicious calls to the authorities. kindly take note.,UPI,Legitimate,0,synthetic
+"hello, please attend the scheduled team meeting. please check the details.",Call,Legitimate,0,synthetic
+attention: complete online verification to prevent account closure. please review this message.,SMS,KYC Fraud,1,synthetic
+notification: your parcel is out for delivery. please review this message.,WhatsApp,Legitimate,0,synthetic
+please note: your banking services will be suspended. this is a notification.,WhatsApp,KYC Fraud,1,synthetic
+update: your shipment requires an urgent security clearance payment. please review this message.,SMS,Courier Fraud,1,synthetic
+"hello, your class starts at 9 am tomorrow. for your information.",SMS,Legitimate,0,synthetic
+important message: you must pay a penalty to avoid arrest. please review this message.,Call,Digital Arrest,1,synthetic
+notification: a police officer is investigating your bank account. please read carefully.,SMS,Digital Arrest,1,synthetic
+attention: you are under digital arrest. please review this message.,Call,Digital Arrest,1,synthetic
+please note: your payment was completed successfully. kindly take note.,UPI,Legitimate,0,synthetic
+attention: your electricity bill is available. this is a notification.,WhatsApp,Legitimate,0,synthetic
+notification: your identity is linked to illegal activities. this is a notification.,Call,Digital Arrest,1,synthetic
+notification: pay additional charges to avoid legal action. this is a notification.,UPI,Courier Fraud,1,synthetic
+notification: transfer money to resolve your legal case. please read carefully.,UPI,Digital Arrest,1,synthetic
+notification: your aadhaar is linked to a criminal investigation. please check the details.,Call,Digital Arrest,1,synthetic
+notification: share your upi pin for payment verification. please check the details.,WhatsApp,UPI Fraud,1,synthetic
+update: send money to verify your upi account. this is a notification.,WhatsApp,UPI Fraud,1,synthetic
+"hello, a criminal case has been registered against you. this message concerns your request.",SMS,Digital Arrest,1,synthetic
+notification: your parcel contains prohibited items. please read carefully.,SMS,Courier Fraud,1,synthetic
+enter your payment credentials to receive money.,WhatsApp,UPI Fraud,1,synthetic
+notification: a police officer is investigating your bank account.,Call,Digital Arrest,1,synthetic
+update: submit your otp to complete account verification. this is a notification.,WhatsApp,KYC Fraud,1,synthetic
+attention: you must pay a penalty to avoid arrest. for your information.,WhatsApp,Digital Arrest,1,synthetic
+"dear customer, your parcel contains prohibited items. kindly take note.",WhatsApp,Courier Fraud,1,synthetic
+please note: you must pay a penalty to avoid arrest. please read carefully.,Call,Digital Arrest,1,synthetic
+"dear customer, your banking services will be suspended.",UPI,KYC Fraud,1,synthetic
+update: your electricity bill is available. please read carefully.,SMS,Legitimate,0,synthetic
+important message: pay additional charges to avoid legal action. please review this message.,UPI,Courier Fraud,1,synthetic
+"hello, enter your upi pin to receive cashback. please check the details.",UPI,UPI Fraud,1,synthetic
+"dear customer, your class starts at 9 am tomorrow.",SMS,Legitimate,0,synthetic
+please note: your appointment has been confirmed. this message concerns your request.,UPI,Legitimate,0,synthetic
+attention: your monthly salary has been credited. for your information.,UPI,Legitimate,0,synthetic
+notification: your parcel is out for delivery. for your information.,WhatsApp,Legitimate,0,synthetic
+please note: your package has been seized by authorities. this message concerns your request.,SMS,Courier Fraud,1,synthetic
+important message: never share your upi pin with anyone. kindly take note.,Call,Legitimate,0,synthetic
+"dear customer, enter your payment credentials to receive money. please review this message.",SMS,UPI Fraud,1,synthetic
+notification: your refund has been processed. this message concerns your request.,WhatsApp,Legitimate,0,synthetic
+"hello, pay additional charges to avoid legal action. kindly take note.",SMS,Courier Fraud,1,synthetic
+update: please attend the scheduled team meeting. this is a notification.,WhatsApp,Legitimate,0,synthetic
+"dear customer, you must pay a penalty to avoid arrest.",SMS,Digital Arrest,1,synthetic
+please note: your class starts at 9 am tomorrow. for your information.,WhatsApp,Legitimate,0,synthetic
+update: you must pay a penalty to avoid arrest. kindly take note.,SMS,Digital Arrest,1,synthetic
+attention: approve this collect request to receive your refund. please review this message.,SMS,UPI Fraud,1,synthetic
+update: your debit card has expired. verify your details. please review this message.,Call,KYC Fraud,1,synthetic
+"hello, your examination results have been published. please read carefully.",WhatsApp,Legitimate,0,synthetic
+please note: your banking services will be suspended. for your information.,SMS,KYC Fraud,1,synthetic
+"dear customer, submit your otp to complete account verification.",Call,KYC Fraud,1,synthetic
+please note: scan the qr code to receive your prize money. kindly take note.,Call,UPI Fraud,1,synthetic
+please note: submit your otp to complete account verification. kindly take note.,WhatsApp,KYC Fraud,1,synthetic
+"dear customer, transfer money to resolve your legal case. this is a notification.",UPI,Digital Arrest,1,synthetic
+"dear customer, your identity is linked to illegal activities.",WhatsApp,Digital Arrest,1,synthetic
+your refund has been processed. please read carefully.,WhatsApp,Legitimate,0,synthetic
+attention: approve the payment request to unlock your account. please check the details.,SMS,UPI Fraud,1,synthetic
+please note: your shipment has been detained by customs. this message concerns your request.,Call,Courier Fraud,1,synthetic
+notification: your electricity bill is available. please review this message.,UPI,Legitimate,0,synthetic
+"hello, enter your payment credentials to receive money. please check the details.",SMS,UPI Fraud,1,synthetic
+notification: you must pay a penalty to avoid arrest. kindly take note.,WhatsApp,Digital Arrest,1,synthetic
+notification: your monthly salary has been credited. kindly take note.,UPI,Legitimate,0,synthetic
+pay additional charges to avoid legal action. please review this message.,SMS,Courier Fraud,1,synthetic
+"hello, your parcel is out for delivery. for your information.",UPI,Legitimate,0,synthetic
+notification: your order has been delivered successfully.,Call,Legitimate,0,synthetic
+"hello, your refund has been processed. this is a notification.",SMS,Legitimate,0,synthetic
+please note: submit your otp to complete account verification. for your information.,UPI,KYC Fraud,1,synthetic
+please note: your electricity bill is available. please read carefully.,UPI,Legitimate,0,synthetic
+notification: pay a penalty to release your parcel. this message concerns your request.,UPI,Courier Fraud,1,synthetic
+important message: please attend the scheduled team meeting. please review this message.,SMS,Legitimate,0,synthetic
+important message: your shipment has been detained by customs. for your information.,Call,Courier Fraud,1,synthetic
+update: your account requires urgent identity verification. kindly take note.,Call,KYC Fraud,1,synthetic
+update: scan the qr code to receive your prize money. for your information.,SMS,UPI Fraud,1,synthetic
+"hello, your electricity bill is available. please read carefully.",WhatsApp,Legitimate,0,synthetic
+notification: your payment was completed successfully. please review this message.,UPI,Legitimate,0,synthetic
+"hello, enter your upi pin to receive cashback. please read carefully.",WhatsApp,UPI Fraud,1,synthetic
+share your upi pin for payment verification. please review this message.,UPI,UPI Fraud,1,synthetic
+attention: send money to verify your upi account. for your information.,WhatsApp,UPI Fraud,1,synthetic
+attention: your account statement is available. please check the details.,SMS,Legitimate,0,synthetic
+attention: pay a registration fee to claim your reward. please read carefully.,WhatsApp,UPI Fraud,1,synthetic
+important message: a police officer is investigating your bank account. please read carefully.,SMS,Digital Arrest,1,synthetic
+attention: submit your otp to complete account verification. for your information.,UPI,KYC Fraud,1,synthetic
+attention: your debit card has expired. verify your details. kindly take note.,Call,KYC Fraud,1,synthetic
+please note: update your kyc immediately using the provided link. this is a notification.,UPI,KYC Fraud,1,synthetic
+your account requires urgent identity verification.,SMS,KYC Fraud,1,synthetic
+important message: report suspicious calls to the authorities. this is a notification.,SMS,Legitimate,0,synthetic
+update: your examination results have been published. for your information.,WhatsApp,Legitimate,0,synthetic
+attention: please attend the scheduled team meeting. this message concerns your request.,UPI,Legitimate,0,synthetic
+important message: never share your upi pin with anyone.,WhatsApp,Legitimate,0,synthetic
+notification: your class starts at 9 am tomorrow. kindly take note.,Call,Legitimate,0,synthetic
+notification: enter your payment credentials to receive money. please review this message.,Call,UPI Fraud,1,synthetic
+update: you must remain on this call until verification.,Call,Digital Arrest,1,synthetic
+"hello, your bank account will be blocked due to incomplete kyc. for your information.",WhatsApp,KYC Fraud,1,synthetic
+update: your aadhaar is linked to a criminal investigation. please review this message.,SMS,Digital Arrest,1,synthetic
+your bank account will be blocked due to incomplete kyc. please check the details.,WhatsApp,KYC Fraud,1,synthetic
+"hello, your appointment has been confirmed. please check the details.",WhatsApp,Legitimate,0,synthetic
+attention: approve this collect request to receive your refund. please check the details.,WhatsApp,UPI Fraud,1,synthetic
+please note: your account statement is available. please review this message.,UPI,Legitimate,0,synthetic
+update: you must pay a penalty to avoid arrest. please review this message.,WhatsApp,Digital Arrest,1,synthetic
+notification: your examination results have been published. please read carefully.,Call,Legitimate,0,synthetic
+please note: please attend the scheduled team meeting. for your information.,WhatsApp,Legitimate,0,synthetic
+"hello, your banking services will be suspended. please read carefully.",Call,KYC Fraud,1,synthetic
+notification: your class starts at 9 am tomorrow. please read carefully.,Call,Legitimate,0,synthetic
+you are under digital arrest. for your information.,SMS,Digital Arrest,1,synthetic
+"hello, pay a penalty to release your parcel. this is a notification.",UPI,Courier Fraud,1,synthetic
+"dear customer, your refund has been processed. kindly take note.",Call,Legitimate,0,synthetic
+notification: your bank account will be blocked due to incomplete kyc. for your information.,UPI,KYC Fraud,1,synthetic
+your courier is linked to an illegal shipment. this is a notification.,WhatsApp,Courier Fraud,1,synthetic
+"dear customer, your class starts at 9 am tomorrow. this is a notification.",UPI,Legitimate,0,synthetic
+"hello, your account requires urgent identity verification. this message concerns your request.",WhatsApp,KYC Fraud,1,synthetic
+please note: pay additional charges to avoid legal action. please review this message.,WhatsApp,Courier Fraud,1,synthetic
+notification: you must remain on this call until verification. please check the details.,Call,Digital Arrest,1,synthetic
+"dear customer, your aadhaar is linked to a criminal investigation. please read carefully.",UPI,Digital Arrest,1,synthetic
+attention: you are under digital arrest. please check the details.,SMS,Digital Arrest,1,synthetic
+attention: your account statement is available. please read carefully.,WhatsApp,Legitimate,0,synthetic
+send money to verify your upi account. please check the details.,Call,UPI Fraud,1,synthetic
+share your upi pin for payment verification.,Call,UPI Fraud,1,synthetic
+"hello, a parcel registered in your name is under investigation. please check the details.",UPI,Courier Fraud,1,synthetic
+"hello, your examination results have been published. this is a notification.",WhatsApp,Legitimate,0,synthetic
+"hello, please attend the scheduled team meeting. please review this message.",Call,Legitimate,0,synthetic
+"hello, your electricity bill is available. kindly take note.",WhatsApp,Legitimate,0,synthetic
+attention: your shipment has been detained by customs.,UPI,Courier Fraud,1,synthetic
+important message: transfer money to resolve your legal case. please read carefully.,SMS,Digital Arrest,1,synthetic
+"hello, your monthly salary has been credited.",Call,Legitimate,0,synthetic
+update: please submit your college assignment tomorrow. this is a notification.,WhatsApp,Legitimate,0,synthetic
+attention: approve the payment request to unlock your account. kindly take note.,UPI,UPI Fraud,1,synthetic
+a criminal case has been registered against you.,WhatsApp,Digital Arrest,1,synthetic
+important message: your bank account will be blocked due to incomplete kyc. please review this message.,WhatsApp,KYC Fraud,1,synthetic
+update: your shipment has been detained by customs. for your information.,UPI,Courier Fraud,1,synthetic
+please note: your electricity bill is available. this is a notification.,WhatsApp,Legitimate,0,synthetic
+"hello, your monthly salary has been credited. please read carefully.",WhatsApp,Legitimate,0,synthetic
+important message: your examination results have been published. please read carefully.,WhatsApp,Legitimate,0,synthetic
+attention: your appointment has been confirmed. this is a notification.,Call,Legitimate,0,synthetic
+notification: you must remain on this call until verification.,SMS,Digital Arrest,1,synthetic
+notification: your account statement is available.,WhatsApp,Legitimate,0,synthetic
+"hello, you must pay a penalty to avoid arrest. please read carefully.",UPI,Digital Arrest,1,synthetic
+important message: send money to verify your upi account.,UPI,UPI Fraud,1,synthetic
+important message: a criminal case has been registered against you. kindly take note.,UPI,Digital Arrest,1,synthetic
+attention: a parcel registered in your name is under investigation. this message concerns your request.,UPI,Courier Fraud,1,synthetic
+update: pay additional charges to avoid legal action. kindly take note.,UPI,Courier Fraud,1,synthetic
+important message: send money to verify your upi account. kindly take note.,SMS,UPI Fraud,1,synthetic
+update: your identity is linked to illegal activities. for your information.,SMS,Digital Arrest,1,synthetic
+update: complete online verification to prevent account closure. kindly take note.,UPI,KYC Fraud,1,synthetic
+attention: your electricity bill is available. this message concerns your request.,SMS,Legitimate,0,synthetic
+update: approve this collect request to receive your refund. please read carefully.,SMS,UPI Fraud,1,synthetic
+important message: your parcel is out for delivery. please review this message.,UPI,Legitimate,0,synthetic
+please note: your refund has been processed. please check the details.,SMS,Legitimate,0,synthetic
+attention: your examination results have been published. please review this message.,UPI,Legitimate,0,synthetic
+update: your courier is linked to an illegal shipment.,WhatsApp,Courier Fraud,1,synthetic
+"hello, pay additional charges to avoid legal action. please check the details.",UPI,Courier Fraud,1,synthetic
+"hello, your parcel is out for delivery.",UPI,Legitimate,0,synthetic
+"dear customer, your identity is linked to illegal activities. please read carefully.",Call,Digital Arrest,1,synthetic
+update: your parcel contains prohibited items. this is a notification.,UPI,Courier Fraud,1,synthetic
+"hello, your monthly salary has been credited. kindly take note.",SMS,Legitimate,0,synthetic
+"dear customer, your examination results have been published. please review this message.",SMS,Legitimate,0,synthetic
+please note: report suspicious calls to the authorities. please review this message.,UPI,Legitimate,0,synthetic
+your banking services will be suspended. please check the details.,UPI,KYC Fraud,1,synthetic
+"hello, your account statement is available. kindly take note.",Call,Legitimate,0,synthetic
+your banking services will be suspended. kindly take note.,WhatsApp,KYC Fraud,1,synthetic
+update: your kyc status can be checked at your bank branch. this message concerns your request.,WhatsApp,Legitimate,0,synthetic
+update: enter your payment credentials to receive money. for your information.,UPI,UPI Fraud,1,synthetic
+attention: submit your otp to complete account verification. this is a notification.,UPI,KYC Fraud,1,synthetic
+please note: pay a penalty to release your parcel.,UPI,Courier Fraud,1,synthetic
+your identity is linked to illegal activities. kindly take note.,WhatsApp,Digital Arrest,1,synthetic
+notification: your appointment has been confirmed. this is a notification.,Call,Legitimate,0,synthetic
+important message: your kyc status can be checked at your bank branch. please review this message.,SMS,Legitimate,0,synthetic
+"hello, update your kyc immediately using the provided link. please read carefully.",UPI,KYC Fraud,1,synthetic
+update: contact your bank through its official application. please read carefully.,Call,Legitimate,0,synthetic
+attention: your package has been seized by authorities. please review this message.,UPI,Courier Fraud,1,synthetic
+please submit your college assignment tomorrow. for your information.,SMS,Legitimate,0,synthetic
+please note: please submit your college assignment tomorrow. kindly take note.,SMS,Legitimate,0,synthetic
+attention: report suspicious calls to the authorities. please review this message.,SMS,Legitimate,0,synthetic
+update: please submit your college assignment tomorrow. for your information.,WhatsApp,Legitimate,0,synthetic
+share your upi pin for payment verification. this message concerns your request.,Call,UPI Fraud,1,synthetic
+important message: your parcel is out for delivery. this is a notification.,WhatsApp,Legitimate,0,synthetic
+attention: your banking services will be suspended. this message concerns your request.,Call,KYC Fraud,1,synthetic
+notification: scan the qr code to receive your prize money. this message concerns your request.,SMS,UPI Fraud,1,synthetic
+"hello, your courier is linked to an illegal shipment. this message concerns your request.",UPI,Courier Fraud,1,synthetic
+your parcel is out for delivery.,UPI,Legitimate,0,synthetic
+update: provide your banking details to reactivate your account. please check the details.,SMS,KYC Fraud,1,synthetic
+you must remain on this call until verification. please read carefully.,Call,Digital Arrest,1,synthetic
+"dear customer, approve this collect request to receive your refund. this is a notification.",WhatsApp,UPI Fraud,1,synthetic
+"dear customer, share your upi pin for payment verification.",SMS,UPI Fraud,1,synthetic
+"hello, your refund has been processed. this message concerns your request.",UPI,Legitimate,0,synthetic
+your aadhaar is linked to a criminal investigation. please check the details.,Call,Digital Arrest,1,synthetic
+attention: your electricity bill is available. please read carefully.,SMS,Legitimate,0,synthetic
+"dear customer, never share your upi pin with anyone. please check the details.",Call,Legitimate,0,synthetic
+attention: enter your upi pin to receive cashback. please review this message.,SMS,UPI Fraud,1,synthetic
+please note: your electricity bill is available. please check the details.,WhatsApp,Legitimate,0,synthetic
+update: contact your bank through its official application. please review this message.,UPI,Legitimate,0,synthetic
+your kyc status can be checked at your bank branch. for your information.,SMS,Legitimate,0,synthetic
+please note: your order has been delivered successfully. for your information.,UPI,Legitimate,0,synthetic
+important message: report suspicious calls to the authorities. for your information.,SMS,Legitimate,0,synthetic
+notification: approve the payment request to unlock your account.,SMS,UPI Fraud,1,synthetic
+update: enter your payment credentials to receive money. this is a notification.,Call,UPI Fraud,1,synthetic
+"dear customer, a parcel registered in your name is under investigation. kindly take note.",UPI,Courier Fraud,1,synthetic
+attention: never share your upi pin with anyone. kindly take note.,UPI,Legitimate,0,synthetic
+please note: your electricity bill is available.,WhatsApp,Legitimate,0,synthetic
+"hello, scan the qr code to receive your prize money.",Call,UPI Fraud,1,synthetic
+please note: you must remain on this call until verification. please read carefully.,SMS,Digital Arrest,1,synthetic
+attention: your examination results have been published. this message concerns your request.,WhatsApp,Legitimate,0,synthetic
+enter your payment credentials to receive money. kindly take note.,Call,UPI Fraud,1,synthetic
+attention: pay additional charges to avoid legal action. please check the details.,WhatsApp,Courier Fraud,1,synthetic
+"dear customer, your aadhaar is linked to a criminal investigation. for your information.",UPI,Digital Arrest,1,synthetic
+important message: you must remain on this call until verification. this is a notification.,Call,Digital Arrest,1,synthetic
+attention: approve this collect request to receive your refund. this message concerns your request.,WhatsApp,UPI Fraud,1,synthetic
+pay a registration fee to claim your reward. please read carefully.,UPI,UPI Fraud,1,synthetic
+please note: a criminal case has been registered against you. this message concerns your request.,UPI,Digital Arrest,1,synthetic
+please note: a parcel registered in your name is under investigation. this is a notification.,SMS,Courier Fraud,1,synthetic
+important message: your electricity bill is available. this is a notification.,SMS,Legitimate,0,synthetic
+"dear customer, you must pay a penalty to avoid arrest. kindly take note.",UPI,Digital Arrest,1,synthetic
+important message: your electricity bill is available. this message concerns your request.,WhatsApp,Legitimate,0,synthetic
+your examination results have been published. please review this message.,UPI,Legitimate,0,synthetic
+important message: contact your bank through its official application. please review this message.,SMS,Legitimate,0,synthetic
+please note: a parcel registered in your name is under investigation. please review this message.,UPI,Courier Fraud,1,synthetic
+"hello, complete online verification to prevent account closure. for your information.",WhatsApp,KYC Fraud,1,synthetic
+important message: please submit your college assignment tomorrow.,WhatsApp,Legitimate,0,synthetic
+attention: a parcel registered in your name is under investigation. please read carefully.,Call,Courier Fraud,1,synthetic
+update: complete online verification to prevent account closure. please read carefully.,UPI,KYC Fraud,1,synthetic
+attention: your account requires urgent identity verification.,WhatsApp,KYC Fraud,1,synthetic
+"hello, your package has been seized by authorities.",Call,Courier Fraud,1,synthetic
+"hello, your kyc status can be checked at your bank branch. this is a notification.",SMS,Legitimate,0,synthetic
+"hello, contact your bank through its official application. kindly take note.",SMS,Legitimate,0,synthetic
+"dear customer, pay a registration fee to claim your reward. this is a notification.",SMS,UPI Fraud,1,synthetic
+update: your payment was completed successfully. for your information.,UPI,Legitimate,0,synthetic
+update: your shipment has been detained by customs. please check the details.,UPI,Courier Fraud,1,synthetic
+attention: enter your payment credentials to receive money. please check the details.,Call,UPI Fraud,1,synthetic
+important message: submit your otp to complete account verification. this message concerns your request.,SMS,KYC Fraud,1,synthetic
+notification: your monthly salary has been credited. please check the details.,SMS,Legitimate,0,synthetic
+attention: transfer money to resolve your legal case. this is a notification.,SMS,Digital Arrest,1,synthetic
+attention: never share your upi pin with anyone. please review this message.,Call,Legitimate,0,synthetic
+"dear customer, enter your payment credentials to receive money. this message concerns your request.",UPI,UPI Fraud,1,synthetic
+attention: contact your bank through its official application. this is a notification.,UPI,Legitimate,0,synthetic
+notification: your account statement is available. this is a notification.,UPI,Legitimate,0,synthetic
+your order has been delivered successfully. please review this message.,SMS,Legitimate,0,synthetic
+attention: your debit card has expired. verify your details. this message concerns your request.,UPI,KYC Fraud,1,synthetic
+update: your bank account will be blocked due to incomplete kyc.,Call,KYC Fraud,1,synthetic
+attention: your payment was completed successfully. please check the details.,WhatsApp,Legitimate,0,synthetic
+update: please attend the scheduled team meeting. please review this message.,UPI,Legitimate,0,synthetic
+important message: your account statement is available. kindly take note.,Call,Legitimate,0,synthetic
+please note: you must pay a penalty to avoid arrest. please review this message.,Call,Digital Arrest,1,synthetic
+important message: never share your upi pin with anyone. this is a notification.,Call,Legitimate,0,synthetic
+important message: your shipment requires an urgent security clearance payment. kindly take note.,Call,Courier Fraud,1,synthetic
+update: enter your upi pin to receive cashback. this message concerns your request.,SMS,UPI Fraud,1,synthetic
+important message: your shipment has been detained by customs. please read carefully.,SMS,Courier Fraud,1,synthetic
+"dear customer, pay a penalty to release your parcel. for your information.",SMS,Courier Fraud,1,synthetic
+pay additional charges to avoid legal action. please read carefully.,Call,Courier Fraud,1,synthetic
+please note: enter your upi pin to receive cashback.,Call,UPI Fraud,1,synthetic
+"dear customer, your examination results have been published. please check the details.",Call,Legitimate,0,synthetic
+update: approve the payment request to unlock your account. kindly take note.,Call,UPI Fraud,1,synthetic
+"hello, you must remain on this call until verification. this message concerns your request.",UPI,Digital Arrest,1,synthetic
+submit your otp to complete account verification. please read carefully.,UPI,KYC Fraud,1,synthetic
+"dear customer, please attend the scheduled team meeting. please read carefully.",WhatsApp,Legitimate,0,synthetic
+notification: approve this collect request to receive your refund. this is a notification.,Call,UPI Fraud,1,synthetic
+attention: never share your upi pin with anyone.,WhatsApp,Legitimate,0,synthetic
+important message: your parcel is out for delivery. kindly take note.,UPI,Legitimate,0,synthetic
+please note: your shipment requires an urgent security clearance payment. please read carefully.,UPI,Courier Fraud,1,synthetic
+contact your bank through its official application. for your information.,WhatsApp,Legitimate,0,synthetic
+important message: scan the qr code to receive your prize money. this is a notification.,Call,UPI Fraud,1,synthetic
+"hello, your banking services will be suspended.",Call,KYC Fraud,1,synthetic
+"hello, pay additional charges to avoid legal action. this message concerns your request.",WhatsApp,Courier Fraud,1,synthetic
+you are under digital arrest. please review this message.,Call,Digital Arrest,1,synthetic
+notification: pay a penalty to release your parcel. for your information.,SMS,Courier Fraud,1,synthetic
+a criminal case has been registered against you. for your information.,SMS,Digital Arrest,1,synthetic
+attention: provide your banking details to reactivate your account. please review this message.,SMS,KYC Fraud,1,synthetic
+important message: share your upi pin for payment verification. please check the details.,Call,UPI Fraud,1,synthetic
+please note: a criminal case has been registered against you. for your information.,Call,Digital Arrest,1,synthetic
+"hello, submit your otp to complete account verification. this message concerns your request.",SMS,KYC Fraud,1,synthetic
+attention: send money to verify your upi account. please read carefully.,UPI,UPI Fraud,1,synthetic
+update: you must remain on this call until verification. please check the details.,Call,Digital Arrest,1,synthetic
+enter your upi pin to receive cashback. kindly take note.,Call,UPI Fraud,1,synthetic
+please note: your identity is linked to illegal activities. for your information.,Call,Digital Arrest,1,synthetic
+"dear customer, share your upi pin for payment verification. for your information.",Call,UPI Fraud,1,synthetic
+"dear customer, a parcel registered in your name is under investigation. please review this message.",WhatsApp,Courier Fraud,1,synthetic
+"dear customer, your refund has been processed. please read carefully.",UPI,Legitimate,0,synthetic
+"dear customer, share your upi pin for payment verification. please review this message.",UPI,UPI Fraud,1,synthetic
+"hello, your refund has been processed. please check the details.",UPI,Legitimate,0,synthetic
+notification: your appointment has been confirmed. this message concerns your request.,WhatsApp,Legitimate,0,synthetic
+attention: please attend the scheduled team meeting. for your information.,Call,Legitimate,0,synthetic
+notification: pay additional charges to avoid legal action. kindly take note.,UPI,Courier Fraud,1,synthetic
+please note: a criminal case has been registered against you. this is a notification.,WhatsApp,Digital Arrest,1,synthetic
+please note: your bank account will be blocked due to incomplete kyc. this message concerns your request.,UPI,KYC Fraud,1,synthetic
+please note: please attend the scheduled team meeting. please read carefully.,Call,Legitimate,0,synthetic
+"dear customer, your parcel contains prohibited items. this is a notification.",Call,Courier Fraud,1,synthetic
+update: a police officer is investigating your bank account. for your information.,Call,Digital Arrest,1,synthetic
+notification: your banking services will be suspended. kindly take note.,UPI,KYC Fraud,1,synthetic
+notification: your identity is linked to illegal activities. kindly take note.,Call,Digital Arrest,1,synthetic
+attention: your courier is linked to an illegal shipment. please read carefully.,UPI,Courier Fraud,1,synthetic
+update: your parcel is out for delivery.,WhatsApp,Legitimate,0,synthetic
+important message: your parcel contains prohibited items. kindly take note.,UPI,Courier Fraud,1,synthetic
+"dear customer, update your kyc immediately using the provided link. please check the details.",WhatsApp,KYC Fraud,1,synthetic
+attention: contact your bank through its official application. this message concerns your request.,Call,Legitimate,0,synthetic
+please note: your parcel is out for delivery. this message concerns your request.,UPI,Legitimate,0,synthetic
+attention: contact your bank through its official application. please check the details.,Call,Legitimate,0,synthetic
+update: scan the qr code to receive your prize money. please read carefully.,SMS,UPI Fraud,1,synthetic
+"hello, never share your upi pin with anyone. this message concerns your request.",Call,Legitimate,0,synthetic
+"hello, your electricity bill is available.",WhatsApp,Legitimate,0,synthetic
+update: your debit card has expired. verify your details. kindly take note.,WhatsApp,KYC Fraud,1,synthetic
+important message: your parcel is out for delivery. this message concerns your request.,Call,Legitimate,0,synthetic
+notification: your parcel is out for delivery. please read carefully.,SMS,Legitimate,0,synthetic
+"dear customer, your shipment has been detained by customs. please review this message.",SMS,Courier Fraud,1,synthetic
+important message: a police officer is investigating your bank account. please review this message.,SMS,Digital Arrest,1,synthetic
+please note: your courier is linked to an illegal shipment. for your information.,UPI,Courier Fraud,1,synthetic
+please note: report suspicious calls to the authorities. this message concerns your request.,UPI,Legitimate,0,synthetic
+attention: your examination results have been published. this is a notification.,SMS,Legitimate,0,synthetic
+important message: please attend the scheduled team meeting. please read carefully.,Call,Legitimate,0,synthetic
+"dear customer, a parcel registered in your name is under investigation. this is a notification.",WhatsApp,Courier Fraud,1,synthetic
+update: you must pay a penalty to avoid arrest. please check the details.,UPI,Digital Arrest,1,synthetic
+"dear customer, please submit your college assignment tomorrow. this message concerns your request.",WhatsApp,Legitimate,0,synthetic
+notification: your monthly salary has been credited. for your information.,Call,Legitimate,0,synthetic
+attention: a parcel registered in your name is under investigation. please check the details.,SMS,Courier Fraud,1,synthetic
+"dear customer, your account requires urgent identity verification. this is a notification.",UPI,KYC Fraud,1,synthetic
+"hello, send money to verify your upi account. please review this message.",WhatsApp,UPI Fraud,1,synthetic
+update: your identity is linked to illegal activities. please check the details.,UPI,Digital Arrest,1,synthetic
+send money to verify your upi account. please read carefully.,SMS,UPI Fraud,1,synthetic
+important message: your refund has been processed. this is a notification.,WhatsApp,Legitimate,0,synthetic
+never share your upi pin with anyone. this is a notification.,WhatsApp,Legitimate,0,synthetic
+notification: share your upi pin for payment verification.,SMS,UPI Fraud,1,synthetic
+update: send money to verify your upi account. kindly take note.,UPI,UPI Fraud,1,synthetic
+notification: send money to verify your upi account. please read carefully.,SMS,UPI Fraud,1,synthetic
+attention: a parcel registered in your name is under investigation. for your information.,SMS,Courier Fraud,1,synthetic
+"dear customer, never share your upi pin with anyone. for your information.",Call,Legitimate,0,synthetic
+please note: you must remain on this call until verification. kindly take note.,Call,Digital Arrest,1,synthetic
+update: your aadhaar is linked to a criminal investigation. please read carefully.,SMS,Digital Arrest,1,synthetic
+please note: never share your upi pin with anyone. please read carefully.,UPI,Legitimate,0,synthetic
+you must pay a penalty to avoid arrest. this is a notification.,WhatsApp,Digital Arrest,1,synthetic
+important message: provide your banking details to reactivate your account. please read carefully.,Call,KYC Fraud,1,synthetic
+"hello, your kyc status can be checked at your bank branch.",WhatsApp,Legitimate,0,synthetic
+please note: scan the qr code to receive your prize money. please read carefully.,SMS,UPI Fraud,1,synthetic
+"hello, your shipment requires an urgent security clearance payment.",UPI,Courier Fraud,1,synthetic
+your payment was completed successfully. for your information.,SMS,Legitimate,0,synthetic
+"hello, your order has been delivered successfully. this message concerns your request.",WhatsApp,Legitimate,0,synthetic
+important message: your appointment has been confirmed.,Call,Legitimate,0,synthetic
+your account requires urgent identity verification. please check the details.,Call,KYC Fraud,1,synthetic
+update: your examination results have been published. please read carefully.,Call,Legitimate,0,synthetic
+"hello, your package has been seized by authorities. this is a notification.",WhatsApp,Courier Fraud,1,synthetic
+attention: a police officer is investigating your bank account. this is a notification.,WhatsApp,Digital Arrest,1,synthetic
+important message: pay a penalty to release your parcel. for your information.,WhatsApp,Courier Fraud,1,synthetic
+attention: your kyc status can be checked at your bank branch. please check the details.,Call,Legitimate,0,synthetic
+"hello, you must remain on this call until verification. for your information.",SMS,Digital Arrest,1,synthetic
+"dear customer, scan the qr code to receive your prize money. kindly take note.",UPI,UPI Fraud,1,synthetic
+please note: your appointment has been confirmed. this is a notification.,Call,Legitimate,0,synthetic
+please note: enter your payment credentials to receive money. kindly take note.,UPI,UPI Fraud,1,synthetic
+"hello, you must remain on this call until verification. kindly take note.",WhatsApp,Digital Arrest,1,synthetic
+please note: your parcel is out for delivery. kindly take note.,WhatsApp,Legitimate,0,synthetic
+"hello, you are under digital arrest. please read carefully.",SMS,Digital Arrest,1,synthetic
+your identity is linked to illegal activities. this is a notification.,Call,Digital Arrest,1,synthetic
+please note: your parcel is out for delivery. for your information.,UPI,Legitimate,0,synthetic
+update: your payment was completed successfully. please check the details.,WhatsApp,Legitimate,0,synthetic
+update: provide your banking details to reactivate your account. kindly take note.,SMS,KYC Fraud,1,synthetic
+"hello, never share your upi pin with anyone. this is a notification.",UPI,Legitimate,0,synthetic
+important message: complete online verification to prevent account closure. this is a notification.,UPI,KYC Fraud,1,synthetic
+"hello, share your upi pin for payment verification. this message concerns your request.",SMS,UPI Fraud,1,synthetic
+notification: your kyc status can be checked at your bank branch. kindly take note.,WhatsApp,Legitimate,0,synthetic
+"dear customer, a parcel registered in your name is under investigation. please check the details.",SMS,Courier Fraud,1,synthetic
+"dear customer, approve this collect request to receive your refund. this message concerns your request.",SMS,UPI Fraud,1,synthetic
+important message: pay a registration fee to claim your reward. please check the details.,SMS,UPI Fraud,1,synthetic
+important message: you are under digital arrest.,UPI,Digital Arrest,1,synthetic
+provide your banking details to reactivate your account. for your information.,Call,KYC Fraud,1,synthetic
+update: approve this collect request to receive your refund. kindly take note.,UPI,UPI Fraud,1,synthetic
+your shipment has been detained by customs.,WhatsApp,Courier Fraud,1,synthetic
+enter your upi pin to receive cashback. please review this message.,SMS,UPI Fraud,1,synthetic
+attention: your parcel is out for delivery. this message concerns your request.,UPI,Legitimate,0,synthetic
+attention: your bank account will be blocked due to incomplete kyc. this is a notification.,SMS,KYC Fraud,1,synthetic
+"hello, your class starts at 9 am tomorrow. please check the details.",Call,Legitimate,0,synthetic
+attention: your aadhaar is linked to a criminal investigation.,SMS,Digital Arrest,1,synthetic
+please note: your banking services will be suspended. this message concerns your request.,UPI,KYC Fraud,1,synthetic
+your aadhaar is linked to a criminal investigation. please review this message.,UPI,Digital Arrest,1,synthetic
+"dear customer, your electricity bill is available. please check the details.",UPI,Legitimate,0,synthetic
+important message: your order has been delivered successfully. for your information.,Call,Legitimate,0,synthetic
+"dear customer, pay a registration fee to claim your reward. kindly take note.",WhatsApp,UPI Fraud,1,synthetic
+notification: your class starts at 9 am tomorrow. for your information.,Call,Legitimate,0,synthetic
+attention: please attend the scheduled team meeting. this is a notification.,SMS,Legitimate,0,synthetic
+important message: pay a registration fee to claim your reward. this message concerns your request.,Call,UPI Fraud,1,synthetic
+please note: your banking services will be suspended. please read carefully.,Call,KYC Fraud,1,synthetic
+a police officer is investigating your bank account. for your information.,UPI,Digital Arrest,1,synthetic
+important message: your kyc status can be checked at your bank branch. for your information.,WhatsApp,Legitimate,0,synthetic
+update: you are under digital arrest. please review this message.,WhatsApp,Digital Arrest,1,synthetic
+please note: your shipment requires an urgent security clearance payment. kindly take note.,SMS,Courier Fraud,1,synthetic
+"hello, your examination results have been published. please check the details.",Call,Legitimate,0,synthetic
+your monthly salary has been credited. please review this message.,SMS,Legitimate,0,synthetic
+attention: your class starts at 9 am tomorrow. please read carefully.,Call,Legitimate,0,synthetic
+"hello, your account statement is available. this is a notification.",SMS,Legitimate,0,synthetic
+a parcel registered in your name is under investigation. please read carefully.,SMS,Courier Fraud,1,synthetic
+important message: pay a registration fee to claim your reward.,SMS,UPI Fraud,1,synthetic
+important message: please submit your college assignment tomorrow. this is a notification.,WhatsApp,Legitimate,0,synthetic
+attention: you must remain on this call until verification. this message concerns your request.,Call,Digital Arrest,1,synthetic
+notification: pay a penalty to release your parcel. kindly take note.,WhatsApp,Courier Fraud,1,synthetic
+update your kyc immediately using the provided link.,UPI,KYC Fraud,1,synthetic
+please note: complete online verification to prevent account closure. this is a notification.,WhatsApp,KYC Fraud,1,synthetic
+attention: your appointment has been confirmed. kindly take note.,UPI,Legitimate,0,synthetic
+attention: your order has been delivered successfully. please check the details.,SMS,Legitimate,0,synthetic
+"dear customer, update your kyc immediately using the provided link. for your information.",Call,KYC Fraud,1,synthetic
+notification: your banking services will be suspended. please read carefully.,Call,KYC Fraud,1,synthetic
+update: update your kyc immediately using the provided link. this message concerns your request.,Call,KYC Fraud,1,synthetic
+please attend the scheduled team meeting. please read carefully.,SMS,Legitimate,0,synthetic
+important message: share your upi pin for payment verification. kindly take note.,Call,UPI Fraud,1,synthetic
+please note: your shipment has been detained by customs.,UPI,Courier Fraud,1,synthetic
+important message: you must pay a penalty to avoid arrest. kindly take note.,Call,Digital Arrest,1,synthetic
+attention: your debit card has expired. verify your details.,UPI,KYC Fraud,1,synthetic
+"dear customer, please submit your college assignment tomorrow. this is a notification.",WhatsApp,Legitimate,0,synthetic
+please note: your appointment has been confirmed. please check the details.,SMS,Legitimate,0,synthetic
+"hello, send money to verify your upi account. for your information.",SMS,UPI Fraud,1,synthetic
+"dear customer, transfer money to resolve your legal case. this message concerns your request.",WhatsApp,Digital Arrest,1,synthetic
+update: your account requires urgent identity verification. for your information.,Call,KYC Fraud,1,synthetic
+"hello, approve the payment request to unlock your account. kindly take note.",SMS,UPI Fraud,1,synthetic
+attention: your examination results have been published. please check the details.,SMS,Legitimate,0,synthetic
+update: submit your otp to complete account verification. this message concerns your request.,WhatsApp,KYC Fraud,1,synthetic
+notification: please attend the scheduled team meeting. please read carefully.,UPI,Legitimate,0,synthetic
+"dear customer, provide your banking details to reactivate your account. please check the details.",Call,KYC Fraud,1,synthetic
+attention: your order has been delivered successfully. for your information.,Call,Legitimate,0,synthetic
+notification: your kyc status can be checked at your bank branch. please review this message.,UPI,Legitimate,0,synthetic
+please note: report suspicious calls to the authorities.,WhatsApp,Legitimate,0,synthetic
+attention: approve the payment request to unlock your account. please review this message.,Call,UPI Fraud,1,synthetic
+notification: your order has been delivered successfully. please read carefully.,WhatsApp,Legitimate,0,synthetic
+important message: your parcel is out for delivery. please read carefully.,UPI,Legitimate,0,synthetic
+pay a registration fee to claim your reward. this message concerns your request.,SMS,UPI Fraud,1,synthetic
+notification: your parcel contains prohibited items. kindly take note.,WhatsApp,Courier Fraud,1,synthetic
+"dear customer, your identity is linked to illegal activities. this message concerns your request.",WhatsApp,Digital Arrest,1,synthetic
+"dear customer, scan the qr code to receive your prize money. please read carefully.",WhatsApp,UPI Fraud,1,synthetic
+submit your otp to complete account verification. for your information.,Call,KYC Fraud,1,synthetic
+notification: your shipment has been detained by customs. please read carefully.,Call,Courier Fraud,1,synthetic
+notification: enter your upi pin to receive cashback. kindly take note.,UPI,UPI Fraud,1,synthetic
+notification: your refund has been processed. please read carefully.,UPI,Legitimate,0,synthetic
+update: pay a penalty to release your parcel. this is a notification.,SMS,Courier Fraud,1,synthetic
+attention: a criminal case has been registered against you. this message concerns your request.,SMS,Digital Arrest,1,synthetic
+update: enter your payment credentials to receive money. this message concerns your request.,WhatsApp,UPI Fraud,1,synthetic
+notification: your account statement is available. kindly take note.,UPI,Legitimate,0,synthetic
+"dear customer, your electricity bill is available. please review this message.",SMS,Legitimate,0,synthetic
+your payment was completed successfully. please review this message.,WhatsApp,Legitimate,0,synthetic
+notification: your aadhaar is linked to a criminal investigation.,SMS,Digital Arrest,1,synthetic
+"dear customer, your kyc status can be checked at your bank branch. please read carefully.",WhatsApp,Legitimate,0,synthetic
+update: your banking services will be suspended. for your information.,Call,KYC Fraud,1,synthetic
+your class starts at 9 am tomorrow. please read carefully.,WhatsApp,Legitimate,0,synthetic
+provide your banking details to reactivate your account. this message concerns your request.,WhatsApp,KYC Fraud,1,synthetic
+"dear customer, your appointment has been confirmed. this message concerns your request.",WhatsApp,Legitimate,0,synthetic
+notification: your package has been seized by authorities. please check the details.,WhatsApp,Courier Fraud,1,synthetic
+please note: your banking services will be suspended. kindly take note.,UPI,KYC Fraud,1,synthetic
+"dear customer, your account statement is available.",SMS,Legitimate,0,synthetic
+approve the payment request to unlock your account. please review this message.,WhatsApp,UPI Fraud,1,synthetic
+your appointment has been confirmed. this message concerns your request.,Call,Legitimate,0,synthetic
+"dear customer, you must remain on this call until verification. please read carefully.",WhatsApp,Digital Arrest,1,synthetic
+important message: complete online verification to prevent account closure. this message concerns your request.,UPI,KYC Fraud,1,synthetic
+please note: approve this collect request to receive your refund. for your information.,Call,UPI Fraud,1,synthetic
+notification: your shipment has been detained by customs. please check the details.,WhatsApp,Courier Fraud,1,synthetic
+a parcel registered in your name is under investigation. please check the details.,UPI,Courier Fraud,1,synthetic
+your order has been delivered successfully.,SMS,Legitimate,0,synthetic
+"dear customer, your electricity bill is available. for your information.",SMS,Legitimate,0,synthetic
+attention: your bank account will be blocked due to incomplete kyc. for your information.,UPI,KYC Fraud,1,synthetic
+update: pay additional charges to avoid legal action. please read carefully.,Call,Courier Fraud,1,synthetic
+attention: submit your otp to complete account verification.,WhatsApp,KYC Fraud,1,synthetic
+your shipment requires an urgent security clearance payment.,Call,Courier Fraud,1,synthetic
+"dear customer, pay additional charges to avoid legal action. please read carefully.",SMS,Courier Fraud,1,synthetic
+"hello, your order has been delivered successfully. kindly take note.",WhatsApp,Legitimate,0,synthetic
+scan the qr code to receive your prize money. please review this message.,SMS,UPI Fraud,1,synthetic
+update: your monthly salary has been credited. this is a notification.,Call,Legitimate,0,synthetic
+please note: your account requires urgent identity verification.,SMS,KYC Fraud,1,synthetic
+contact your bank through its official application. please review this message.,WhatsApp,Legitimate,0,synthetic
+important message: your payment was completed successfully. please review this message.,UPI,Legitimate,0,synthetic
+important message: contact your bank through its official application. kindly take note.,WhatsApp,Legitimate,0,synthetic
+notification: your debit card has expired. verify your details.,Call,KYC Fraud,1,synthetic
+"dear customer, pay additional charges to avoid legal action. this is a notification.",WhatsApp,Courier Fraud,1,synthetic
+update: your debit card has expired. verify your details.,Call,KYC Fraud,1,synthetic
+"dear customer, a police officer is investigating your bank account. this message concerns your request.",SMS,Digital Arrest,1,synthetic
+notification: your account statement is available. please check the details.,SMS,Legitimate,0,synthetic
+notification: your kyc status can be checked at your bank branch. this message concerns your request.,UPI,Legitimate,0,synthetic
+"hello, provide your banking details to reactivate your account. this is a notification.",UPI,KYC Fraud,1,synthetic
+contact your bank through its official application. this is a notification.,Call,Legitimate,0,synthetic
+"dear customer, your parcel contains prohibited items. please read carefully.",SMS,Courier Fraud,1,synthetic
+attention: enter your payment credentials to receive money.,WhatsApp,UPI Fraud,1,synthetic
+attention: provide your banking details to reactivate your account.,UPI,KYC Fraud,1,synthetic
+please note: your payment was completed successfully. this message concerns your request.,SMS,Legitimate,0,synthetic
+"dear customer, you must pay a penalty to avoid arrest. please check the details.",Call,Digital Arrest,1,synthetic
+attention: update your kyc immediately using the provided link. for your information.,UPI,KYC Fraud,1,synthetic
+notification: your payment was completed successfully. please check the details.,UPI,Legitimate,0,synthetic
+please note: never share your upi pin with anyone. please check the details.,SMS,Legitimate,0,synthetic
+"hello, your order has been delivered successfully. please check the details.",SMS,Legitimate,0,synthetic
+your aadhaar is linked to a criminal investigation. this message concerns your request.,SMS,Digital Arrest,1,synthetic
+update: submit your otp to complete account verification. please review this message.,Call,KYC Fraud,1,synthetic
+your shipment requires an urgent security clearance payment. this is a notification.,Call,Courier Fraud,1,synthetic
+attention: your identity is linked to illegal activities.,Call,Digital Arrest,1,synthetic
+your parcel contains prohibited items.,SMS,Courier Fraud,1,synthetic
+attention: share your upi pin for payment verification. please read carefully.,SMS,UPI Fraud,1,synthetic
+please note: send money to verify your upi account. please read carefully.,UPI,UPI Fraud,1,synthetic
+approve this collect request to receive your refund. please review this message.,SMS,UPI Fraud,1,synthetic
+update: contact your bank through its official application. this message concerns your request.,Call,Legitimate,0,synthetic
+important message: provide your banking details to reactivate your account. for your information.,Call,KYC Fraud,1,synthetic
+complete online verification to prevent account closure. this message concerns your request.,UPI,KYC Fraud,1,synthetic
+please note: your package has been seized by authorities. for your information.,SMS,Courier Fraud,1,synthetic
+attention: your identity is linked to illegal activities. please check the details.,SMS,Digital Arrest,1,synthetic
+please note: transfer money to resolve your legal case. kindly take note.,Call,Digital Arrest,1,synthetic
+please note: enter your upi pin to receive cashback. this is a notification.,Call,UPI Fraud,1,synthetic
+notification: your electricity bill is available. this message concerns your request.,WhatsApp,Legitimate,0,synthetic
+attention: you must remain on this call until verification. please read carefully.,UPI,Digital Arrest,1,synthetic
+notification: your shipment requires an urgent security clearance payment. this message concerns your request.,SMS,Courier Fraud,1,synthetic
+"dear customer, transfer money to resolve your legal case.",WhatsApp,Digital Arrest,1,synthetic
+please note: your monthly salary has been credited. please review this message.,SMS,Legitimate,0,synthetic
+"dear customer, enter your payment credentials to receive money. please check the details.",UPI,UPI Fraud,1,synthetic
+please submit your college assignment tomorrow.,Call,Legitimate,0,synthetic
+please note: your monthly salary has been credited. please read carefully.,UPI,Legitimate,0,synthetic
+please note: enter your upi pin to receive cashback. please review this message.,Call,UPI Fraud,1,synthetic
+update: a criminal case has been registered against you. this message concerns your request.,UPI,Digital Arrest,1,synthetic
+update: provide your banking details to reactivate your account. please review this message.,SMS,KYC Fraud,1,synthetic
+your electricity bill is available. please read carefully.,SMS,Legitimate,0,synthetic
+a parcel registered in your name is under investigation. this is a notification.,WhatsApp,Courier Fraud,1,synthetic
+important message: your refund has been processed.,Call,Legitimate,0,synthetic
+attention: complete online verification to prevent account closure. for your information.,SMS,KYC Fraud,1,synthetic
+attention: your parcel contains prohibited items. please review this message.,WhatsApp,Courier Fraud,1,synthetic
+"hello, share your upi pin for payment verification. this is a notification.",Call,UPI Fraud,1,synthetic
+attention: your monthly salary has been credited. this is a notification.,WhatsApp,Legitimate,0,synthetic
+important message: provide your banking details to reactivate your account. this is a notification.,WhatsApp,KYC Fraud,1,synthetic
+attention: your appointment has been confirmed. please review this message.,SMS,Legitimate,0,synthetic
+"dear customer, a police officer is investigating your bank account. kindly take note.",WhatsApp,Digital Arrest,1,synthetic
+attention: your refund has been processed. please check the details.,WhatsApp,Legitimate,0,synthetic
+important message: pay a penalty to release your parcel. this message concerns your request.,Call,Courier Fraud,1,synthetic
+update: never share your upi pin with anyone. please review this message.,Call,Legitimate,0,synthetic
+"hello, update your kyc immediately using the provided link. this is a notification.",Call,KYC Fraud,1,synthetic
+notification: a parcel registered in your name is under investigation. please review this message.,UPI,Courier Fraud,1,synthetic
+update: report suspicious calls to the authorities. please read carefully.,WhatsApp,Legitimate,0,synthetic
+"hello, never share your upi pin with anyone. please read carefully.",Call,Legitimate,0,synthetic
+"hello, your aadhaar is linked to a criminal investigation. for your information.",Call,Digital Arrest,1,synthetic
+your shipment requires an urgent security clearance payment. please read carefully.,UPI,Courier Fraud,1,synthetic
+"hello, your package has been seized by authorities. kindly take note.",UPI,Courier Fraud,1,synthetic
+notification: enter your upi pin to receive cashback. for your information.,Call,UPI Fraud,1,synthetic
+please note: contact your bank through its official application. this message concerns your request.,Call,Legitimate,0,synthetic
+notification: your class starts at 9 am tomorrow. please review this message.,WhatsApp,Legitimate,0,synthetic
+update: your identity is linked to illegal activities. this is a notification.,WhatsApp,Digital Arrest,1,synthetic
+please note: a police officer is investigating your bank account. for your information.,Call,Digital Arrest,1,synthetic
+attention: your package has been seized by authorities.,SMS,Courier Fraud,1,synthetic
+update: pay a registration fee to claim your reward. this message concerns your request.,Call,UPI Fraud,1,synthetic
+notification: never share your upi pin with anyone. kindly take note.,UPI,Legitimate,0,synthetic
+notification: you must pay a penalty to avoid arrest. this message concerns your request.,Call,Digital Arrest,1,synthetic
+"hello, your bank account will be blocked due to incomplete kyc. please read carefully.",UPI,KYC Fraud,1,synthetic
+attention: your examination results have been published. please read carefully.,UPI,Legitimate,0,synthetic
+important message: scan the qr code to receive your prize money. please review this message.,WhatsApp,UPI Fraud,1,synthetic
+attention: you must remain on this call until verification. kindly take note.,UPI,Digital Arrest,1,synthetic
+important message: your shipment has been detained by customs. kindly take note.,UPI,Courier Fraud,1,synthetic
+contact your bank through its official application. please check the details.,UPI,Legitimate,0,synthetic
+notification: enter your payment credentials to receive money. this message concerns your request.,WhatsApp,UPI Fraud,1,synthetic
+attention: enter your payment credentials to receive money. this message concerns your request.,UPI,UPI Fraud,1,synthetic
+approve the payment request to unlock your account. for your information.,Call,UPI Fraud,1,synthetic
+please note: contact your bank through its official application. this is a notification.,WhatsApp,Legitimate,0,synthetic
+please note: your payment was completed successfully. this is a notification.,WhatsApp,Legitimate,0,synthetic
+"hello, a criminal case has been registered against you. for your information.",Call,Digital Arrest,1,synthetic
+important message: please submit your college assignment tomorrow. kindly take note.,Call,Legitimate,0,synthetic
+attention: pay additional charges to avoid legal action. kindly take note.,UPI,Courier Fraud,1,synthetic
+"dear customer, you must remain on this call until verification.",Call,Digital Arrest,1,synthetic
+important message: complete online verification to prevent account closure. please check the details.,SMS,KYC Fraud,1,synthetic
+important message: never share your upi pin with anyone. please review this message.,UPI,Legitimate,0,synthetic
+notification: pay a penalty to release your parcel. please check the details.,UPI,Courier Fraud,1,synthetic
+please note: your parcel is out for delivery. please review this message.,Call,Legitimate,0,synthetic
+"hello, pay a penalty to release your parcel. please check the details.",Call,Courier Fraud,1,synthetic
+please note: pay additional charges to avoid legal action. this message concerns your request.,Call,Courier Fraud,1,synthetic
+please submit your college assignment tomorrow. please check the details.,Call,Legitimate,0,synthetic
+attention: your monthly salary has been credited. please read carefully.,Call,Legitimate,0,synthetic
+please note: submit your otp to complete account verification. please check the details.,WhatsApp,KYC Fraud,1,synthetic
+notification: you must pay a penalty to avoid arrest. for your information.,WhatsApp,Digital Arrest,1,synthetic
+please note: your order has been delivered successfully. please check the details.,UPI,Legitimate,0,synthetic
+update: a criminal case has been registered against you. for your information.,WhatsApp,Digital Arrest,1,synthetic
+"dear customer, approve this collect request to receive your refund. please review this message.",UPI,UPI Fraud,1,synthetic
+your debit card has expired. verify your details. for your information.,WhatsApp,KYC Fraud,1,synthetic
+attention: never share your upi pin with anyone. please check the details.,SMS,Legitimate,0,synthetic
+important message: your identity is linked to illegal activities.,UPI,Digital Arrest,1,synthetic
+"hello, report suspicious calls to the authorities. please review this message.",UPI,Legitimate,0,synthetic
+report suspicious calls to the authorities. this message concerns your request.,SMS,Legitimate,0,synthetic
+"dear customer, your debit card has expired. verify your details. please read carefully.",UPI,KYC Fraud,1,synthetic
+please note: approve this collect request to receive your refund. this is a notification.,SMS,UPI Fraud,1,synthetic
+update: you are under digital arrest.,UPI,Digital Arrest,1,synthetic
+update: share your upi pin for payment verification. please read carefully.,SMS,UPI Fraud,1,synthetic
+notification: your account requires urgent identity verification. please read carefully.,WhatsApp,KYC Fraud,1,synthetic
+important message: pay additional charges to avoid legal action. for your information.,Call,Courier Fraud,1,synthetic
+notification: a parcel registered in your name is under investigation. this is a notification.,WhatsApp,Courier Fraud,1,synthetic
+important message: a criminal case has been registered against you. please read carefully.,SMS,Digital Arrest,1,synthetic
+notification: enter your upi pin to receive cashback. this message concerns your request.,Call,UPI Fraud,1,synthetic
+please note: please submit your college assignment tomorrow.,Call,Legitimate,0,synthetic
+update: complete online verification to prevent account closure. please check the details.,WhatsApp,KYC Fraud,1,synthetic
+please note: your refund has been processed. kindly take note.,Call,Legitimate,0,synthetic
+your banking services will be suspended. please review this message.,SMS,KYC Fraud,1,synthetic
+"hello, your parcel is out for delivery. please review this message.",SMS,Legitimate,0,synthetic
+important message: update your kyc immediately using the provided link.,Call,KYC Fraud,1,synthetic
+"dear customer, your parcel contains prohibited items. this message concerns your request.",WhatsApp,Courier Fraud,1,synthetic
+important message: your examination results have been published. please check the details.,Call,Legitimate,0,synthetic
+notification: your account requires urgent identity verification. this is a notification.,WhatsApp,KYC Fraud,1,synthetic
+attention: pay additional charges to avoid legal action. please review this message.,SMS,Courier Fraud,1,synthetic
+please note: your payment was completed successfully. for your information.,SMS,Legitimate,0,synthetic
+attention: report suspicious calls to the authorities. please check the details.,Call,Legitimate,0,synthetic
+"dear customer, send money to verify your upi account. please check the details.",WhatsApp,UPI Fraud,1,synthetic
+important message: report suspicious calls to the authorities. this message concerns your request.,SMS,Legitimate,0,synthetic
+attention: pay additional charges to avoid legal action. for your information.,SMS,Courier Fraud,1,synthetic
+update: enter your upi pin to receive cashback. please check the details.,Call,UPI Fraud,1,synthetic
+"dear customer, your account requires urgent identity verification. please review this message.",SMS,KYC Fraud,1,synthetic
+notification: send money to verify your upi account.,SMS,UPI Fraud,1,synthetic
+please note: complete online verification to prevent account closure. please check the details.,Call,KYC Fraud,1,synthetic
+important message: your debit card has expired. verify your details. kindly take note.,WhatsApp,KYC Fraud,1,synthetic
+"hello, your package has been seized by authorities. this message concerns your request.",UPI,Courier Fraud,1,synthetic
+notification: your parcel contains prohibited items. please check the details.,Call,Courier Fraud,1,synthetic
+notification: your shipment requires an urgent security clearance payment. for your information.,UPI,Courier Fraud,1,synthetic
+important message: your parcel contains prohibited items. for your information.,Call,Courier Fraud,1,synthetic
+"hello, send money to verify your upi account. this message concerns your request.",Call,UPI Fraud,1,synthetic
+important message: your banking services will be suspended. for your information.,SMS,KYC Fraud,1,synthetic
+"hello, your payment was completed successfully. this message concerns your request.",Call,Legitimate,0,synthetic
+important message: your account requires urgent identity verification. for your information.,SMS,KYC Fraud,1,synthetic
+please note: please attend the scheduled team meeting. kindly take note.,SMS,Legitimate,0,synthetic
+enter your payment credentials to receive money. for your information.,Call,UPI Fraud,1,synthetic
+important message: please attend the scheduled team meeting. this is a notification.,Call,Legitimate,0,synthetic
+your identity is linked to illegal activities. this message concerns your request.,UPI,Digital Arrest,1,synthetic
+attention: share your upi pin for payment verification. this message concerns your request.,SMS,UPI Fraud,1,synthetic
+important message: pay a registration fee to claim your reward. please read carefully.,SMS,UPI Fraud,1,synthetic
+please note: a police officer is investigating your bank account. please read carefully.,WhatsApp,Digital Arrest,1,synthetic
+"dear customer, enter your payment credentials to receive money.",WhatsApp,UPI Fraud,1,synthetic
+"hello, your payment was completed successfully. please review this message.",SMS,Legitimate,0,synthetic
+please note: update your kyc immediately using the provided link.,SMS,KYC Fraud,1,synthetic
+important message: your account requires urgent identity verification. please check the details.,UPI,KYC Fraud,1,synthetic
+notification: pay a penalty to release your parcel. please read carefully.,UPI,Courier Fraud,1,synthetic
+attention: your order has been delivered successfully. kindly take note.,WhatsApp,Legitimate,0,synthetic
+update: a parcel registered in your name is under investigation. please read carefully.,WhatsApp,Courier Fraud,1,synthetic
+"dear customer, your kyc status can be checked at your bank branch. this message concerns your request.",Call,Legitimate,0,synthetic
+notification: your monthly salary has been credited. this message concerns your request.,UPI,Legitimate,0,synthetic
+please note: report suspicious calls to the authorities. please check the details.,SMS,Legitimate,0,synthetic
+please note: your parcel contains prohibited items. please check the details.,UPI,Courier Fraud,1,synthetic
+"dear customer, a criminal case has been registered against you. please read carefully.",Call,Digital Arrest,1,synthetic
+please note: your courier is linked to an illegal shipment. kindly take note.,Call,Courier Fraud,1,synthetic
+pay a penalty to release your parcel. for your information.,SMS,Courier Fraud,1,synthetic
+please note: your class starts at 9 am tomorrow. this message concerns your request.,Call,Legitimate,0,synthetic
+important message: report suspicious calls to the authorities. kindly take note.,UPI,Legitimate,0,synthetic
+please note: your payment was completed successfully.,SMS,Legitimate,0,synthetic
+"dear customer, update your kyc immediately using the provided link. this is a notification.",UPI,KYC Fraud,1,synthetic
+your bank account will be blocked due to incomplete kyc. please read carefully.,Call,KYC Fraud,1,synthetic
+notification: transfer money to resolve your legal case. kindly take note.,WhatsApp,Digital Arrest,1,synthetic
+"dear customer, enter your payment credentials to receive money. for your information.",Call,UPI Fraud,1,synthetic
+"dear customer, your order has been delivered successfully. for your information.",UPI,Legitimate,0,synthetic
+attention: you must pay a penalty to avoid arrest.,Call,Digital Arrest,1,synthetic
+please note: approve the payment request to unlock your account. kindly take note.,SMS,UPI Fraud,1,synthetic
+update: submit your otp to complete account verification. please check the details.,SMS,KYC Fraud,1,synthetic
+notification: report suspicious calls to the authorities. for your information.,UPI,Legitimate,0,synthetic
+please note: your aadhaar is linked to a criminal investigation. this message concerns your request.,UPI,Digital Arrest,1,synthetic
+your order has been delivered successfully. this message concerns your request.,UPI,Legitimate,0,synthetic
+notification: your electricity bill is available. kindly take note.,WhatsApp,Legitimate,0,synthetic
+attention: you must pay a penalty to avoid arrest. this is a notification.,WhatsApp,Digital Arrest,1,synthetic
+please note: your banking services will be suspended.,UPI,KYC Fraud,1,synthetic
+"dear customer, send money to verify your upi account. this message concerns your request.",UPI,UPI Fraud,1,synthetic
+"hello, send money to verify your upi account.",WhatsApp,UPI Fraud,1,synthetic
+please submit your college assignment tomorrow. please read carefully.,SMS,Legitimate,0,synthetic
+"dear customer, your parcel is out for delivery.",WhatsApp,Legitimate,0,synthetic
+update your kyc immediately using the provided link. kindly take note.,Call,KYC Fraud,1,synthetic
+update: your appointment has been confirmed. this is a notification.,UPI,Legitimate,0,synthetic
+important message: your order has been delivered successfully. this is a notification.,WhatsApp,Legitimate,0,synthetic
+please note: pay a penalty to release your parcel. please check the details.,UPI,Courier Fraud,1,synthetic
+"hello, enter your upi pin to receive cashback. this is a notification.",UPI,UPI Fraud,1,synthetic
+notification: enter your payment credentials to receive money. kindly take note.,UPI,UPI Fraud,1,synthetic
+important message: your banking services will be suspended. this is a notification.,WhatsApp,KYC Fraud,1,synthetic
+update: transfer money to resolve your legal case. please review this message.,SMS,Digital Arrest,1,synthetic
+"hello, you must remain on this call until verification. please read carefully.",WhatsApp,Digital Arrest,1,synthetic
+"hello, your account statement is available. please review this message.",UPI,Legitimate,0,synthetic
+important message: your parcel contains prohibited items.,Call,Courier Fraud,1,synthetic
+notification: pay a penalty to release your parcel.,WhatsApp,Courier Fraud,1,synthetic
+"hello, your banking services will be suspended. for your information.",Call,KYC Fraud,1,synthetic
+report suspicious calls to the authorities. for your information.,WhatsApp,Legitimate,0,synthetic
+attention: you are under digital arrest. please read carefully.,Call,Digital Arrest,1,synthetic
+"dear customer, submit your otp to complete account verification. this is a notification.",Call,KYC Fraud,1,synthetic
+your parcel contains prohibited items. this message concerns your request.,WhatsApp,Courier Fraud,1,synthetic
+notification: pay a penalty to release your parcel. please review this message.,UPI,Courier Fraud,1,synthetic
+attention: share your upi pin for payment verification. please check the details.,WhatsApp,UPI Fraud,1,synthetic
+"hello, your payment was completed successfully. this is a notification.",Call,Legitimate,0,synthetic
+attention: your shipment has been detained by customs. this message concerns your request.,Call,Courier Fraud,1,synthetic
+important message: scan the qr code to receive your prize money. kindly take note.,UPI,UPI Fraud,1,synthetic
+update: your appointment has been confirmed. this message concerns your request.,WhatsApp,Legitimate,0,synthetic
+please note: provide your banking details to reactivate your account. this is a notification.,UPI,KYC Fraud,1,synthetic
+please note: you must pay a penalty to avoid arrest. for your information.,SMS,Digital Arrest,1,synthetic
+"dear customer, your aadhaar is linked to a criminal investigation. please check the details.",SMS,Digital Arrest,1,synthetic
+notification: your bank account will be blocked due to incomplete kyc. please read carefully.,UPI,KYC Fraud,1,synthetic
+attention: never share your upi pin with anyone. for your information.,Call,Legitimate,0,synthetic
+notification: your shipment has been detained by customs.,WhatsApp,Courier Fraud,1,synthetic
+notification: your electricity bill is available. please read carefully.,UPI,Legitimate,0,synthetic
+"dear customer, you are under digital arrest.",SMS,Digital Arrest,1,synthetic
+please note: approve this collect request to receive your refund. this message concerns your request.,SMS,UPI Fraud,1,synthetic
+"hello, share your upi pin for payment verification. kindly take note.",SMS,UPI Fraud,1,synthetic
+update: your parcel contains prohibited items. kindly take note.,Call,Courier Fraud,1,synthetic
+"dear customer, approve the payment request to unlock your account. this is a notification.",SMS,UPI Fraud,1,synthetic
+attention: you are under digital arrest. this message concerns your request.,SMS,Digital Arrest,1,synthetic
+a parcel registered in your name is under investigation. kindly take note.,WhatsApp,Courier Fraud,1,synthetic
+please note: your account statement is available. please read carefully.,WhatsApp,Legitimate,0,synthetic
+notification: your refund has been processed.,UPI,Legitimate,0,synthetic
+"hello, approve the payment request to unlock your account. this is a notification.",Call,UPI Fraud,1,synthetic
+pay a registration fee to claim your reward. this is a notification.,UPI,UPI Fraud,1,synthetic
+please note: your monthly salary has been credited. please check the details.,SMS,Legitimate,0,synthetic
+"dear customer, your bank account will be blocked due to incomplete kyc.",Call,KYC Fraud,1,synthetic
+please note: your appointment has been confirmed. for your information.,WhatsApp,Legitimate,0,synthetic
+"dear customer, submit your otp to complete account verification. for your information.",SMS,KYC Fraud,1,synthetic
+your account statement is available. this is a notification.,SMS,Legitimate,0,synthetic
+important message: enter your payment credentials to receive money. this message concerns your request.,UPI,UPI Fraud,1,synthetic
+attention: scan the qr code to receive your prize money. this is a notification.,Call,UPI Fraud,1,synthetic
+"dear customer, scan the qr code to receive your prize money. for your information.",UPI,UPI Fraud,1,synthetic
+please note: send money to verify your upi account. for your information.,WhatsApp,UPI Fraud,1,synthetic
+important message: your aadhaar is linked to a criminal investigation. this message concerns your request.,UPI,Digital Arrest,1,synthetic
+your payment was completed successfully. please read carefully.,Call,Legitimate,0,synthetic
+please note: a parcel registered in your name is under investigation. for your information.,UPI,Courier Fraud,1,synthetic
+"dear customer, your bank account will be blocked due to incomplete kyc. for your information.",SMS,KYC Fraud,1,synthetic
+notification: provide your banking details to reactivate your account.,WhatsApp,KYC Fraud,1,synthetic
+important message: approve the payment request to unlock your account. please review this message.,SMS,UPI Fraud,1,synthetic
+never share your upi pin with anyone. please read carefully.,Call,Legitimate,0,synthetic
+important message: your payment was completed successfully. this message concerns your request.,UPI,Legitimate,0,synthetic
+update: your order has been delivered successfully. this is a notification.,Call,Legitimate,0,synthetic
+please note: you are under digital arrest.,WhatsApp,Digital Arrest,1,synthetic

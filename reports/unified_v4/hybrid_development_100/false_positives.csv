@@ -1,0 +1,3 @@
+row_id,message,source,actual_category,actual_fraud,binary_score,legacy_score,legacy_decision,provisional_category,rule_score,unified_decision,decision_reason,fraud_alert,manual_review,triage_flag
+21,A security reminder: keep your one-time codes private even when someone claims to work for support.,SMS,Legitimate,0,61.2325,77.34,Manual Verification Required,Unknown,0,Potential Fraud,Binary fraud-alert threshold exceeded.,1,0,1
+41,We will not ask customers to reveal their banking password over a phone call.,SMS,Legitimate,0,55.7566,77.64,Manual Verification Required,Unknown,0,Potential Fraud,Binary fraud-alert threshold exceeded.,1,0,1

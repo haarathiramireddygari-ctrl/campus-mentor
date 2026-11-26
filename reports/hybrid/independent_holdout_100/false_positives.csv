@@ -1,0 +1,7 @@
+message,source,actual_category,predicted_category,ml_category,actual_fraud,fraud_alert,manual_review,triage_flag,ml_fraud_score,rule_score,hybrid_risk_score,risk_level,decision,uncertain,indicator_count
+The cheque you deposited on Tuesday has cleared.,SMS,Legitimate,Digital Arrest,Digital Arrest,0,1,0,1,76.11,0,76.11,High,Potential Fraud,False,0
+The office cafeteria will be closed during the maintenance break.,WhatsApp,Legitimate,KYC Fraud,KYC Fraud,0,1,0,1,80.01,0,80.01,Critical,Potential Fraud,False,0
+I asked the teller whether a joint account needs both holders present.,Call,Legitimate,Unknown,KYC Fraud,0,1,0,1,85.16,0,85.16,Critical,Potential Fraud,True,0
+Can you pick up some bread on your way back home?,WhatsApp,Legitimate,Digital Arrest,Digital Arrest,0,1,0,1,75.62,0,75.62,High,Potential Fraud,False,0
+Your shipment has departed the regional sorting centre and is expected tomorrow.,SMS,Legitimate,Courier Fraud,Courier Fraud,0,1,0,1,70.55,0,70.55,High,Potential Fraud,False,0
+Our security bulletin describes how criminals use fake parcel notices to frighten recipients.,WhatsApp,Legitimate,Courier Fraud,Courier Fraud,0,1,0,1,85.74,0,85.74,Critical,Potential Fraud,False,0

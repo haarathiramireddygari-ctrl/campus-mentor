@@ -1,0 +1,52 @@
+
+message,source,category,label,origin
+"An alleged police official says I must deposit money to prove my innocence.",Call,Digital Arrest,1,synthetic_final
+"Stay connected to this video conference and do not leave until you pay the investigation fee.",Call,Digital Arrest,1,synthetic_final
+"A stranger claiming to represent a court demanded money to cancel a criminal charge.",WhatsApp,Digital Arrest,1,synthetic_final
+"The caller says my bank funds must be transferred to a safe government account.",Call,Digital Arrest,1,synthetic_final
+"An individual posing as a government investigator demanded a refundable deposit.",Call,Digital Arrest,1,synthetic_final
+"Pay the requested amount or officers will come to your residence.",SMS,Digital Arrest,1,synthetic_final
+"A supposed crime branch officer demanded payment to prevent custody.",Call,Digital Arrest,1,synthetic_final
+"The person on the video call demanded money in exchange for legal clearance.",Call,Digital Arrest,1,synthetic_final
+"Someone claiming judicial authority asked me to pay to remove my name from a criminal case.",WhatsApp,Digital Arrest,1,synthetic_final
+"An alleged officer threatened immediate arrest if I refused to transfer funds.",Call,Digital Arrest,1,synthetic_final
+"An unsolicited banking message asks me to upload my card details and security number.",SMS,KYC Fraud,1,synthetic_final
+"Confirm your identity by sending your online banking password to this number.",WhatsApp,KYC Fraud,1,synthetic_final
+"A person pretending to be a bank manager requested my one-time password.",Call,KYC Fraud,1,synthetic_final
+"Submit your confidential banking information to prevent service deactivation.",SMS,KYC Fraud,1,synthetic_final
+"A website claiming to renew customer identity records asked for my debit card PIN.",SMS,KYC Fraud,1,synthetic_final
+"An unsolicited verification form requested my internet banking login credentials.",WhatsApp,KYC Fraud,1,synthetic_final
+"Your customer profile has expired. Send your OTP to restore banking access.",SMS,KYC Fraud,1,synthetic_final
+"A caller demanded my card security number to finish customer verification.",Call,KYC Fraud,1,synthetic_final
+"The sender asked for confidential banking codes to remove an account restriction.",SMS,KYC Fraud,1,synthetic_final
+"An unofficial banking portal requested my password to renew customer records.",WhatsApp,KYC Fraud,1,synthetic_final
+"A caller claims a box addressed to me contains restricted goods and demands a fine.",Call,Courier Fraud,1,synthetic_final
+"Someone posing as a logistics employee requested a deposit to release a detained consignment.",Call,Courier Fraud,1,synthetic_final
+"Pay the caller directly to remove a customs violation associated with your delivery.",SMS,Courier Fraud,1,synthetic_final
+"An alleged shipping officer demanded money because my parcel was supposedly linked to contraband.",Call,Courier Fraud,1,synthetic_final
+"A stranger demanded a private payment to stop an investigation involving a package.",WhatsApp,Courier Fraud,1,synthetic_final
+"The caller threatened legal proceedings unless I settled an unexpected shipment charge.",Call,Courier Fraud,1,synthetic_final
+"A supposed delivery employee requested my banking password to release an order.",Call,Courier Fraud,1,synthetic_final
+"Your consignment has allegedly been confiscated. Send a security payment to the caller.",SMS,Courier Fraud,1,synthetic_final
+"Someone claiming to represent customs demanded an unofficial transfer for a parcel.",WhatsApp,Courier Fraud,1,synthetic_final
+"A fake logistics representative threatened prosecution over a delivery and demanded money.",Call,Courier Fraud,1,synthetic_final
+"A buyer claims I need to approve an outgoing transaction to receive the purchase amount.",UPI,UPI Fraud,1,synthetic_final
+"Type your payment security PIN to collect your promised bonus.",UPI,UPI Fraud,1,synthetic_final
+"An unknown seller demands a refundable transfer before returning my money.",UPI,UPI Fraud,1,synthetic_final
+"The stranger asked me to authorise a payment request claiming it was a credit.",UPI,UPI Fraud,1,synthetic_final
+"Scan this payment QR and enter your secret PIN to obtain your reward.",WhatsApp,UPI Fraud,1,synthetic_final
+"A caller offered compensation but demanded my UPI authentication details.",Call,UPI Fraud,1,synthetic_final
+"An unsolicited reward notification asks for an advance processing payment.",SMS,UPI Fraud,1,synthetic_final
+"The buyer requested my transaction PIN before sending the purchase amount.",UPI,UPI Fraud,1,synthetic_final
+"Someone offered a refund if I first approved a debit from my account.",UPI,UPI Fraud,1,synthetic_final
+"A suspicious payment request claims money will arrive after I authorise a withdrawal.",UPI,UPI Fraud,1,synthetic_final
+"The police department is organising a public seminar on financial fraud prevention.",SMS,Legitimate,0,synthetic_final
+"Your bank advises you to keep your card security number confidential.",SMS,Legitimate,0,synthetic_final
+"Never approve a payment request unless you intend to send money.",WhatsApp,Legitimate,0,synthetic_final
+"The delivery agent will arrive between two and four this afternoon.",SMS,Legitimate,0,synthetic_final
+"Visit your bank in person if you have questions about customer verification.",SMS,Legitimate,0,synthetic_final
+"Your university examination hall ticket is ready to download from the student portal.",SMS,Legitimate,0,synthetic_final
+"The security team advises employees not to open unexpected links.",WhatsApp,Legitimate,0,synthetic_final
+"Your official electricity bill receipt is available in the customer portal.",SMS,Legitimate,0,synthetic_final
+"The bank recommends reporting unexpected requests for confidential credentials.",SMS,Legitimate,0,synthetic_final
+"The courier company has confirmed successful delivery in its official application.",SMS,Legitimate,0,synthetic_final

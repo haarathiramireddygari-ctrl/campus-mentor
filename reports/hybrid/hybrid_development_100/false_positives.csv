@@ -1,0 +1,4 @@
+message,source,actual_category,predicted_category,ml_category,actual_fraud,fraud_alert,manual_review,triage_flag,ml_fraud_score,rule_score,hybrid_risk_score,risk_level,decision,uncertain,indicator_count
+A friend returned the money I lent last week.,UPI,Legitimate,UPI Fraud,UPI Fraud,0,1,0,1,81.83,0,81.83,Critical,Potential Fraud,False,0
+Payment reference for the agreed music class fee.,UPI,Legitimate,UPI Fraud,UPI Fraud,0,1,0,1,71.57,0,71.57,High,Potential Fraud,False,0
+The courier tracking shows that the shipment is delayed due to rain.,WhatsApp,Legitimate,Courier Fraud,Courier Fraud,0,1,0,1,84.03,0,84.03,Critical,Potential Fraud,False,0

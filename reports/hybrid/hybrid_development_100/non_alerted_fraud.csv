@@ -1,0 +1,13 @@
+message,source,actual_category,predicted_category,ml_category,actual_fraud,fraud_alert,manual_review,triage_flag,ml_fraud_score,rule_score,hybrid_risk_score,risk_level,decision,uncertain,indicator_count
+The caller said a customer profile check required my internet banking password.,Call,KYC Fraud,Unknown,KYC Fraud,1,0,1,1,82.93,0,82.93,Critical,Manual Verification Required,True,0
+A sender claimed a delivery had been held and instructed me to pay through an unverified page at https://parcel.invalid.,SMS,Courier Fraud,Unknown,Courier Fraud,1,0,1,1,71.66,5,73.08,High,Manual Verification Required,True,1
+An unknown person requests a debit authorization and claims it is only a balance check.,UPI,UPI Fraud,Unknown,Legitimate,1,0,1,1,75.39,0,75.39,High,Manual Verification Required,True,0
+The caller insisted that I stay on camera and threatened my family if I contacted anyone about the payment.,Call,Digital Arrest,Unknown,Legitimate,1,0,1,1,69.42,0,69.42,High,Manual Verification Required,True,0
+Someone claimed I was under virtual custody and said I could only disconnect after paying him.,Call,Digital Arrest,Unknown,Courier Fraud,1,0,1,1,77.81,20,82.25,Critical,Manual Verification Required,True,1
+The caller said the alleged case would disappear if I paid his intermediary.,Call,Digital Arrest,Unknown,Digital Arrest,1,0,1,1,69.99,0,69.99,High,Manual Verification Required,True,0
+A stranger sent an alleged court notice and requested payment to cancel the proceedings.,SMS,Digital Arrest,Unknown,UPI Fraud,1,0,1,1,84.63,25,88.47,Critical,Manual Verification Required,True,1
+A message claimed a warrant had been issued and demanded a settlement through a personal payment address.,SMS,Digital Arrest,Unknown,Courier Fraud,1,0,1,1,75.79,0,75.79,High,Manual Verification Required,True,0
+A person claimed my parcel had been intercepted at the border and demanded payment outside the official carrier system.,Call,Courier Fraud,Unknown,Courier Fraud,1,0,1,1,72.43,25,79.32,High,Manual Verification Required,True,1
+Someone claiming to be from bank support wanted the secret number on the back of my card.,Call,KYC Fraud,Unknown,KYC Fraud,1,0,1,1,80.3,0,80.3,Critical,Manual Verification Required,True,0
+An alleged bank agent said I needed to install a remote access app so he could update my customer profile.,WhatsApp,KYC Fraud,Unknown,KYC Fraud,1,0,1,1,78.81,0,78.81,High,Manual Verification Required,True,0
+A supposed logistics worker demanded an unofficial fine before releasing my order.,Call,Courier Fraud,Unknown,Courier Fraud,1,0,1,1,83.17,0,83.17,Critical,Manual Verification Required,True,0

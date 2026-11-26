@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.ipynb_checkpoints/
+.pytest_cache/
+.streamlit/secrets.toml
+
+# Local source exports and patch staging
+/integration_source.zip
+/frontend_finalization.zip
+/FraudGuard_Unified_V4_integration.zip
+/FraudGuard_frontend_final_patch.zip
+/integration_v4_patch/
+/frontend_final_patch/
+/baseline/before_v4_integration_*/
+/baseline/before_frontend_final_*/

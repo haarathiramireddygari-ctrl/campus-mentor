@@ -1,0 +1,101 @@
+message,source,actual_category,predicted_category,ml_category,actual_fraud,fraud_alert,manual_review,triage_flag,ml_fraud_score,rule_score,hybrid_risk_score,risk_level,decision,uncertain,indicator_count
+Please leave the signed laboratory attendance sheet on my desk.,WhatsApp,Legitimate,Unknown,Legitimate,0,0,1,1,64.71,0,64.71,High,Manual Verification Required,True,0
+The accountant has reconciled the travel expenses with the receipts you submitted.,WhatsApp,Legitimate,Legitimate,Legitimate,0,0,1,1,45.33,0,45.33,Medium,Manual Verification Required,False,0
+A purported shipping agent demands a private remittance before releasing a delivery supposedly stopped by inspectors.,SMS,Courier Fraud,Unknown,Courier Fraud,1,0,1,1,77.92,0,77.92,High,Manual Verification Required,True,0
+Someone posing as a financial service agent asks me to send my identity documents and transaction authentication code to his personal chat.,WhatsApp,KYC Fraud,Unknown,KYC Fraud,1,1,0,1,92.73,30,94.91,Critical,Potential Fraud,True,1
+The cheque you deposited on Tuesday has cleared.,SMS,Legitimate,Digital Arrest,Digital Arrest,0,1,0,1,76.11,0,76.11,High,Potential Fraud,False,0
+The office cafeteria will be closed during the maintenance break.,WhatsApp,Legitimate,KYC Fraud,KYC Fraud,0,1,0,1,80.01,0,80.01,Critical,Potential Fraud,False,0
+An unsolicited lottery message demands a registration remittance before the winnings can be credited.,SMS,UPI Fraud,Unknown,Legitimate,1,0,1,1,65.51,0,65.51,High,Manual Verification Required,True,0
+An awareness workshop will explain how fraudulent callers impersonate government staff.,WhatsApp,Legitimate,Unknown,Legitimate,0,0,1,1,60.85,0,60.85,High,Manual Verification Required,True,0
+I asked the teller whether a joint account needs both holders present.,Call,Legitimate,Unknown,KYC Fraud,0,1,0,1,85.16,0,85.16,Critical,Potential Fraud,True,0
+A message claiming to be from my lender directs me to reveal my online banking passphrase to keep my customer profile active.,SMS,KYC Fraud,Unknown,KYC Fraud,1,1,0,1,91.6,0,91.6,Critical,Potential Fraud,True,0
+The caller claims a payment reversal requires me to approve a withdrawal from my own balance.,Call,UPI Fraud,Unknown,UPI Fraud,1,1,0,1,88.79,0,88.79,Critical,Potential Fraud,True,0
+An unsolicited delivery notice demands payment on an unfamiliar website before a supposedly intercepted item can be forwarded.,SMS,Courier Fraud,Unknown,Legitimate,1,0,1,1,70.06,0,70.06,High,Manual Verification Required,True,0
+Keep authentication codes private even when someone says they work for technical support.,SMS,Legitimate,Unknown,Legitimate,0,0,1,1,71.69,0,71.69,High,Manual Verification Required,True,0
+"If an unfamiliar caller claims to represent your bank, end the conversation and contact the branch yourself.",SMS,Legitimate,Unknown,Legitimate,0,0,1,1,53.62,0,53.62,Medium,Manual Verification Required,True,0
+A purported cashback agent asks for my confidential payment authorization digits to issue a reward.,UPI,UPI Fraud,UPI Fraud,UPI Fraud,1,1,0,1,90.62,0,90.62,Critical,Potential Fraud,False,0
+The club treasurer has acknowledged my annual membership contribution.,WhatsApp,Legitimate,Unknown,Legitimate,0,0,1,1,66.89,0,66.89,High,Manual Verification Required,True,0
+My neighbour called to let me know the apartment lift is being serviced.,Call,Legitimate,Unknown,KYC Fraud,0,0,1,1,76.98,0,76.98,High,Manual Verification Required,True,0
+An unknown contact offers to return a failed transaction only after I authorize a fresh debit to his personal account.,WhatsApp,UPI Fraud,Unknown,KYC Fraud,1,0,1,1,84.08,0,84.08,Critical,Manual Verification Required,True,0
+A person pretending to be a buyer insists that confirming his money request will deposit funds in my account.,UPI,UPI Fraud,Unknown,KYC Fraud,1,1,0,1,90.6,0,90.6,Critical,Potential Fraud,True,0
+They told me a criminal file had been opened in my name and that paying a private intermediary would keep me out of jail.,Call,Digital Arrest,Unknown,Digital Arrest,1,0,1,1,79.31,0,79.31,High,Manual Verification Required,True,0
+I rang the branch to ask how long a replacement debit card takes to arrive.,Call,Legitimate,Unknown,KYC Fraud,0,0,1,1,73.78,0,73.78,High,Manual Verification Required,True,0
+Can you pick up some bread on your way back home?,WhatsApp,Legitimate,Digital Arrest,Digital Arrest,0,1,0,1,75.62,0,75.62,High,Potential Fraud,False,0
+An unknown seller promises a refund after I make a separate payment to unlock it.,WhatsApp,UPI Fraud,UPI Fraud,UPI Fraud,1,1,0,1,87.09,0,87.09,Critical,Potential Fraud,False,0
+Interest on your savings account has been credited for the quarter.,SMS,Legitimate,Legitimate,Legitimate,0,0,1,1,45.51,0,45.51,Medium,Manual Verification Required,False,0
+A payment confirmation screen should be read carefully before authorising a transaction.,SMS,Legitimate,Unknown,UPI Fraud,0,0,1,1,71.92,0,71.92,High,Manual Verification Required,True,0
+The library reservation for your database textbook expires at closing time.,SMS,Legitimate,Unknown,Legitimate,0,0,1,1,53.51,0,53.51,Medium,Manual Verification Required,True,0
+Someone pretending to be a detective said I could end his interrogation only after making a private remittance.,Call,Digital Arrest,Unknown,KYC Fraud,1,0,1,1,84.35,0,84.35,Critical,Manual Verification Required,True,0
+A supposed merchant offers reimbursement but asks me to transfer a refundable verification amount first.,WhatsApp,UPI Fraud,Unknown,Digital Arrest,1,0,1,1,84.01,0,84.01,Critical,Manual Verification Required,True,0
+They said I was being monitored remotely and could not consult a lawyer until I paid them.,Call,Digital Arrest,Unknown,Legitimate,1,0,1,1,62.09,0,62.09,High,Manual Verification Required,True,0
+A purported enforcement officer says my identity is tied to illegal transactions and orders me to move my savings into his custody.,WhatsApp,Digital Arrest,Digital Arrest,Digital Arrest,1,1,0,1,93.73,20,94.98,Critical,Potential Fraud,False,1
+An alleged national security officer demands a personal remittance to prevent my supposed detention.,SMS,Digital Arrest,Unknown,Digital Arrest,1,1,0,1,93.19,20,94.55,Critical,Potential Fraud,True,1
+A message impersonating a carrier demands a special release charge for an order not shown in my purchase history.,SMS,Courier Fraud,Courier Fraud,Courier Fraud,1,1,0,1,85.64,0,85.64,Critical,Potential Fraud,False,0
+A supposed branch employee says he needs my mobile banking login credentials to correct an identity record.,WhatsApp,KYC Fraud,Unknown,KYC Fraud,1,1,0,1,86.79,0,86.79,Critical,Potential Fraud,True,0
+I received the remaining change from the shopkeeper through my payment app.,UPI,Legitimate,Unknown,UPI Fraud,0,0,1,1,68.38,0,68.38,High,Manual Verification Required,True,0
+The carrier has scheduled a second delivery attempt because nobody was available yesterday.,SMS,Legitimate,Legitimate,Legitimate,0,0,0,0,7.14,0,7.14,Low,Low Detected Risk,False,0
+A stranger says I must disclose my secret payment passcode before he can send a compensation amount.,Call,UPI Fraud,Unknown,UPI Fraud,1,0,1,1,80.65,0,80.65,Critical,Manual Verification Required,True,0
+A stranger sent a debit request and falsely described the approval screen as a way to accept prize money.,UPI,UPI Fraud,UPI Fraud,UPI Fraud,1,1,0,1,91.48,0,91.48,Critical,Potential Fraud,False,0
+An impostor claiming to be a courier representative offers to cancel a bogus inspection charge if I transfer money to his associate.,WhatsApp,Courier Fraud,Unknown,Courier Fraud,1,1,0,1,90.18,25,92.64,Critical,Potential Fraud,True,1
+Your train ticket reservation has been confirmed in the booking application.,SMS,Legitimate,Legitimate,Legitimate,0,0,0,0,23.55,0,23.55,Low,Low Detected Risk,False,0
+Your debit card has been dispatched to the registered correspondence address.,SMS,Legitimate,Unknown,KYC Fraud,0,0,1,1,78.15,0,78.15,High,Manual Verification Required,True,0
+A damaged outer carton was replaced at the warehouse before dispatch.,SMS,Legitimate,Legitimate,Legitimate,0,0,1,1,37.84,0,37.84,Medium,Manual Verification Required,False,0
+The caller claims my customer registration is incomplete and asks me to dictate the confidential code from my latest banking text.,Call,KYC Fraud,KYC Fraud,KYC Fraud,1,1,0,1,93.08,0,93.08,Critical,Potential Fraud,False,0
+Collection of your returned product is scheduled for Monday morning.,SMS,Legitimate,Legitimate,Legitimate,0,0,1,1,35.21,0,35.21,Medium,Manual Verification Required,False,0
+The bank employee explained that customers should not reveal their secret card digits to callers.,Call,Legitimate,Unknown,Legitimate,0,0,1,1,64.35,0,64.35,High,Manual Verification Required,True,0
+Your bank appointment to discuss a home loan is confirmed for Friday.,SMS,Legitimate,Legitimate,Legitimate,0,0,0,0,22.38,0,22.38,Low,Low Detected Risk,False,0
+Check the recipient name displayed in your own payment app before proceeding.,SMS,Legitimate,Unknown,Legitimate,0,0,1,1,67.52,0,67.52,High,Manual Verification Required,True,0
+An impostor using a court emblem instructed me to keep our conversation secret and purchase a monetary release certificate.,WhatsApp,Digital Arrest,Unknown,Courier Fraud,1,0,1,1,83.07,0,83.07,Critical,Manual Verification Required,True,0
+An unsolicited notice says my customer registration expires today and asks me to submit my banking login information on an unfamiliar form.,SMS,KYC Fraud,KYC Fraud,KYC Fraud,1,1,0,1,91.62,0,91.62,Critical,Potential Fraud,False,0
+Our IT department says staff should report unusual login requests to the help desk.,WhatsApp,Legitimate,Legitimate,Legitimate,0,0,1,1,40.42,0,40.42,Medium,Manual Verification Required,False,0
+Someone offering to buy my used bicycle says I must authorise an outgoing transaction before his payment can reach me.,Call,UPI Fraud,Unknown,UPI Fraud,1,1,0,1,85.54,0,85.54,Critical,Potential Fraud,True,0
+A supposed delivery supervisor threatens to refer me to investigators unless I make a private payment for a seized carton.,Call,Courier Fraud,Unknown,Digital Arrest,1,0,1,1,83.67,0,83.67,Critical,Manual Verification Required,True,0
+I spoke to the merchant about correcting a duplicate charge on my receipt.,Call,Legitimate,Unknown,Legitimate,0,0,1,1,68.69,0,68.69,High,Manual Verification Required,True,0
+A fake dispatch representative says I must pay a personal account to avoid being named in a prohibited cargo inquiry.,WhatsApp,Courier Fraud,Courier Fraud,Courier Fraud,1,1,0,1,95.46,0,95.46,Critical,Potential Fraud,False,0
+An account posing as a tribunal clerk sent a summons and offered to withdraw it in exchange for money.,WhatsApp,Digital Arrest,Unknown,UPI Fraud,1,1,0,1,87.74,0,87.74,Critical,Potential Fraud,True,0
+A fake support representative insists I reveal the secret phrase I use to access my savings account.,Call,KYC Fraud,Unknown,UPI Fraud,1,0,1,1,82.62,0,82.62,Critical,Manual Verification Required,True,0
+Your internal assessment marks are available through the academic portal.,SMS,Legitimate,Legitimate,Legitimate,0,0,0,0,22.61,0,22.61,Low,Low Detected Risk,False,0
+A person claiming to work at the border depot asks for an unofficial bond to return a held shipment.,WhatsApp,Courier Fraud,Unknown,Courier Fraud,1,0,1,1,80.88,0,80.88,Critical,Manual Verification Required,True,0
+A stranger claiming to handle identity checks wants the one-time login code sent to my phone.,Call,KYC Fraud,Unknown,Digital Arrest,1,1,0,1,86.27,0,86.27,Critical,Potential Fraud,True,0
+"If you suspect identity misuse, contact your provider using a number you have verified independently.",SMS,Legitimate,Unknown,KYC Fraud,0,0,1,1,72.47,0,72.47,High,Manual Verification Required,True,0
+A caller claims a surveillance order is active against me and demands a refundable bond before I can speak to my relatives.,Call,Digital Arrest,Unknown,Digital Arrest,1,0,1,1,83.52,0,83.52,Critical,Manual Verification Required,True,0
+My bus pass renewal payment is marked successful in the transport app.,UPI,Legitimate,Legitimate,Legitimate,0,0,1,1,49.97,0,49.97,Medium,Manual Verification Required,False,0
+I called the seller to arrange a return of the shirt that did not fit.,Call,Legitimate,Unknown,Legitimate,0,0,1,1,66.06,0,66.06,High,Manual Verification Required,True,0
+Your shipment has departed the regional sorting centre and is expected tomorrow.,SMS,Legitimate,Courier Fraud,Courier Fraud,0,1,0,1,70.55,0,70.55,High,Potential Fraud,False,0
+The restaurant bill has been split equally among the four of us.,UPI,Legitimate,Legitimate,Legitimate,0,0,0,0,18.79,0,18.79,Low,Low Detected Risk,False,0
+My supervisor called to confirm which shift I am assigned next week.,Call,Legitimate,Unknown,Legitimate,0,0,1,1,61.95,0,61.95,High,Manual Verification Required,True,0
+The scheduled deduction for your insurance premium is due on the first of next month.,SMS,Legitimate,Legitimate,Legitimate,0,0,1,1,32.7,0,32.7,Medium,Manual Verification Required,False,0
+Someone describes a request to deduct money from my account as a receipt confirmation for an incoming transfer.,UPI,UPI Fraud,Unknown,UPI Fraud,1,1,0,1,91.47,0,91.47,Critical,Potential Fraud,True,0
+The electrician finished replacing the faulty switch in the kitchen.,WhatsApp,Legitimate,Legitimate,Legitimate,0,0,1,1,41.91,0,41.91,Medium,Manual Verification Required,False,0
+The dentist has moved your routine checkup to Wednesday morning.,SMS,Legitimate,Unknown,Legitimate,0,0,1,1,53.16,0,53.16,Medium,Manual Verification Required,True,0
+Please bring a water bottle for the football practice this evening.,WhatsApp,Legitimate,Legitimate,Legitimate,0,0,1,1,48.02,0,48.02,Medium,Manual Verification Required,False,0
+The delivery address has been corrected in the shopping app as requested.,WhatsApp,Legitimate,Legitimate,Legitimate,0,0,1,1,42.22,0,42.22,Medium,Manual Verification Required,False,0
+A man claiming to be a magistrate said I must remain visible on webcam while his assistant arranges a compulsory bond payment.,Call,Digital Arrest,Digital Arrest,Digital Arrest,1,1,0,1,90.74,0,90.74,Critical,Potential Fraud,False,0
+The community centre is hosting a session about recognizing deceptive prize announcements.,WhatsApp,Legitimate,Unknown,Legitimate,0,0,1,1,60.01,0,60.01,High,Manual Verification Required,True,0
+A fake reward service demands an advance administrative remittance to release a promised cash benefit.,SMS,UPI Fraud,Unknown,UPI Fraud,1,1,0,1,91.23,0,91.23,Critical,Potential Fraud,True,0
+An unknown sender claims a parcel addressed to me was found with forged documents and demands a settlement outside the carrier's app.,SMS,Courier Fraud,Unknown,Courier Fraud,1,0,1,1,72.05,0,72.05,High,Manual Verification Required,True,0
+A standing instruction for your electricity bill was executed successfully.,SMS,Legitimate,Legitimate,Legitimate,0,0,0,0,11.66,0,11.66,Low,Low Detected Risk,False,0
+The person said my name appeared in a laundering inquiry and insisted I hand over my balance for inspection.,Call,Digital Arrest,Unknown,Courier Fraud,1,1,0,1,85.39,0,85.39,Critical,Potential Fraud,True,0
+I paid the tailor after collecting my altered trousers.,UPI,Legitimate,Unknown,Legitimate,0,0,1,1,72.23,0,72.23,High,Manual Verification Required,True,0
+The delivery company confirmed that the replacement item is covered under warranty.,WhatsApp,Legitimate,Legitimate,Legitimate,0,0,1,1,41.01,0,41.01,Medium,Manual Verification Required,False,0
+Thanks for covering the parking charge; I will reimburse you after work.,WhatsApp,Legitimate,Unknown,KYC Fraud,0,0,1,1,77.73,0,77.73,High,Manual Verification Required,True,0
+Here is my share of the groceries we bought together yesterday.,UPI,Legitimate,Unknown,Legitimate,0,0,1,1,60.04,0,60.04,High,Manual Verification Required,True,0
+Someone posing as a freight employee claims my goods were taken by officials and wants money through his own payment handle.,WhatsApp,Courier Fraud,Unknown,UPI Fraud,1,0,1,1,78.31,0,78.31,High,Manual Verification Required,True,0
+Your fixed deposit matures next month; renewal instructions can be changed at your branch.,SMS,Legitimate,Legitimate,Legitimate,0,0,1,1,35.83,0,35.83,Medium,Manual Verification Required,False,0
+Your order is awaiting collection at the pickup counter you selected during checkout.,SMS,Legitimate,Legitimate,Legitimate,0,0,1,1,42.19,0,42.19,Medium,Manual Verification Required,False,0
+A supposed judicial official threatens an immediate criminal hearing unless a monetary clearance charge is paid to him.,SMS,Digital Arrest,Unknown,Digital Arrest,1,0,1,1,84.06,0,84.06,Critical,Manual Verification Required,True,0
+A stranger offering an account reactivation service requests my full card information including its secret authentication value.,WhatsApp,KYC Fraud,KYC Fraud,KYC Fraud,1,1,0,1,89.85,0,89.85,Critical,Potential Fraud,False,0
+A stranger identifying himself as an investigator says I must pay him to erase an accusation from his records.,WhatsApp,Digital Arrest,Digital Arrest,Digital Arrest,1,1,0,1,91.64,10,92.48,Critical,Potential Fraud,False,1
+A purported compliance team demands my confidential card verification digits to prevent interruption of account access.,SMS,KYC Fraud,KYC Fraud,KYC Fraud,1,1,0,1,94.65,0,94.65,Critical,Potential Fraud,False,0
+An unexpected identity validation notice requests the private password for my bank account.,SMS,KYC Fraud,KYC Fraud,KYC Fraud,1,1,0,1,90.88,0,90.88,Critical,Potential Fraud,False,0
+The caller threatened to take my parents into questioning unless I settled his alleged investigation costs.,Call,Digital Arrest,Digital Arrest,Digital Arrest,1,1,0,1,91.71,0,91.71,Critical,Potential Fraud,False,0
+The person offering to renew my bank profile insists I give him control of my device using a screen sharing application.,Call,KYC Fraud,Unknown,KYC Fraud,1,0,1,1,77.98,0,77.98,High,Manual Verification Required,True,0
+A stranger says a package I never ordered has triggered a customs investigation and offers to settle it for a charge.,Call,Courier Fraud,Courier Fraud,Courier Fraud,1,1,0,1,83.58,0,83.58,Critical,Potential Fraud,False,0
+A caller alleges my name is on an overseas parcel containing illegal substances and asks me to pay him to remove the accusation.,Call,Courier Fraud,Courier Fraud,Courier Fraud,1,1,0,1,95.33,0,95.33,Critical,Potential Fraud,False,0
+Our security bulletin describes how criminals use fake parcel notices to frighten recipients.,WhatsApp,Legitimate,Courier Fraud,Courier Fraud,0,1,0,1,85.74,0,85.74,Critical,Potential Fraud,False,0
+The vegetable vendor confirmed receiving the exact amount shown on his invoice.,UPI,Legitimate,Unknown,Legitimate,0,0,1,1,53.52,0,53.52,Medium,Manual Verification Required,True,0
+The caller claims the shipping label connects me to banned goods and says a payment to him will resolve the matter.,Call,Courier Fraud,Unknown,Courier Fraud,1,1,0,1,85.57,0,85.57,Critical,Potential Fraud,True,0
+An unknown account claiming to update bank records asks me to photograph both sides of my debit card.,WhatsApp,KYC Fraud,KYC Fraud,KYC Fraud,1,1,0,1,93.45,0,93.45,Critical,Potential Fraud,False,0
+A supposed card service representative asked me to read out the three secret digits printed beside my signature strip.,Call,KYC Fraud,Unknown,KYC Fraud,1,0,1,1,84.46,0,84.46,Critical,Manual Verification Required,True,0
+Our project group will meet in the computer lab after lunch.,WhatsApp,Legitimate,Unknown,Legitimate,0,0,1,1,58.91,0,58.91,Medium,Manual Verification Required,True,0
+The rent payment appears in my transaction history under this month's entry.,UPI,Legitimate,Unknown,UPI Fraud,0,0,1,1,82.18,0,82.18,Critical,Manual Verification Required,True,0

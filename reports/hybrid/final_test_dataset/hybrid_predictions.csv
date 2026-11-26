@@ -1,0 +1,51 @@
+message,source,actual_category,predicted_category,ml_category,actual_fraud,fraud_alert,manual_review,triage_flag,ml_fraud_score,rule_score,hybrid_risk_score,risk_level,decision,uncertain,indicator_count
+An alleged police official says I must deposit money to prove my innocence.,Call,Digital Arrest,Digital Arrest,Digital Arrest,1,1,0,1,92.07,10,92.86,Critical,Potential Fraud,False,1
+Stay connected to this video conference and do not leave until you pay the investigation fee.,Call,Digital Arrest,Unknown,Digital Arrest,1,1,0,1,82.31,45,90.27,Critical,Potential Fraud,True,2
+A stranger claiming to represent a court demanded money to cancel a criminal charge.,WhatsApp,Digital Arrest,Digital Arrest,Digital Arrest,1,1,0,1,93.71,45,96.54,Critical,Potential Fraud,False,2
+The caller says my bank funds must be transferred to a safe government account.,Call,Digital Arrest,Unknown,Digital Arrest,1,1,0,1,86.78,0,86.78,Critical,Potential Fraud,True,0
+An individual posing as a government investigator demanded a refundable deposit.,Call,Digital Arrest,Digital Arrest,Digital Arrest,1,1,0,1,88.33,10,89.5,Critical,Potential Fraud,False,1
+Pay the requested amount or officers will come to your residence.,SMS,Digital Arrest,Unknown,KYC Fraud,1,1,0,1,91.15,0,91.15,Critical,Potential Fraud,True,0
+A supposed crime branch officer demanded payment to prevent custody.,Call,Digital Arrest,Unknown,Digital Arrest,1,1,0,1,85.29,55,93.38,Critical,Potential Fraud,True,3
+The person on the video call demanded money in exchange for legal clearance.,Call,Digital Arrest,Unknown,Digital Arrest,1,1,0,1,90.57,25,92.93,Critical,Potential Fraud,True,1
+Someone claiming judicial authority asked me to pay to remove my name from a criminal case.,WhatsApp,Digital Arrest,Digital Arrest,Digital Arrest,1,1,0,1,95.79,20,96.63,Critical,Potential Fraud,False,1
+An alleged officer threatened immediate arrest if I refused to transfer funds.,Call,Digital Arrest,Digital Arrest,Digital Arrest,1,1,0,1,93.44,45,96.39,Critical,Potential Fraud,False,2
+An unsolicited banking message asks me to upload my card details and security number.,SMS,KYC Fraud,KYC Fraud,KYC Fraud,1,1,0,1,92.09,0,92.09,Critical,Potential Fraud,False,0
+Confirm your identity by sending your online banking password to this number.,WhatsApp,KYC Fraud,KYC Fraud,KYC Fraud,1,1,0,1,85.79,0,85.79,Critical,Potential Fraud,False,0
+A person pretending to be a bank manager requested my one-time password.,Call,KYC Fraud,Unknown,KYC Fraud,1,1,0,1,88.56,30,91.99,Critical,Potential Fraud,True,1
+Submit your confidential banking information to prevent service deactivation.,SMS,KYC Fraud,KYC Fraud,KYC Fraud,1,1,0,1,93.59,0,93.59,Critical,Potential Fraud,False,0
+A website claiming to renew customer identity records asked for my debit card PIN.,SMS,KYC Fraud,KYC Fraud,KYC Fraud,1,1,0,1,93.31,30,95.32,Critical,Potential Fraud,False,1
+An unsolicited verification form requested my internet banking login credentials.,WhatsApp,KYC Fraud,KYC Fraud,KYC Fraud,1,1,0,1,95.97,30,97.18,Critical,Potential Fraud,False,1
+Your customer profile has expired. Send your OTP to restore banking access.,SMS,KYC Fraud,KYC Fraud,KYC Fraud,1,1,0,1,91.12,30,93.78,Critical,Potential Fraud,False,1
+A caller demanded my card security number to finish customer verification.,Call,KYC Fraud,Unknown,KYC Fraud,1,1,0,1,94.55,30,96.19,Critical,Potential Fraud,True,1
+The sender asked for confidential banking codes to remove an account restriction.,SMS,KYC Fraud,KYC Fraud,KYC Fraud,1,1,0,1,93.6,0,93.6,Critical,Potential Fraud,False,0
+An unofficial banking portal requested my password to renew customer records.,WhatsApp,KYC Fraud,KYC Fraud,KYC Fraud,1,1,0,1,88.17,30,91.72,Critical,Potential Fraud,False,1
+A caller claims a box addressed to me contains restricted goods and demands a fine.,Call,Courier Fraud,Unknown,Courier Fraud,1,1,0,1,86.47,0,86.47,Critical,Potential Fraud,True,0
+Someone posing as a logistics employee requested a deposit to release a detained consignment.,Call,Courier Fraud,Unknown,Courier Fraud,1,1,0,1,90.09,0,90.09,Critical,Potential Fraud,True,0
+Pay the caller directly to remove a customs violation associated with your delivery.,SMS,Courier Fraud,Unknown,Legitimate,1,1,0,1,55.68,45,85.0,Critical,Potential Fraud,True,2
+An alleged shipping officer demanded money because my parcel was supposedly linked to contraband.,Call,Courier Fraud,Courier Fraud,Courier Fraud,1,1,0,1,94.47,25,95.85,Critical,Potential Fraud,False,1
+A stranger demanded a private payment to stop an investigation involving a package.,WhatsApp,Courier Fraud,Unknown,Courier Fraud,1,1,0,1,95.09,0,95.09,Critical,Potential Fraud,True,0
+The caller threatened legal proceedings unless I settled an unexpected shipment charge.,Call,Courier Fraud,Courier Fraud,Courier Fraud,1,1,0,1,92.69,0,92.69,Critical,Potential Fraud,False,0
+A supposed delivery employee requested my banking password to release an order.,Call,Courier Fraud,Unknown,KYC Fraud,1,1,0,1,83.05,30,88.13,Critical,Potential Fraud,True,1
+Your consignment has allegedly been confiscated. Send a security payment to the caller.,SMS,Courier Fraud,Unknown,Legitimate,1,1,0,1,60.19,45,85.0,Critical,Potential Fraud,True,2
+Someone claiming to represent customs demanded an unofficial transfer for a parcel.,WhatsApp,Courier Fraud,Courier Fraud,Courier Fraud,1,1,0,1,92.94,0,92.94,Critical,Potential Fraud,False,0
+A fake logistics representative threatened prosecution over a delivery and demanded money.,Call,Courier Fraud,Unknown,Courier Fraud,1,1,0,1,88.2,45,93.51,Critical,Potential Fraud,True,2
+A buyer claims I need to approve an outgoing transaction to receive the purchase amount.,UPI,UPI Fraud,UPI Fraud,UPI Fraud,1,1,0,1,92.38,0,92.38,Critical,Potential Fraud,False,0
+Type your payment security PIN to collect your promised bonus.,UPI,UPI Fraud,UPI Fraud,UPI Fraud,1,1,0,1,83.12,0,83.12,Critical,Potential Fraud,False,0
+An unknown seller demands a refundable transfer before returning my money.,UPI,UPI Fraud,Unknown,Digital Arrest,1,1,0,1,85.07,0,85.07,Critical,Potential Fraud,True,0
+The stranger asked me to authorise a payment request claiming it was a credit.,UPI,UPI Fraud,UPI Fraud,UPI Fraud,1,1,0,1,86.96,0,86.96,Critical,Potential Fraud,False,0
+Scan this payment QR and enter your secret PIN to obtain your reward.,WhatsApp,UPI Fraud,UPI Fraud,UPI Fraud,1,1,0,1,94.26,30,95.98,Critical,Potential Fraud,False,1
+A caller offered compensation but demanded my UPI authentication details.,Call,UPI Fraud,Unknown,KYC Fraud,1,1,0,1,88.12,30,91.68,Critical,Potential Fraud,True,1
+An unsolicited reward notification asks for an advance processing payment.,SMS,UPI Fraud,Unknown,UPI Fraud,1,0,1,1,83.27,25,87.45,Critical,Manual Verification Required,True,1
+The buyer requested my transaction PIN before sending the purchase amount.,UPI,UPI Fraud,UPI Fraud,UPI Fraud,1,1,0,1,87.15,30,91.01,Critical,Potential Fraud,False,1
+Someone offered a refund if I first approved a debit from my account.,UPI,UPI Fraud,Unknown,KYC Fraud,1,1,0,1,86.68,30,90.68,Critical,Potential Fraud,True,1
+A suspicious payment request claims money will arrive after I authorise a withdrawal.,UPI,UPI Fraud,UPI Fraud,UPI Fraud,1,1,0,1,81.13,0,81.13,Critical,Potential Fraud,False,0
+The police department is organising a public seminar on financial fraud prevention.,SMS,Legitimate,Unknown,Digital Arrest,0,0,1,1,66.87,0,66.87,High,Manual Verification Required,True,0
+Your bank advises you to keep your card security number confidential.,SMS,Legitimate,Unknown,Digital Arrest,0,0,1,1,80.8,0,80.8,Critical,Manual Verification Required,True,0
+Never approve a payment request unless you intend to send money.,WhatsApp,Legitimate,UPI Fraud,UPI Fraud,0,0,1,1,95.08,0,95.08,Critical,Manual Verification Required,True,0
+The delivery agent will arrive between two and four this afternoon.,SMS,Legitimate,Unknown,Legitimate,0,0,1,1,51.6,0,51.6,Medium,Manual Verification Required,True,0
+Visit your bank in person if you have questions about customer verification.,SMS,Legitimate,Unknown,Legitimate,0,0,1,1,66.82,0,66.82,High,Manual Verification Required,True,0
+Your university examination hall ticket is ready to download from the student portal.,SMS,Legitimate,Legitimate,Legitimate,0,0,1,1,46.16,0,46.16,Medium,Manual Verification Required,False,0
+The security team advises employees not to open unexpected links.,WhatsApp,Legitimate,Unknown,Legitimate,0,0,1,1,59.25,0,59.25,Medium,Manual Verification Required,True,0
+Your official electricity bill receipt is available in the customer portal.,SMS,Legitimate,Legitimate,Legitimate,0,0,0,0,15.91,0,15.91,Low,Low Detected Risk,False,0
+The bank recommends reporting unexpected requests for confidential credentials.,SMS,Legitimate,Unknown,Legitimate,0,0,1,1,69.03,0,69.03,High,Manual Verification Required,True,0
+The courier company has confirmed successful delivery in its official application.,SMS,Legitimate,Legitimate,Legitimate,0,0,0,0,12.78,0,12.78,Low,Low Detected Risk,False,0

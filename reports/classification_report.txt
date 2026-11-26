@@ -1,0 +1,18 @@
+FraudGuard AI - Model Evaluation
+
+Accuracy: 57.50%
+Macro Precision: 59.27%
+Macro Recall: 57.50%
+Macro F1-Score: 57.32%
+
+                precision    recall  f1-score   support
+
+ Courier Fraud       0.67      0.50      0.57         8
+Digital Arrest       0.60      0.38      0.46         8
+     KYC Fraud       0.67      0.75      0.71         8
+    Legitimate       0.36      0.50      0.42         8
+     UPI Fraud       0.67      0.75      0.71         8
+
+      accuracy                           0.57        40
+     macro avg       0.59      0.57      0.57        40
+  weighted avg       0.59      0.57      0.57        40

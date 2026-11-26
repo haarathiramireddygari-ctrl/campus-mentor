@@ -1,0 +1,2 @@
+Dataset,Total Records,Binary Accuracy,Fraud Precision,Fraud Recall,Fraud F1,False Positive Rate,Triage Fraud Recall,Legitimate Triage Rate,Manual Review Rate,Digital Arrest Alert Recall,Fraud Without Alert or Review,True Positives,True Negatives,False Positives,Fraud Without Explicit Alert
+hybrid_development_100.csv,100,95.0,95.92,94.0,94.95,4.0,100.0,40.0,21.0,84.62,0,47,48,2,3

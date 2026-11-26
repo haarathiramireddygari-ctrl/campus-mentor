@@ -1,0 +1,41 @@
+message,source,category,label,origin,predicted_category,correct_prediction,fraud_score
+A person claiming to be an investigator demanded money to close an alleged case.,Call,Digital Arrest,1,synthetic_test,Digital Arrest,True,92.7
+The caller threatened imprisonment unless I paid a settlement.,Call,Digital Arrest,1,synthetic_test,Legitimate,False,53.79
+A fake government official demanded a video call and financial deposit.,WhatsApp,Digital Arrest,1,synthetic_test,Legitimate,False,56.94
+Someone claiming to represent the police demanded access to my savings.,Call,Digital Arrest,1,synthetic_test,Digital Arrest,True,89.3
+The caller instructed me not to contact my family during an alleged investigation.,Call,Digital Arrest,1,synthetic_test,Courier Fraud,False,78.61
+A supposed officer requested money to clear false criminal allegations.,WhatsApp,Digital Arrest,1,synthetic_test,Digital Arrest,True,95.88
+My supposed bail requires an immediate online payment to the caller.,Call,Digital Arrest,1,synthetic_test,Courier Fraud,False,82.33
+A stranger threatened detention unless I transferred my savings.,WhatsApp,Digital Arrest,1,synthetic_test,Legitimate,False,63.43
+A fake banking representative requested my password to restore access.,Call,KYC Fraud,1,synthetic_test,KYC Fraud,True,92.17
+The sender demanded confidential card information for identity renewal.,SMS,KYC Fraud,1,synthetic_test,KYC Fraud,True,75.55
+A suspicious website requested my banking credentials for verification.,WhatsApp,KYC Fraud,1,synthetic_test,KYC Fraud,True,77.46
+The message threatened to freeze my savings unless I disclosed a security code.,SMS,KYC Fraud,1,synthetic_test,UPI Fraud,False,80.35
+A caller asked for my private banking code to validate my identity.,Call,KYC Fraud,1,synthetic_test,KYC Fraud,True,87.93
+Someone posing as bank staff requested sensitive documents through an unofficial link.,WhatsApp,KYC Fraud,1,synthetic_test,Legitimate,False,65.12
+A fake verification page demanded my account password.,SMS,KYC Fraud,1,synthetic_test,KYC Fraud,True,96.73
+The sender requested my confidential card details to renew banking access.,SMS,KYC Fraud,1,synthetic_test,KYC Fraud,True,92.41
+A supposed delivery agent demanded money over an alleged suspicious package.,Call,Courier Fraud,1,synthetic_test,Legitimate,False,66.1
+The caller claimed a shipment in my name contained unlawful goods and requested money.,Call,Courier Fraud,1,synthetic_test,Courier Fraud,True,89.75
+A fake customs representative requested a personal payment to clear a shipment.,WhatsApp,Courier Fraud,1,synthetic_test,Courier Fraud,True,94.51
+Someone demanded a settlement for a package I never ordered.,Call,Courier Fraud,1,synthetic_test,Legitimate,False,56.4
+An unknown sender requested money to prevent prosecution over a delivery.,SMS,Courier Fraud,1,synthetic_test,UPI Fraud,False,83.38
+A caller claimed my package was evidence in a crime and demanded a deposit.,Call,Courier Fraud,1,synthetic_test,Courier Fraud,True,71.01
+A fake shipping representative demanded confidential banking information.,WhatsApp,Courier Fraud,1,synthetic_test,KYC Fraud,False,79.86
+The delivery message demanded an unofficial payment to settle an alleged offence.,SMS,Courier Fraud,1,synthetic_test,Courier Fraud,True,76.48
+A stranger requested my payment PIN to credit a reward.,UPI,UPI Fraud,1,synthetic_test,UPI Fraud,True,91.39
+A buyer sent a debit request claiming it would deposit money into my account.,UPI,UPI Fraud,1,synthetic_test,KYC Fraud,False,89.93
+The caller asked me to authorise a transaction to collect compensation.,Call,UPI Fraud,1,synthetic_test,UPI Fraud,True,88.69
+A fake merchant requested an advance transfer before issuing a refund.,UPI,UPI Fraud,1,synthetic_test,Legitimate,False,71.35
+Someone claimed I won a reward and demanded my confidential payment code.,WhatsApp,UPI Fraud,1,synthetic_test,UPI Fraud,True,84.34
+A stranger asked me to authorise a debit to receive money.,UPI,UPI Fraud,1,synthetic_test,UPI Fraud,True,97.8
+A fake customer support agent demanded my payment credentials.,Call,UPI Fraud,1,synthetic_test,UPI Fraud,True,81.44
+The sender requested a payment to unlock a promised cash reward.,SMS,UPI Fraud,1,synthetic_test,UPI Fraud,True,93.02
+The university library will remain closed on Sunday.,SMS,Legitimate,0,synthetic_test,Digital Arrest,False,77.56
+Please visit the official bank branch for KYC assistance.,SMS,Legitimate,0,synthetic_test,Legitimate,True,33.18
+Do not disclose your payment PIN to unknown callers.,WhatsApp,Legitimate,0,synthetic_test,UPI Fraud,False,85.08
+The courier tracking information is available in your official shopping application.,SMS,Legitimate,0,synthetic_test,Legitimate,True,35.85
+Police have issued a public awareness notice about digital arrest scams.,WhatsApp,Legitimate,0,synthetic_test,Digital Arrest,False,87.22
+Your scheduled medical appointment is confirmed for Friday.,SMS,Legitimate,0,synthetic_test,Legitimate,True,28.48
+Check your official banking application for transaction history.,SMS,Legitimate,0,synthetic_test,Legitimate,True,49.12
+The college seminar will cover online fraud and cybersecurity awareness.,WhatsApp,Legitimate,0,synthetic_test,KYC Fraud,False,67.41

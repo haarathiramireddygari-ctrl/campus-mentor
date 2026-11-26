@@ -1,0 +1,3 @@
+Policy,Binary Accuracy,Fraud Precision,Fraud Recall,Fraud F1,False Positive Rate,Triage Fraud Recall,Legitimate Triage Rate,Manual Review Rate,Fraud Without Alert or Review,True Positives,True Negatives,False Positives,False Negatives
+Binary Candidate - Standard,78.0,69.44,100.0,81.97,44.0,100.0,44.0,0.0,0,50,28,22,0
+Binary Candidate - Three Way,87.0,87.76,86.0,86.87,12.0,100.0,76.0,39.0,0,43,44,6,7

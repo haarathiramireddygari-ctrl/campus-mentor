@@ -1,0 +1,101 @@
+category,source,binary_label,Binary Candidate V1 Score,Binary Candidate V1 Decision,Binary Candidate V2 Score,Binary Candidate V2 Decision
+Legitimate,WhatsApp,0,60.47,Manual Verification Required,26.37,Low Detected Risk
+Legitimate,WhatsApp,0,41.16,Low Detected Risk,14.88,Low Detected Risk
+Courier Fraud,SMS,1,71.84,Manual Verification Required,53.95,Potential Fraud
+KYC Fraud,WhatsApp,1,90.98,Potential Fraud,90.39,Potential Fraud
+Legitimate,SMS,0,68.54,Manual Verification Required,24.37,Low Detected Risk
+Legitimate,WhatsApp,0,78.44,Potential Fraud,29.77,Low Detected Risk
+UPI Fraud,SMS,1,61.0,Manual Verification Required,40.11,Manual Verification Required
+Legitimate,WhatsApp,0,49.36,Low Detected Risk,31.04,Low Detected Risk
+Legitimate,Call,0,81.94,Potential Fraud,42.43,Manual Verification Required
+KYC Fraud,SMS,1,91.4,Potential Fraud,80.69,Potential Fraud
+UPI Fraud,Call,1,87.09,Potential Fraud,75.83,Potential Fraud
+Courier Fraud,SMS,1,63.33,Manual Verification Required,46.05,Manual Verification Required
+Legitimate,SMS,0,64.82,Manual Verification Required,45.04,Manual Verification Required
+Legitimate,SMS,0,42.34,Low Detected Risk,36.37,Manual Verification Required
+UPI Fraud,UPI,1,87.43,Potential Fraud,81.5,Potential Fraud
+Legitimate,WhatsApp,0,60.03,Manual Verification Required,28.25,Low Detected Risk
+Legitimate,Call,0,73.87,Manual Verification Required,33.98,Low Detected Risk
+UPI Fraud,WhatsApp,1,83.38,Potential Fraud,70.07,Potential Fraud
+UPI Fraud,UPI,1,91.28,Potential Fraud,78.43,Potential Fraud
+Digital Arrest,Call,1,75.06,Manual Verification Required,51.61,Potential Fraud
+Legitimate,Call,0,70.74,Manual Verification Required,31.1,Low Detected Risk
+Legitimate,WhatsApp,0,69.56,Manual Verification Required,30.61,Low Detected Risk
+UPI Fraud,WhatsApp,1,80.67,Potential Fraud,64.4,Potential Fraud
+Legitimate,SMS,0,43.07,Low Detected Risk,13.78,Low Detected Risk
+Legitimate,SMS,0,71.33,Manual Verification Required,47.78,Manual Verification Required
+Legitimate,SMS,0,49.8,Low Detected Risk,19.71,Low Detected Risk
+Digital Arrest,Call,1,84.57,Potential Fraud,61.17,Potential Fraud
+UPI Fraud,WhatsApp,1,82.2,Potential Fraud,64.62,Potential Fraud
+Digital Arrest,Call,1,54.1,Manual Verification Required,28.47,Low Detected Risk
+Digital Arrest,WhatsApp,1,88.53,Potential Fraud,81.49,Potential Fraud
+Digital Arrest,SMS,1,90.73,Potential Fraud,90.82,Potential Fraud
+Courier Fraud,SMS,1,75.99,Manual Verification Required,57.12,Potential Fraud
+KYC Fraud,WhatsApp,1,84.03,Potential Fraud,74.0,Potential Fraud
+Legitimate,UPI,0,61.21,Manual Verification Required,21.73,Low Detected Risk
+Legitimate,SMS,0,2.82,Low Detected Risk,4.02,Low Detected Risk
+UPI Fraud,Call,1,76.44,Potential Fraud,67.37,Potential Fraud
+UPI Fraud,UPI,1,89.1,Potential Fraud,68.76,Potential Fraud
+Courier Fraud,WhatsApp,1,90.09,Potential Fraud,75.93,Potential Fraud
+Legitimate,SMS,0,17.69,Low Detected Risk,7.75,Low Detected Risk
+Legitimate,SMS,0,80.01,Potential Fraud,40.76,Manual Verification Required
+Legitimate,SMS,0,27.66,Low Detected Risk,9.77,Low Detected Risk
+KYC Fraud,Call,1,91.46,Potential Fraud,86.85,Potential Fraud
+Legitimate,SMS,0,29.54,Low Detected Risk,12.96,Low Detected Risk
+Legitimate,Call,0,57.49,Manual Verification Required,41.07,Manual Verification Required
+Legitimate,SMS,0,15.54,Low Detected Risk,10.92,Low Detected Risk
+Legitimate,SMS,0,60.29,Manual Verification Required,25.79,Low Detected Risk
+Digital Arrest,WhatsApp,1,83.18,Potential Fraud,62.68,Potential Fraud
+KYC Fraud,SMS,1,91.46,Potential Fraud,79.72,Potential Fraud
+Legitimate,WhatsApp,0,33.18,Low Detected Risk,16.63,Low Detected Risk
+UPI Fraud,Call,1,82.35,Potential Fraud,67.23,Potential Fraud
+Courier Fraud,Call,1,83.0,Potential Fraud,79.72,Potential Fraud
+Legitimate,Call,0,66.19,Manual Verification Required,28.07,Low Detected Risk
+Courier Fraud,WhatsApp,1,96.04,Potential Fraud,89.04,Potential Fraud
+Digital Arrest,WhatsApp,1,89.73,Potential Fraud,66.09,Potential Fraud
+KYC Fraud,Call,1,80.46,Potential Fraud,64.19,Potential Fraud
+Legitimate,SMS,0,15.59,Low Detected Risk,6.46,Low Detected Risk
+Courier Fraud,WhatsApp,1,76.74,Potential Fraud,60.11,Potential Fraud
+KYC Fraud,Call,1,85.0,Potential Fraud,68.03,Potential Fraud
+Legitimate,SMS,0,66.71,Manual Verification Required,47.0,Manual Verification Required
+Digital Arrest,Call,1,79.94,Potential Fraud,73.93,Potential Fraud
+Legitimate,UPI,0,39.98,Low Detected Risk,21.41,Low Detected Risk
+Legitimate,Call,0,60.2,Manual Verification Required,26.41,Low Detected Risk
+Legitimate,SMS,0,53.46,Manual Verification Required,19.38,Low Detected Risk
+Legitimate,UPI,0,14.02,Low Detected Risk,9.09,Low Detected Risk
+Legitimate,Call,0,54.39,Manual Verification Required,37.5,Manual Verification Required
+Legitimate,SMS,0,27.66,Low Detected Risk,10.4,Low Detected Risk
+UPI Fraud,UPI,1,91.03,Potential Fraud,79.82,Potential Fraud
+Legitimate,WhatsApp,0,33.65,Low Detected Risk,10.25,Low Detected Risk
+Legitimate,SMS,0,55.7,Manual Verification Required,20.61,Low Detected Risk
+Legitimate,WhatsApp,0,47.65,Low Detected Risk,17.51,Low Detected Risk
+Legitimate,WhatsApp,0,30.11,Low Detected Risk,10.87,Low Detected Risk
+Digital Arrest,Call,1,89.14,Potential Fraud,71.78,Potential Fraud
+Legitimate,WhatsApp,0,56.45,Manual Verification Required,26.15,Low Detected Risk
+UPI Fraud,SMS,1,91.35,Potential Fraud,83.5,Potential Fraud
+Courier Fraud,SMS,1,60.6,Manual Verification Required,57.5,Potential Fraud
+Legitimate,SMS,0,6.29,Low Detected Risk,4.99,Low Detected Risk
+Digital Arrest,Call,1,82.54,Potential Fraud,55.35,Potential Fraud
+Legitimate,UPI,0,67.73,Manual Verification Required,21.92,Low Detected Risk
+Legitimate,WhatsApp,0,28.44,Low Detected Risk,14.22,Low Detected Risk
+Legitimate,WhatsApp,0,80.69,Potential Fraud,27.94,Low Detected Risk
+Legitimate,UPI,0,53.82,Manual Verification Required,17.01,Low Detected Risk
+Courier Fraud,WhatsApp,1,73.19,Manual Verification Required,62.89,Potential Fraud
+Legitimate,SMS,0,26.57,Low Detected Risk,13.03,Low Detected Risk
+Legitimate,SMS,0,37.72,Low Detected Risk,13.97,Low Detected Risk
+Digital Arrest,SMS,1,78.75,Potential Fraud,69.17,Potential Fraud
+KYC Fraud,WhatsApp,1,86.38,Potential Fraud,74.69,Potential Fraud
+Digital Arrest,WhatsApp,1,91.68,Potential Fraud,77.02,Potential Fraud
+KYC Fraud,SMS,1,91.22,Potential Fraud,84.03,Potential Fraud
+KYC Fraud,SMS,1,86.11,Potential Fraud,64.89,Potential Fraud
+Digital Arrest,Call,1,87.65,Potential Fraud,77.32,Potential Fraud
+KYC Fraud,Call,1,71.91,Manual Verification Required,44.32,Manual Verification Required
+Courier Fraud,Call,1,79.14,Potential Fraud,64.36,Potential Fraud
+Courier Fraud,Call,1,93.01,Potential Fraud,85.42,Potential Fraud
+Legitimate,WhatsApp,0,85.26,Potential Fraud,46.11,Manual Verification Required
+Legitimate,UPI,0,48.72,Low Detected Risk,18.14,Low Detected Risk
+Courier Fraud,Call,1,86.5,Potential Fraud,72.81,Potential Fraud
+KYC Fraud,WhatsApp,1,91.4,Potential Fraud,83.38,Potential Fraud
+KYC Fraud,Call,1,81.56,Potential Fraud,67.44,Potential Fraud
+Legitimate,WhatsApp,0,56.84,Manual Verification Required,14.19,Low Detected Risk
+Legitimate,UPI,0,79.47,Potential Fraud,45.95,Manual Verification Required
